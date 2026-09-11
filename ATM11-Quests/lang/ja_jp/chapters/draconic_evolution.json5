@@ -1,0 +1,479 @@
+{
+  "quest.0000A88BB40B2149.quest_desc": [
+    "&6カオスアイランド&rに行く前に準備をおすすめします。彼はエンダードラゴンに見えますが、はるかに強いです。ダメージの大きいドラコニック武器やツールがあると楽になります。また、アンオブタニウムやメカスーツなどの良い防具も推奨します。(再生、衝撃吸収、耐性の効果も生存に役立ちます)。準備ができていなければ、いつでも別の日に再挑戦できます。"
+  ],
+  "quest.0000A88BB40B2149.title": "強いので準備が必要",
+  "quest.01612963DBBAC9A1.quest_desc": [
+    "これがあなたを守ってくれるはずです。"
+  ],
+  "quest.01612963DBBAC9A1.title": "カオティックチェストプレート",
+  "quest.0252B8F77A038D17.title": "ワイバーン自動給餌モジュール",
+  "quest.04695DA1BD3BF1B2.title": "カオティックダメージモジュール",
+  "quest.0499A372F55D04C8.title": "ドラコニック弾速モジュール",
+  "quest.04BF68E4554D69AA.quest_desc": [
+    "最後にして最高のティア8です！覚醒ドラコニウムブロック378個とドラコニウムインゴットブロック786個が必要です！価値はあるでしょうか？",
+    "{image:atm:textures/questpics/draconic/draconic_core_8off.png width:100 height:100 align:1}",
+    "{image:atm:textures/questpics/draconic/draconic_core_8on.png width:100 height:100 align:1}"
+  ],
+  "quest.04BF68E4554D69AA.quest_subtitle": "貯蔵: ほぼ無限",
+  "quest.04BF68E4554D69AA.title": "ティア8",
+  "quest.052E261F934AB439.quest_desc": [
+    "通路も作れます！"
+  ],
+  "quest.052E261F934AB439.title": "カオティックシャベル",
+  "quest.070F8045CC14B50D.title": "ドラコニック弾貫通モジュール",
+  "quest.0817FD6E45C127E8.quest_desc": [
+    "技術的には任意ですが推奨します！パイロンを増やすとより多く入出力できるようになります！"
+  ],
+  "quest.0817FD6E45C127E8.title": "パイロンを増やす(任意)",
+  "quest.0AE8B51D63327EC3.title": "カオティックシールド回復モジュール",
+  "quest.0AE930BA037DC565.quest_desc": [
+    "モジュールのクエストでDEアイテムの使い方とアップグレードを学べます！普通の弓と同じく矢を射ます。射るたびに弓本体のエネルギーを消費するので、少なくともエネルギーモジュールが必要です。"
+  ],
+  "quest.0AE930BA037DC565.title": "ワイバーンボウ",
+  "quest.0E487EACA837EA9B.title": "カオティックシールド制御モジュール",
+  "quest.10690FDB9E892250.quest_desc": [
+    "モジュールのクエストでDEアイテムの使い方とアップグレードを学べます！振って攻撃するだけです。もう、剣ですからこれ以上説明できません。"
+  ],
+  "quest.10690FDB9E892250.title": "ワイバーンソード",
+  "quest.106D08542AAFA166.quest_desc": [
+    "戦闘の第一段階はカオスガーディアンのシールドを維持するクリスタルを破壊することです。破壊するまで彼にダメージを与えられません。ドラコニック武器なしでクリスタルを壊すのは容易ではありません。カオスガーディアンの火球はシールドを弱め、破壊可能にします。(彼に撃たせる/クリスタルに当てる必要があります)。ダメージ可能になるとパーティクルが出て、当てると音が鳴ります。破壊が近づくほど音が低く、クリスタルが暗くなります。破壊したらようやく彼にダメージを与えられます！",
+    "{image:atm:textures/questpics/draconic/draconic_end_crystal.png width:150 height:100 align:1}"
+  ],
+  "quest.106D08542AAFA166.title": "ガーディアンクリスタル14個を探して破壊せよ",
+  "quest.10E4ADA1D0063EB7.title": "カオティック弾速モジュール",
+  "quest.120B403D56EE5C79.title": "ワイバーンエネルギーモジュール",
+  "quest.12469CC0CCFBA1C5.quest_desc": [
+    "最高の剣+最速のツルハシ+シャベル？！これ以上何を望みますか！"
+  ],
+  "quest.12469CC0CCFBA1C5.title": "カオティックスタッフ",
+  "quest.129E09C03E40BA57.quest_desc": [
+    "リアクターは覚醒ドラコニウムを燃料にします。効率は良いので安心を！燃料変換は覚醒ドラコニウムがカオスに変わるタイミングを決めます。一度に8ブロックまでで、燃料の補給はリアクター停止中のみ可能です。SASモードを使うと楽になります！燃料は右下のスロットに入れます。"
+  ],
+  "quest.129E09C03E40BA57.title": "リアクターの燃料",
+  "quest.12BDE512C734D19A.quest_desc": [
+    "ドラコニウムコアはDraconic Evolutionの多くのレシピ、特に基本ティアのアイテムに欠かせない材料です。"
+  ],
+  "quest.12BDE512C734D19A.title": "基本(ドラコニウム)コア",
+  "quest.131AA933D59D3017.quest_desc": [
+    "ティア5にはドラコニウムインゴットブロック90個とレッドストーンブロック80個、そしてアドバンスドスタビライザー4個またはスタビライザー36個が必要です。",
+    "{image:atm:textures/questpics/draconic/draconic_core_5off.png width:100 height:100 align:1}",
+    "{image:atm:textures/questpics/draconic/draconic_core_5on.png width:100 height:100 align:1}"
+  ],
+  "quest.131AA933D59D3017.quest_subtitle": "貯蔵: 59,300,000,000 RF",
+  "quest.131AA933D59D3017.title": "ティア5",
+  "quest.154D9EA863FD2A32.title": "カオティック弾貫通モジュール",
+  "quest.164BBBD98163F64C.quest_desc": [
+    "モジュールのクエストでDEアイテムの使い方とアップグレードを学べます！耕地を作ったり、お金を取ったり…あ、マイクラのクワでしたね。別のものを想像していました。"
+  ],
+  "quest.164BBBD98163F64C.title": "ワイバーンクワ",
+  "quest.165030137EF59299.title": "ワイバーン範囲効果モジュール",
+  "quest.166D2A191871F80E.quest_desc": [
+    "ワイバーンツルハシのアップグレード版です。"
+  ],
+  "quest.166D2A191871F80E.title": "ドラコニックツルハシ",
+  "quest.16FF2219F110F50A.quest_desc": [
+    "不死モジュールはリカバリートーテムのような役割を果たします！ハートが0になると死亡せず発動し、衝撃吸収と再生を与えて命を救います。クールダウンがあり、再発動にはOPが必要です。その間は死なないように！アップグレードを良くするとクールダウンが短くなります。"
+  ],
+  "quest.16FF2219F110F50A.title": "ワイバーン不死モジュール",
+  "quest.1830412AB77E9526.quest_desc": [
+    "弓のような原始的な武器では完璧な精度は期待できません。このモジュールを使えば別です。矢が的を外れにくくなります。"
+  ],
+  "quest.1830412AB77E9526.title": "ワイバーン弾精度モジュール",
+  "quest.1A53B6544782442E.quest_desc": [
+    "シールド制御は実際のシールドの種類と再生タイミングを変更します。"
+  ],
+  "quest.1A53B6544782442E.title": "ワイバーンシールド制御モジュール",
+  "quest.1C8210712349A2E3.quest_desc": [
+    "単純な話、斧と剣のダメージを増やします。そう、重ねがけできます！"
+  ],
+  "quest.1C8210712349A2E3.title": "基本ダメージモジュール",
+  "quest.1D3E2363CFD4C5E0.quest_desc": [
+    "フュージョンクラフトにはインジェクターで決まるティアがあります。順に: ドラコニウム(区別のため基本と呼びます)、ワイバーン、ドラコニック、カオティック。インジェクターはフュージョンコアの左右、数ブロック離して設置します。コアの各側に最大5個まで十字形に置けます。エネルギー供給はリレーIOクリスタルを接続すると機能します。詳しくはクリスタルバインドを参照してください。"
+  ],
+  "quest.1D3E2363CFD4C5E0.title": "基本ティア",
+  "quest.1E41A5071854DEC8.title": "ワイバーンダメージモジュール",
+  "quest.1F7D147C9AF6A4FC.quest_desc": [
+    "ティア4は少し特殊です。まずコアをレッドストーンブロック26個で囲みます。その上にドラコニウムインゴットブロック56個が必要です。",
+    "{image:atm:textures/questpics/draconic/draconic_core_4off.png width:100 height:100 align:1}",
+    "{image:atm:textures/questpics/draconic/draconic_core_4on.png width:100 height:100 align:1}"
+  ],
+  "quest.1F7D147C9AF6A4FC.quest_subtitle": "貯蔵: 9,880,000,000 RF",
+  "quest.1F7D147C9AF6A4FC.title": "ティア4",
+  "quest.20D8DA523E900A52.quest_desc": [
+    "ワイヤレスエナジーリンクは、ワイヤレスクリスタルでアイテムを充電できるようにします。モジュールが多いほど多く、より良いレートで充電できます。"
+  ],
+  "quest.20D8DA523E900A52.title": "ワイヤレスエナジーリンク",
+  "quest.2158A566C2F54AA9.title": "ドラコニックシールド制御モジュール",
+  "quest.22D383BAEF8A2B39.quest_desc": [
+    "伝説のパクセル(ツルハシ+斧+シャベル)をご存知ですか？これも似ていて、剣+ツルハシ+シャベルの組み合わせです！ドラコニックツールのすべてができます！"
+  ],
+  "quest.22D383BAEF8A2B39.title": "ドラコニックスタッフ",
+  "quest.236C936FE3BA8396.title": "カオティック飛行モジュール",
+  "quest.265D0DB0E8CED73B.title": "ドラコニック弾重力補正モジュール",
+  "quest.26DF1427AC3966DE.quest_desc": [
+    "とても楽しくてOPなMOD、Draconic Evolutionへようこそ！始めるにはドラコニック鉱石を採掘してドラコニックダストを得ます。すべての(バニラ)次元に湧きますが、エンドが最多です！"
+  ],
+  "quest.26DF1427AC3966DE.title": "Draconic Evolution",
+  "quest.285656AF1F870AF8.quest_desc": [
+    "基本ティアの2つの注入のひとつですが、ドラコニウムチェストを侮ってはいけません。ラージチェストより広く、精錬とクラフトができ、さらには色まで変えられます！どのMODでも一番好きなチェストです！"
+  ],
+  "quest.285656AF1F870AF8.title": "ドラコニウムチェスト",
+  "quest.28AF8DD34412CBAA.title": "ドラコニックスピードモジュール",
+  "quest.295EB6CFEC029AE2.quest_desc": [
+    "まずOPが必要なアイテム(Wyvern Bow、Chaotic Capacitor、Staff of Powerなど)を用意します。次にアイテムにエネルギーモジュールを入れると、OPの貯蔵量が決まり、それを使って強化します。準備できたらエナジートランスフューザーを作って設置し、OPを入れ、アイテムを入れます！OPが光って動けば成功です。"
+  ],
+  "quest.295EB6CFEC029AE2.title": "アイテムにOPを追加する",
+  "quest.2A5C5B44E9643A5D.title": "カオティックスピードモジュール",
+  "quest.2AA08313F927981E.title": "ワイバーンスピードモジュール",
+  "quest.2AAE61752728EA8D.quest_desc": [
+    "「落下中」は採掘が遅くなります。クリエイティブ飛行や水面の跳ねも含まれます。幸い、エアアフィニティのエンチャントで無効化できます！バニラにはないエンチャントですが便利です！あ、モジュールの話でしたね…同じことです！"
+  ],
+  "quest.2AAE61752728EA8D.title": "採掘安定モジュール",
+  "quest.2B6D71DAF72EAFA4.quest_desc": [
+    "キャパシターはDraconic Evolutionのバッテリーです。実際にエネルギーを保持するにはエネルギーモジュールが必要です。多いほど良い！"
+  ],
+  "quest.2B6D71DAF72EAFA4.title": "ワイバーンキャパシター",
+  "quest.2D9AF97C03C5AEC7.quest_desc": [
+    "ティア5〜8にはアドバンスドスタビライザーが必要です。アドバンスドスタビライザーとは？9個のスタビライザーを3x1x3に並べたものです。正しく作ると円形に変化します！通常のスタビライザーと同じ要領で作れます。"
+  ],
+  "quest.2D9AF97C03C5AEC7.title": "アドバンスドスタビライザー",
+  "quest.2DB2A4A1182FE0BB.quest_desc": [
+    "ティア6にはドラコニウムインゴットブロック150個とレッドストーンブロック178個(スタビライザー36個も忘れずに)が必要です。",
+    "{image:atm:textures/questpics/draconic/draconic_core_6off.png width:100 height:100 align:1}",
+    "{image:atm:textures/questpics/draconic/draconic_core_6on.png width:100 height:100 align:1}"
+  ],
+  "quest.2DB2A4A1182FE0BB.quest_subtitle": "貯蔵: 356,000,000,000 RF",
+  "quest.2DB2A4A1182FE0BB.title": "ティア6",
+  "quest.2E74B5149D4BD0A0.quest_desc": [
+    "基本(エナジーリレー)クリスタルはDraconic Evolutionでエネルギーを移動する第一歩です！"
+  ],
+  "quest.2E74B5149D4BD0A0.title": "基本エナジーリレークリスタル",
+  "quest.30F97EB743B0A07F.quest_desc": [
+    "モジュールのクエストでDEアイテムの使い方とアップグレードを学べます！ワイバーンアックスは戦闘アップデート後のマイクラの斧に似ており、武器としても木こりツールとしても使えます。"
+  ],
+  "quest.30F97EB743B0A07F.title": "ワイバーンアックス",
+  "quest.3235FBD9CE21D5EE.quest_desc": [
+    "モジュールのクエストでDEアイテムの使い方とアップグレードを学べます！ワイバーンシャベルが気になるのは分かります。もう眠れない夜は必要ありません。DEのシャベルは通路を作れるのです！"
+  ],
+  "quest.3235FBD9CE21D5EE.title": "ワイバーンシャベル",
+  "quest.32EBB3D53AA91E09.quest_desc": [
+    "暗視テクスチャパックを使うチーターでない限り、暗闇は少し不安かもしれません。幸い、DEのチェストプレートに暗視モジュールを入れると、暗闇で見えない恐怖を克服できます。暗闇の中身の恐怖は別ですが…"
+  ],
+  "quest.32EBB3D53AA91E09.title": "暗視モジュール",
+  "quest.33D2901594655A77.title": "カオティック範囲効果モジュール",
+  "quest.34D3F6D54F5B26C2.quest_desc": [
+    "アップグレードされたクワ、つまり素敵で優しい女性ということ？"
+  ],
+  "quest.34D3F6D54F5B26C2.title": "ドラコニッククワ",
+  "quest.35767977FB9E0B1B.quest_desc": [
+    "ティア2にはドラコニウムインゴットブロック6個(コアの各側に1個)と、もちろんスタビライザー4個が必要です。",
+    "{image:atm:textures/questpics/draconic/draconic_core_2off.png width:100 height:100 align:1}",
+    "{image:atm:textures/questpics/draconic/draconic_core_2on.png width:100 height:100 align:1}"
+  ],
+  "quest.35767977FB9E0B1B.quest_subtitle": "貯蔵: 273,000,000 RF",
+  "quest.35767977FB9E0B1B.title": "ティア2",
+  "quest.35A674E2C6F66673.title": "カオティック弾精度モジュール",
+  "quest.366431661CC43A6E.quest_desc": [
+    "このクエストは&6AllTheModsスタッフ&rまたは&2コミュニティ貢献者&rがAllTheMods MODパック用に作成したものです。",
+    "すべての&6AllTheMods&rパックは&eAll Rights Reserved&rライセンスのため、このクエストは&6AllTheModsチーム&rがリリースしたもの以外の公開パックで、明示的な許可なく使用できません。",
+    "",
+    "",
+    "",
+    "このクエストは意図的に非表示です。表示されているなら編集モードです。"
+  ],
+  "quest.36DAFC3FECC67406.quest_desc": [
+    "DE最高のエネルギー電池です。"
+  ],
+  "quest.36DAFC3FECC67406.title": "カオティックキャパシター",
+  "quest.36F123B2A6B52A01.quest_desc": [
+    "より多くのエネルギーを移動でき、リンク数も増えます。最高レベルのエナジークリスタルです。"
+  ],
+  "quest.36F123B2A6B52A01.title": "ドラコニックエナジーリレークリスタル",
+  "quest.37241E2E0EFE5B71.title": "まだここにはない",
+  "quest.3765485408041FC6.quest_desc": [
+    "モジュールのクエストでDEアイテムの使い方とアップグレードを学べます！ツルハシは通常のティア6ツルハシとして機能します。石からアンオブタニウムまで全レベルを採掘できます。採掘したアイテムは自動でインベントリに入ります。"
+  ],
+  "quest.3765485408041FC6.title": "ワイバーンツルハシ",
+  "quest.376D154F27A00BCD.quest_desc": [
+    "物理学とDEはなぜ裏切るのか…？重力は射た矢を時間と共に下に引きます。重力補正があればその心配が減ります。"
+  ],
+  "quest.376D154F27A00BCD.title": "ワイバーン弾重力補正モジュール",
+  "quest.37CC51B689CB8A40.quest_desc": [
+    "チェストプレートはメカスーツに似ています。受けるはずのダメージは無効化され、代わりにシールドから引かれます。シールド容量は保持できる量、充電速度は回復の速さで、充電にはOPを使います。"
+  ],
+  "quest.37CC51B689CB8A40.title": "ワイバーンシールド容量モジュール",
+  "quest.389655CD41C7A691.quest_desc": [
+    "ティア1はコアとスタビライザー4個だけで作れます。",
+    "{image:atm:textures/questpics/draconic/draconic_core_1off.png width:100 height:100 align:1}",
+    "{image:atm:textures/questpics/draconic/draconic_core_1on.png width:100 height:100 align:1}"
+  ],
+  "quest.389655CD41C7A691.quest_subtitle": "貯蔵: 45,500,000 RF",
+  "quest.389655CD41C7A691.title": "ティア1",
+  "quest.38AD547C36BDF4C4.title": "ドラコニック弾精度モジュール",
+  "quest.39865681B03CABAA.quest_desc": [
+    "水は少し粘性があり、少なくとも空気より密度が高いです。そのため水中採掘は遅くなります。アクアアフィニティのエンチャントか、このモジュールを使いましょう。お好みで！"
+  ],
+  "quest.39865681B03CABAA.title": "水中適応モジュール",
+  "quest.39AF9B1A996DA949.quest_desc": [
+    "ネザライトの剣のようなものですが、ずっと良くてかっこいい！"
+  ],
+  "quest.39AF9B1A996DA949.title": "カオティックソード",
+  "quest.3B4CEE8A8CE0D6CB.quest_desc": [
+    "もう少し！ティア7です。ドラコニウムインゴット210個とレッドストーンブロック328個！",
+    "{image:atm:textures/questpics/draconic/draconic_core_7off.png width:100 height:100 align:1}",
+    "{image:atm:textures/questpics/draconic/draconic_core_7on.png width:100 height:100 align:1}"
+  ],
+  "quest.3B4CEE8A8CE0D6CB.quest_subtitle": "貯蔵: 2,140,000,000,000 RF",
+  "quest.3B4CEE8A8CE0D6CB.title": "ティア7",
+  "quest.3BE3B54B4A681668.quest_desc": [
+    "ここが分かれ目です。トラックのように(ただしずっと遅く)敵を傷つけたいですか？それとも剣を使う普通の人になりたいですか？"
+  ],
+  "quest.3BE3B54B4A681668.title": "カオティックアックス",
+  "quest.3CB8F5F1D33C8F9F.quest_desc": [
+    "前のクエストと同じですが、もっと、ずっと多く。"
+  ],
+  "quest.3CB8F5F1D33C8F9F.title": "ワイバーン大容量シールドモジュール",
+  "quest.3DF794EBCAA7AE1A.title": "ドラコニックツリーハーベスター",
+  "quest.3FD19A001899D8C6.quest_desc": [
+    "これは滑空と実際の飛行、正確にはクリエイティブ飛行を与えます。"
+  ],
+  "quest.3FD19A001899D8C6.title": "ドラコニック飛行モジュール",
+  "quest.40F34EBE09DA7752.quest_desc": [
+    "自動給餌は空腹時にインベントリの食べ物を自動で食べさせます。最大食料ポイントの貯蔵があり、満腹バー1本=2ポイントです。基本のものはステーキ8個分しか保持できません。"
+  ],
+  "quest.40F34EBE09DA7752.title": "基本自動給餌モジュール",
+  "quest.41BD497108CA109F.quest_desc": [
+    "覚醒ドラコニウムはブロックをフュージョンクラフトして得ます。ブロックは9インゴットに戻せます。Draconic Evolutionで2番目に重要なインゴットで、ワイバーンとドラコニックティアに必須です。"
+  ],
+  "quest.41BD497108CA109F.title": "覚醒ドラコニウム",
+  "quest.421954D7D46FAAD6.quest_desc": [
+    "エネルギーコアスタビライザーは…コアを安定させる？最初の4ティアではコアの周りに4個だけでOKです。スタビライザーからコアのGUIにもアクセスできます。コアに近すぎたり位置が悪いと、正しくないと表示されます。"
+  ],
+  "quest.421954D7D46FAAD6.title": "エネルギーコアスタビライザー",
+  "quest.43C2B07AB25C708E.quest_desc": [
+    "ワイバーンボウのアップグレード版です。"
+  ],
+  "quest.43C2B07AB25C708E.title": "ドラコニックボウ",
+  "quest.45EE60207C466D6C.quest_desc": [
+    "Draconic Evolutionを進めるにはカオスシャードが必要です。カオスシャードはエンドのカオスアイランドにあり、カオスガーディアンが守っています。エンドのX/Z座標が10kの倍数の場所(10k,10k / 10k,20k / 20k,20kなど)へ行きましょう。"
+  ],
+  "quest.45EE60207C466D6C.quest_subtitle": "カオスアイランドの探し方",
+  "quest.45EE60207C466D6C.title": "彼はどこ？",
+  "quest.4638F21544D6D337.title": "カオスもつれ量子エナジートンネル",
+  "quest.46C816844C513D5D.quest_desc": [
+    "ワイバーンシャベルのアップグレード版です。"
+  ],
+  "quest.46C816844C513D5D.title": "ドラコニックシャベル",
+  "quest.4903BDC389C73082.title": "ドラコニック弾ダメージモジュール",
+  "quest.4A3A5684302C8627.title": "カオティックシールド容量モジュール",
+  "quest.4AAADEC52D16461A.quest_desc": [
+    "基本的に自動ジャンプをオンにします。個人的には好きですが、使うかはあなた次第！"
+  ],
+  "quest.4AAADEC52D16461A.title": "丘ステップモジュール",
+  "quest.4AB564420C48579B.quest_desc": [
+    "Draconic Evolutionは、内蔵シールド付きのチェストプレート1枚で済むのに全身を哀れな防具で覆う必要を感じていません。あ、内蔵ではなくモジュールが必要でしたね…すみません。"
+  ],
+  "quest.4AB564420C48579B.title": "ワイバーンチェストプレート",
+  "quest.4ABEF61DADBD0640.quest_desc": [
+    "ほとんどの弓はセミオートで、弦を引いて離し矢を装填して繰り返します。これを飛ばして、引き切るたび自動で発射させましょう。右クリックを押しっぱなしにするだけ！"
+  ],
+  "quest.4ABEF61DADBD0640.title": "自動発射モジュール",
+  "quest.4B7840F1A8CF1378.quest_desc": [
+    "フュージョンクラフトでほとんどの(少なくとも楽しい)アイテムを作ります。始めるにはフュージョンコアを作り、地面から1ブロックほど上に置きます。コアはJEIからレシピを自動配置でき、中央のアイテムと完成品を置く場所です。数ブロック離した2方向にインジェクターをコアへ向けて設置します。次のクエストで詳しく説明します。インジェクターにはエネルギーも必要で、クリスタルバインドのクエストで説明します。"
+  ],
+  "quest.4B7840F1A8CF1378.title": "フュージョンクラフト",
+  "quest.4B9FF9E972B0E530.quest_desc": [
+    "エナジーリンクやトンネルが良いほど多くのOPを転送できますが、エナジーリンクには欠点があります。次元間で動きません！ありがたいことに上位のものは可能です。相手側をチャンクロードしておいてください。"
+  ],
+  "quest.4B9FF9E972B0E530.title": "量子エナジートンネル",
+  "quest.4CD2ADD3601B8191.quest_desc": [
+    "シールドをほぼ死ぬときだけでなく戻したい？ならリカバリーモジュールが必要です。モジュールが多いほど早く回復します。"
+  ],
+  "quest.4CD2ADD3601B8191.title": "ワイバーンシールド回復モジュール",
+  "quest.4E27182763DA83DC.quest_desc": [
+    "ワイバーンチェストプレートのアップグレード版です。"
+  ],
+  "quest.4E27182763DA83DC.title": "ドラコニックチェストプレート",
+  "quest.4EFFE300EC781C3E.quest_desc": [
+    "モジュールはDEアイテムに非常に重要で、ないと動きません！ほとんどのモジュールはモジュールコアか以前のモジュールから作ります。アイテムを持ってShift+Cでモジュールメニューを開きます。スロットとボタンがあり、スロットにモジュールが入り、グリッドが入る数を決めます。1x1は1スロット、2x2は最大4スロットを使います。右側一番下のボタンで持っているアイテムに適用できるモジュールを確認できます。残りはGUIの見た目を変えるだけです。"
+  ],
+  "quest.4EFFE300EC781C3E.title": "モジュール！",
+  "quest.4F6A9F1AEFD535F5.title": "ドラコニック大容量シールドモジュール",
+  "quest.50013DD7370F8EDB.title": "カオティックジャンプモジュール",
+  "quest.5021D159A5EC2315.title": "ドラコニックエネルギーモジュール",
+  "quest.51CF09EC333DB1A3.quest_desc": [
+    "フュージョンクラフトでティアを上げるには、レシピに必要なインジェクターがそのティア以上である必要があります。例えばワイバーンアックスを作るなら、ワイバーンインジェクターが最低6個(各側3個)必要です。クラフトコアは変わりません！"
+  ],
+  "quest.51CF09EC333DB1A3.title": "ワイバーンティア",
+  "quest.529123A789D790E3.title": "ワイバーンジャンプモジュール",
+  "quest.52C301DF1776E0D8.title": "カオティック弾ダメージモジュール",
+  "quest.52C3F61D678B00F5.quest_desc": [
+    "カオティッククワ。昔そんな人と付き合っていました。"
+  ],
+  "quest.52C3F61D678B00F5.title": "カオティッククワ",
+  "quest.52EA9793A7100E75.title": "カオティック不死モジュール",
+  "quest.542AD6FD1927C3E6.title": "ドラコニック不死モジュール",
+  "quest.5443E15E226DFC86.quest_desc": [
+    "パイロンはエネルギーコアにOPを出し入れする手段です。コアの近くに2個(入力用と出力用、増やせます)置きます。その上にガラスを置くと自動で組み立てられ、最も近いコアを対象にします。形成された球を右クリックすると入力/出力を切り替えられます(矢印とデザインで分かります)。そこにクリスタルを接続するとOPを出し入れできます！"
+  ],
+  "quest.5443E15E226DFC86.title": "ここから力が出ていく",
+  "quest.54F78C9A945CF0E7.title": "カオティックエネルギーモジュール",
+  "quest.574E5806D1A98FE5.quest_desc": [
+    "エネルギーモジュールは最重要モジュールで、DEアイテムの使用に必要です。入っている量がアイテムのOP貯蔵量と取り込み量を決めます。充電についてはエナジーインフューザーを参照してください。ティアが高いほど多くのOPを保持・使用できます。アップグレードすると1回の使用で消費するOPが増えるため重要です。"
+  ],
+  "quest.574E5806D1A98FE5.title": "基本エネルギーモジュール",
+  "quest.5895B7FA5497BD68.quest_desc": [
+    "ワイバーンアックスのアップグレード版です。"
+  ],
+  "quest.5895B7FA5497BD68.title": "ドラコニックアックス",
+  "quest.594BBD31461F212D.title": "ドラコニックシールド回復モジュール",
+  "quest.5ADFC45B03BAB852.quest_desc": [
+    "これがドラコニックコアの用途です。"
+  ],
+  "quest.5ADFC45B03BAB852.title": "ドラコニックティア",
+  "quest.5BC6CC3C09F512A7.quest_desc": [
+    "リアクターコアはリアクターの最重要部品、つまりコアです！インジェクターとスタビライザーから5ブロック以上離して置き、右クリックでGUIを開きます。バー、球、ボタン、スロットがあります。バーは左から: 熱、封じ込めフィールド、エネルギー飽和、燃料変換。フィールドとエネルギーは学習済みで、燃料は次のクエストで説明します。熱は重要で、起動準備中は2000Cまで上がります。高すぎると…メルトダウン！球はコアの画像ですが、今はコアにテクスチャがないバグがあり説明できません。ボタンはGUIの外観変更、リアクターの起動/停止、充電に使います。",
+    "{image:atm:textures/questpics/draconic/draconic_reactor_off_down.png width:200 height:100 align:1}",
+    "{image:atm:textures/questpics/draconic/draconic_reactor_off_up.png width:150 height:150 align:1}"
+  ],
+  "quest.5BC6CC3C09F512A7.quest_subtitle": "無限の力",
+  "quest.5BC6CC3C09F512A7.title": "リアクターの建設",
+  "quest.5C2CF51D28F84CBE.quest_desc": [
+    "ここから本戦です。彼には2本の体力バーがあり、両方を0にするとカオスシャードが得られます。近づきすぎると火球の連射を食らうので注意！(ちなみに旧バージョンではカオスガーディアンはクリエイティブモードのプレイヤーも殺せました！今はできません)",
+    "{image:atm:textures/questpics/draconic/draconic_guardian.png width:150 height:100 align:1}"
+  ],
+  "quest.5C2CF51D28F84CBE.title": "カオスガーディアンを倒す",
+  "quest.5D87088E8D71DB9B.quest_desc": [
+    "IOクリスタルは互いに接続して電力を移動できるブロックです。接続するにはクリスタルバインダーでShift右クリックして片方を設定し、接続したいクリスタルを右クリックします。クリスタルを見ると「Input from block」か「Output to block」と表示されます。InputはOPを取り出す側、Outputは送り先です。"
+  ],
+  "quest.5D87088E8D71DB9B.title": "OPを移動する",
+  "quest.5E0D78B7B2CF1729.quest_desc": [
+    "ワイバーンティアなのにドラコニックアイテム？ドラコニックティアに行くにはドラコニックインジェクターが必要で、そのためにドラコニックコアが要るのです。理由が分かりましたか？"
+  ],
+  "quest.5E0D78B7B2CF1729.title": "ドラコニックコア",
+  "quest.5E671F1F370DDE43.title": "ドラコニック自動給餌モジュール",
+  "quest.5E8D527DE9D7DD46.quest_desc": [
+    "チェストプレートにこれを入れると滑空できます！エリトラを使うように(ただし防具を犠牲にせず)。私はこれを飛行ではなく「スタイリッシュな落下」と呼びます。"
+  ],
+  "quest.5E8D527DE9D7DD46.title": "ワイバーン飛行モジュール",
+  "quest.607337D8AA20FA18.quest_desc": [
+    "切り倒した木に接続している木もすべて一緒に伐採されます。"
+  ],
+  "quest.607337D8AA20FA18.title": "ワイバーンツリーハーベスター",
+  "quest.60C27206F1414DD6.quest_desc": [
+    "ニュートンのおかげで、作用には反作用があると知っています。矢がMobに当たるとMobの力が矢に加わり減速します。このモジュールがあれば別です。すべてのMobを紙のように扱うのではなく、存在しないかのように扱います。対象を貫通しても矢は減速しません。"
+  ],
+  "quest.60C27206F1414DD6.title": "弾減速無効モジュール",
+  "quest.61419D230687CBB5.quest_desc": [
+    "速度とはある方向への速さです。私たちの矢はガーディアンズ・オブ・ザ・ギャラクシーのものではないので、単に矢の速さのことです。アップグレードごとに弓から的までの時間が短くなります。代償に少し精度が落ちます。"
+  ],
+  "quest.61419D230687CBB5.title": "ワイバーン弾速モジュール",
+  "quest.655BE42CD5BB9D82.title": "ドラコニック範囲効果モジュール",
+  "quest.6601ACCDDF6CA5FF.quest_desc": [
+    "リアクターは10億OPまでしか保持できず、その量もすぐに達します。エネルギー飽和が100%になると熱が急上昇しメルトダウンの危険があります。起動には5億OPが必要で、フラックスゲートがOPの出入りを制限するのに役立ちます。(ちなみに1 RF = 1 OP)。ゲートはレッドストーンで作動し、OPの追加にも取り出しにも使えます。メルトダウンを防ぐにはエネルギーを取り出す必要があり、エネルギーコアに入れると良いでしょう！"
+  ],
+  "quest.6601ACCDDF6CA5FF.title": "起動の準備",
+  "quest.6616A62426ED4D15.quest_desc": [
+    "インジェクターはすべてのスタビライザーとは別の面に、コアと同じ軸上に設置する必要があります。ここからOPを送り込みます！起動してOPを作るには、エネルギー飽和を少し上げます。エネルギー飽和は貯蔵エネルギーであり、これから作られるエネルギーです。"
+  ],
+  "quest.6616A62426ED4D15.title": "リアクターエナジーインジェクター",
+  "quest.69396F87A09FBD85.quest_desc": [
+    "すべてのツルハシは同じ採掘ティアなので、アップグレードする理由は速度とスタッフの入手だけです。"
+  ],
+  "quest.69396F87A09FBD85.title": "カオティックツルハシ",
+  "quest.69986817D58AC8BE.quest_desc": [
+    "スタビライザーは封じ込めフィールド(リアクターコア周囲のフォースシールド)を形成します。リアクター稼働中に封じ込めシールドが0になるとメルトダウンが始まります。4つのスタビライザーはコアから5ブロック以上離し、コアと同じ軸上に置く必要があります。ここからリアクターのOPを出力しますが、出しすぎに注意！"
+  ],
+  "quest.69986817D58AC8BE.title": "リアクタースタビライザー",
+  "quest.6B0CD6732BE0E819.quest_desc": [
+    "まさにジャンプブーストです。"
+  ],
+  "quest.6B0CD6732BE0E819.title": "基本ジャンプモジュール",
+  "quest.6B8F2E05429C185F.quest_desc": [
+    "倒すとEXP、ドラゴンハート、そして最重要のカオスシャードが解放されます。雷が落ちる場所を探してその下を掘るとカオスシャードがあります。採掘すると5個のカオスシャードが得られ、小さなパーツにクラフトできます！",
+    "{image:atm:textures/questpics/draconic/draconic_shard.png width:150 height:100 align:1}"
+  ],
+  "quest.6B8F2E05429C185F.title": "カオスシャード",
+  "quest.6DBD81BA83B1D0A5.quest_desc": [
+    "さらなるOperation Potential！"
+  ],
+  "quest.6DBD81BA83B1D0A5.title": "ドラコニックキャパシター",
+  "quest.7081E9BF44EFBCB0.title": "カオティック大容量シールドモジュール",
+  "quest.710C7FEFAA6C0979.quest_desc": [
+    "ワイバーンソードのアップグレード版です。"
+  ],
+  "quest.710C7FEFAA6C0979.title": "ドラコニックソード",
+  "quest.713D3B3954E58C4A.quest_desc": [
+    "ティア3にはコアを完全に覆うドラコニウムインゴットブロック26個が必要です。",
+    "{image:atm:textures/questpics/draconic/draconic_core_3off.png width:100 height:100 align:1}",
+    "{image:atm:textures/questpics/draconic/draconic_core_3on.png width:100 height:100 align:1}"
+  ],
+  "quest.713D3B3954E58C4A.quest_subtitle": "貯蔵: 1,640,000,000 RF",
+  "quest.713D3B3954E58C4A.title": "ティア3",
+  "quest.7143CE930D08F160.quest_desc": [
+    "範囲効果(AOE)は多くのゲーマーが知る言葉です。基本的にツールの作業範囲を拡大します。3x3 AOEのツルハシは3x3範囲を採掘します。3x3 AOEの剣はその範囲内のMobすべてを攻撃します。アップグレードが良いほど範囲が広がります。重ねがけはできません！"
+  ],
+  "quest.7143CE930D08F160.title": "基本範囲効果モジュール",
+  "quest.715F9F7107374299.quest_desc": [
+    "ワイバーン(エナジーリレー)クリスタル。基本クリスタルと同じですが、より多くのエネルギーとリンクを持ちます。"
+  ],
+  "quest.715F9F7107374299.title": "ワイバーンエナジーリレークリスタル",
+  "quest.731A70C25C2C7281.quest_desc": [
+    "このツールで得たアイテムがエンダーチェストに入ります。MODのものではなくバニラのエンダーチェストです。"
+  ],
+  "quest.731A70C25C2C7281.title": "エンダー回収モジュール",
+  "quest.7496B2380A23FDC6.title": "カオティックツリーハーベスター",
+  "quest.74C715F8F24B8BAE.quest_desc": [
+    "同じですがフィルタリングオプション付き。"
+  ],
+  "quest.74C715F8F24B8BAE.title": "フィルター可能エンダー回収モジュール",
+  "quest.75F0405FFAB9C080.quest_desc": [
+    "最後のティア、カオティックティアに必要です。カオスシャードの入手方法を説明したクエスト分岐を進めていることを願います！"
+  ],
+  "quest.75F0405FFAB9C080.title": "カオティックコア",
+  "quest.76064465104B1C28.title": "ドラコニックシールド容量モジュール",
+  "quest.763EB5C911D7E78C.quest_desc": [
+    "注入クラフトの最終地点、カオティックティアです。ここまで来ればすべてを作れます。ツールだけでなくリアクターに必要なものもすべて。"
+  ],
+  "quest.763EB5C911D7E78C.title": "カオティックティア",
+  "quest.78FBB0C88182040E.quest_desc": [
+    "1.13以降をプレイしていなければ混乱するかもしれませんが、クロスボウと貫通をご存知ですか？矢が複数の対象を貫き、ダメージを与え続けるエンチャントです。このモジュールはまさにそれです！"
+  ],
+  "quest.78FBB0C88182040E.title": "ワイバーン弾貫通モジュール",
+  "quest.79886D63280DBBF3.quest_desc": [
+    "フィルタリングでは足りない？！アイテムを破壊したい？！この怪物め！"
+  ],
+  "quest.79886D63280DBBF3.title": "選択焼却モジュール",
+  "quest.79FC674836B6340E.title": "ドラコニックジャンプモジュール",
+  "quest.7A4ABFCD12202A91.quest_desc": [
+    "Operational PotentialはDraconic Evolutionのエネルギー源です。OPを移動する主な方法(唯一ではない)はIOリレークリスタルです。アイテムにOPを入れるにはエナジートランスファーが必要です。"
+  ],
+  "quest.7A4ABFCD12202A91.title": "エネルギー、別名OPとは？",
+  "quest.7B9F5EEC76FDD0D4.title": "ドラコニックダメージモジュール",
+  "quest.7C54581562D2EA75.quest_desc": [
+    "スピードモジュールは楽しく、ほぼ何にでも入り速度を上げます！剣は速く振れ、ツルハシは速く掘れ、斧は速く切り、弓は速く射て、チェストプレートは移動を速くします。良いモジュールほど速くなります！(ちなみにほとんどのステータスは重複します。基本スピードモジュール2個なら速度+20%です！)"
+  ],
+  "quest.7C54581562D2EA75.title": "基本スピードモジュール",
+  "quest.7D159D333B2AC57E.quest_desc": [
+    "5億OP？OK。燃料？OK。熱が2000C？OK。起動ボタンを押してメルトダウンしないことを祈りましょう！",
+    "{image:atm:textures/questpics/draconic/draconic_reactor_on_down.png width:200 height:100 align:1}",
+    "{image:atm:textures/questpics/draconic/draconic_reactor_on_up.png width:150 height:150 align:1}"
+  ],
+  "quest.7D159D333B2AC57E.quest_subtitle": "さあ祈りましょう…",
+  "quest.7D159D333B2AC57E.title": "リアクターの起動",
+  "quest.7D7E4C31DFE59E29.quest_desc": [
+    "これらのモジュールは前述と違いDEの弓専用です。弾ダメージモジュールは弓の矢のダメージを増やします。一部のモジュールには副作用があり、これらは弓の精度を少し下げます。すべて重ねがけ可能です！"
+  ],
+  "quest.7D7E4C31DFE59E29.title": "ワイバーン弾ダメージモジュール",
+  "quest.7EB1C1AE52A0027F.title": "カオティック弾重力補正モジュール",
+  "quest.7EB97C0DDE60DED4.quest_desc": [
+    "Draconic Evolution最高の弓で、モジュールスロットも多い！"
+  ],
+  "quest.7EB97C0DDE60DED4.title": "カオティックボウ",
+  "quest.7F757CD6F8C57733.quest_desc": [
+    "エネルギーコアはMinecraft最高のエネルギー銀行です。その始まりがコアです。これがマルチブロックの中心で心臓部です(地面から少し浮かせてください)。設置するとGUIにBuild Guide、Tier Down、Tier Up、Assemble Coreが表示されます。ティアはコアの大きさと能力を決めます。Build Guideはそのティアの組み立て方を示します。必要なブロックが揃っていればAssemble Coreを押すと自動で組み立てられます！"
+  ],
+  "quest.7F757CD6F8C57733.quest_subtitle": "ドラコニックな蓄電",
+  "quest.7F757CD6F8C57733.title": "エネルギーコアマルチブロック"
+}
