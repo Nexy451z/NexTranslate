@@ -8,6 +8,7 @@ Japanese (`ja_jp`) translation resource pack for Minecraft, aimed at All the Mod
 |---|---|---|---|
 | [`1.21.1/`](1.21.1) | 1.21.1 | ATM10-era mods (~470 mods) | Available |
 | [`26.1.2/`](26.1.2) | 26.1.2 | All the Mods 11 (316 namespaces, ~85k keys) | Available |
+| [`ATM11-Quests/`](ATM11-Quests) | 26.1.2 | ATM11 FTB Quests (config overlay, 8,200+ keys) | Complete |
 
 ## Download / install
 
@@ -18,6 +19,13 @@ Latest release: https://github.com/Nexy451z/NexTranslate/releases/latest
 
 - 1.21.1: [`1.21.1/NexTr.zip`](1.21.1/NexTr.zip)
 - 26.1.2: [`26.1.2/NexTr-ATM11.zip`](26.1.2/NexTr-ATM11.zip)
+
+## FTB Quests translation (ATM11)
+
+FTB Quests loads `ja_jp` text from the instance/server **config**, not from a
+resource pack. The full Japanese quest translation overlay lives in
+[`ATM11-Quests/lang/ja_jp/`](ATM11-Quests) — copy it to
+`config/ftbquests/quests/lang/ja_jp/` (clients receive it from servers automatically).
 
 ## Contents
 
