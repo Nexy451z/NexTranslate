@@ -1,0 +1,12 @@
+{
+  "item.easyminingdimensioncomplete.mining_portal_igniter": "アメジストと鉄の着火具",
+  "block.easyminingdimensioncomplete.mining_portal": "採掘ディメンションポータル",
+  "dimension.easyminingdimensioncomplete.mining_dimension": "採掘ディメンション",
+  "easyminingdimensioncomplete.configuration.enable_adlods_compatibility": "AdLods 互換性を有効化",
+  "easyminingdimensioncomplete.configuration.add_mining_dimension_to_adlods": "AdLods に採掘ディメンションを追加",
+  "easyminingdimensioncomplete.configuration.create_adlods_backup": "AdLods バックアップを作成",
+  "easyminingdimensioncomplete.configuration.allow_passive_animals": "友好Mob のスポーンを許可",
+  "easyminingdimensioncomplete.configuration.block_hostile_mobs": "敵対Mobのスポーンを遮断",
+  "easyminingdimensioncomplete.configuration.block_villagers": "村人のスポーンを遮断",
+  "easyminingdimensioncomplete.configuration.block_wandering_traders": "行商人のスポーンを遮断"
+}

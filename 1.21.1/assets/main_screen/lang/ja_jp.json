@@ -1,0 +1,12 @@
+{
+  "main_screen.side_screen.x": "X座標: %s",
+  "main_screen.side_screen.y": "Y座標: %s",
+  "main_screen.side_screen.z": "Z座標: %s",
+  "log.warn.loadAnchorList": "ESM: アンカーリストが見つかりません。空のリストを作成します",
+  "log.error.loadAnchorList": "ESM: アンカーリストの読み込みエラー: %s",
+  "log.error.saveAnchorList": "ESM: アンカーリストの保存エラー: %s",
+  "log.warn.loadMuffledList": "ESM: 消音リストが見つかりません。空のリストを作成します",
+  "log.error.loadMuffledList": "ESM: 消音リストの読み込みエラー: %s",
+  "log.error.saveMuffledList": "ESM: 消音リストの保存エラー: %s",
+  "forbiddenSounds.button": "消音禁止サウンドを設定"
+}

@@ -1,0 +1,21 @@
+{
+  "text.sensible_stackables.item_count": "%s 個のアイテム",
+  "sensible_stackables.config": "共通設定",
+  "sensible_stackables.client_config": "クライアント設定",
+  "sensible_stackables.config.items": "アイテムのスタック数",
+  "sensible_stackables.config.items.desc": "アイテムやタグごとのスタック数を編集します。",
+  "sensible_stackables.config.splashPotionCooldown": "スプラッシュポーションの投擲クールダウン (秒)",
+  "sensible_stackables.config.uncapStackSize": "スタック数上限の撤廃",
+  "sensible_stackables.config.uncapStackSize.desc": "スタック数の上限99を撤廃します。",
+  "sensible_stackables.config.commonStackSize": "共通スタック数",
+  "sensible_stackables.config.commonStackSize.desc": "デフォルト上限64のアイテムの最大スタック数を変更します。「上限撤廃」が有効でない場合99まで。",
+  "sensible_stackables.client_config.itemCountShortening": "個数表示の短縮",
+  "sensible_stackables.client_config.itemCountShortening.desc": "999個超のスタックで個数表示を短縮します（例: 1000→1K、1000000→1M）。",
+  "sensible_stackables.client_config.itemCountScaling": "個数表示の縮小",
+  "sensible_stackables.client_config.itemCountScaling.desc": "個数表示が3文字以上（例: 999）の場合、重なり防止のため小さく表示します。",
+  "sensible_stackables.client_config.itemCountTooltip": "個数のツールチップ",
+  "sensible_stackables.client_config.itemCountTooltip.desc": "999個超で「短縮」が有効な場合、ツールチップに正確な個数を表示します。",
+  "tag.item.sensible_stackables.all_blocks": "全ブロックアイテム",
+  "tag.item.sensible_stackables.banner_patterns": "旗の模様",
+  "tag.item.sensible_stackables.minecarts": "トロッコ"
+}

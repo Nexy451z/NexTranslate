@@ -1,0 +1,15 @@
+{
+  "itemGroup.createrelics": "Create: Relics 連携",
+  "item.createrelics.magic_core": "魔法コア",
+  "item.createrelics.cloak_blank": "マントの素体",
+  "item.createrelics.belt_blank": "ベルトの素体",
+  "item.createrelics.stick_blank": "ロッドの素体",
+  "item.createrelics.necklace_blank": "ネックレスの素体",
+  "item.createrelics.boot_blank": "ブーツの素体",
+  "item.createrelics.ring_blank": "指輪の素体",
+  "item.createrelics.gauntlets_blank": "ガントレットの素体",
+  "createrelics.configuration.title": "Create: Relics 設定",
+  "createrelics.configuration.section.createrelics.common.toml": "Create: Relics 設定",
+  "createrelics.configuration.section.createrelics.common.toml.title": "Create: Relics 設定",
+  "createrelics.configuration.items": "アイテム一覧"
+}

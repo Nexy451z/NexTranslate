@@ -1,0 +1,6 @@
+{
+  "gui.lionfishapi.optifine.message": "OptiFine は多くのModと重大な競合を引き起こします！",
+  "gui.lionfishapi.optifine.xenonsuggestions": "代わりに軽量化Mod「Embeddium/Xenon」をご使用ください",
+  "gui.lionfishapi.optifine.oculussuggestions": "代わりにシェーダーMod「Iris/Oculus」をご使用ください",
+  "gui.lionfishapi.optifine.title": "OptiFine の使用を中止してください"
+}

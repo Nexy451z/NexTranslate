@@ -1,0 +1,17 @@
+{
+  "itemGroup.tmted": "Engineer's Delight",
+  "block.tmted.example_block": "サンプルブロック",
+  "item.tmted.example_item": "サンプルアイテム",
+  "fluid.tmted.melon_juice": "スイカジュース",
+  "item.tmted.bottle_of_wodka": "ウォッカの瓶",
+  "block.tmted.apple_cider": "アップルサイダー",
+  "block.tmted.melon_juice": "スイカジュース",
+  "item.tmted.wheat_flour": "小麦粉",
+  "fluid.tmted.apple_cider": "アップルサイダー",
+  "fluid.tmted.tomato_sauce": "トマトソース",
+  "item.tmted.steel_knife": "鋼のナイフ",
+  "block.tmted.tomato_sauce": "トマトソース",
+  "fluid_type.tmted.apple_cider": "アップルサイダー",
+  "fluid_type.tmted.melon_juice": "メロンジュース",
+  "fluid_type.tmted.tomato_sauce": "トマトソース"
+}

@@ -1,0 +1,9 @@
+{
+  "block.bobberdetector.bobber_detector": "ウキ探知機",
+  "bobberdetector.ponder.detector.header": "自動釣り",
+  "bobberdetector.ponder.detector.text_1": "ディプロイヤーに釣り竿を持たせると代わりに釣りをしてくれる",
+  "bobberdetector.ponder.detector.text_2": "残念ながら水中のウキは見えず、泡だけが見える",
+  "bobberdetector.ponder.detector.text_3": "範囲内にウキがあると探知機が光る",
+  "bobberdetector.ponder.detector.text_4": "魚が掛かると探知機がレッドストーン信号を出す",
+  "bobberdetector.ponder.detector.text_5": "アイテムの回収方法は自分で考える必要がある"
+}

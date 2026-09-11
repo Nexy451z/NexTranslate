@@ -1,0 +1,15 @@
+{
+  "text.autoconfig.betterendisland-fabric-1_21.title": "YUNG's Better End Island 設定",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.resummonedDragonDropsEgg": "再召喚ドラゴンの卵ドロップ",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.resummonedDragonDropsEgg.@Tooltip": "エンドラを討伐するたびに毎回ドラゴンの卵をドロップさせるかどうか。",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaSpawnPlatform": "バニラの黒曜石足場を生成",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaSpawnPlatform.@Tooltip": "改良足場の代わりにバニラ仕様の黒曜石足場を生成するかどうか。",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaEndGateways": "バニラのエンドゲートウェイを生成",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaEndGateways.@Tooltip": "改良ゲートウェイの代わりにバニラ仕様のエンドゲートウェイポータルを生成するかどうか。",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.playBellSound": "召喚時の鐘の音を再生",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.playBellSound.@Tooltip": "エンドドラゴンの初回召喚時および再召喚時に鐘の効果音を鳴らすかどうか。",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerInitially": "初期生成時に中央タワーを生成",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerInitially.@Tooltip": "ワールド初回生成時にエンド本島の中央タワーを生成するかどうか。",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerOnResummon": "再召喚時に中央タワーを再生成",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerOnResummon.@Tooltip": "エンドドラゴン再召喚時に中央タワーを再構築・復元するかどうか。"
+}

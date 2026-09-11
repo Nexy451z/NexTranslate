@@ -1,0 +1,20 @@
+{
+  "block.ars_creo.starbuncle_wheel": "スターバンクルの回し車",
+  "ars_creo.page1.starbuncle_wheel": "Create向けの回転力を発生させます。回し車の前に金ブロックを設置すると回転速度が上昇します。",
+  "ars_creo.page.behaviors": "Ars Creoは、Ars NouveauのブロックをCreateのからくり兵器・車両上で動作可能にします。基本タレット: からくり操作時に発射。タイマータレット: 一定間隔で発射。エンチャントタレット: 新しいブロックを通過するたびに発射。ソース瓶: からくり上のタレットがソースを消費可能。",
+  "itemGroup.ars_creo.general": "アルス・クレオ",
+  "ars_creo.display_source.turret.not_enough_space": "表示スペース不足",
+  "ars_creo.display_source.turret.for_turret_status": "タレットの状態用",
+  "ars_creo.display_source.turret.no_spell": "呪文未設定",
+  "ars_creo.display_source.turret.spell_name": "呪文: %s",
+  "ars_creo.display_source.turret.spell": "%s",
+  "ars_creo.display_source.turret_target": "スペルタレット",
+  "ars_creo.display_source.source_count": "ソース量: %s",
+  "ars_creo.display_source.for_source_status": "ソースの状態用",
+  "ars_creo.display_source.source_jar": "ソース貯蔵量",
+  "ars_creo.display_source.turret": "呪文",
+  "ars_creo.page1.ars_creo.display_link": "ディスプレイリンクをソース瓶に取り付けて残量を表示したり、スペルタレットに取り付けて装填中の呪文をディスプレイボードに表示できます。",
+  "ars_creo.page1.ars_creo.fluid_tank": "パイプとCreateの流体タンクを使用して、ポーションを液体として貯蔵・移送できます。",
+  "ars_creo.display_link": "Ars Creo: ディスプレイリンク",
+  "ars_creo.fluid_tank": "Ars Creo: 流体タンク"
+}

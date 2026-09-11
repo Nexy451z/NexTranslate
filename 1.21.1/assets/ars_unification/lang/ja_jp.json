@@ -1,0 +1,13 @@
+{
+  "ars_nouveau.augment_desc.glyph_cut_glyph_aoe": "加工対象アイテムを探す半径を広げる。",
+  "ars_nouveau.augment_desc.glyph_cut_glyph_pierce": "カットが加工するアイテム数を増やす。",
+  "ars_nouveau.augment_desc.glyph_cut_glyph_sensitive": "カットが近くのアイテムを加工しようとする。",
+  "ars_nouveau.augment_desc.glyph_flatten_glyph_aoe": "加工対象アイテムを探す半径を広げる。",
+  "ars_nouveau.augment_desc.glyph_flatten_glyph_pierce": "フラット化が加工するアイテム数を増やす。",
+  "ars_nouveau.augment_desc.glyph_flatten_glyph_sensitive": "フラット化が近くのアイテムを加工しようとする。",
+  "ars_unification.augment_with": "このグリフを%sで強化するとこれらのレシピを使える。",
+  "ars_unification.cut_recipe": "カット・グリフ",
+  "ars_unification.press_recipe": "フラット化グリフ",
+  "emi.category.ars_unification.cut": "カット・グリフ",
+  "emi.category.ars_unification.press": "フラット化グリフ"
+}

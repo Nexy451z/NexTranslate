@@ -1,0 +1,19 @@
+{
+  "xnetgases.channel.chemical": "化学物質",
+  "xnetgases.channel.chemical_logic": "化学物質ロジック",
+  "xnetgases.require_insert_rate.label": "搬入レートを指定",
+  "xnetgases.chemical.rate.tooltip.formatted": "化学物質%sレート|(最大 %d mB)",
+  "xnetgases.chemical.min_max.tooltip.formatted": "化学物質が%2$s場合|%1$sを無効化",
+  "xnetgases.enum.connector_mode.ins": "搬入",
+  "xnetgases.enum.connector_mode.ins.tooltip": "接続先ブロックへ|化学物質を搬入",
+  "xnetgases.enum.connector_mode.ext": "搬出",
+  "xnetgases.enum.connector_mode.ext.tooltip": "接続先ブロックから|化学物質を搬出",
+  "xnetgases.enum.channel_mode.priority": "優先度順",
+  "xnetgases.enum.channel_mode.priority.tooltip": "分配モード|現在: 優先度順",
+  "xnetgases.enum.channel_mode.round_robin": "ラウンドロビン",
+  "xnetgases.enum.channel_mode.round_robin.tooltip": "分配モード|現在: 均等分配",
+  "xnetgases.enum.sensor_mode.off": "無効",
+  "xnetgases.enum.sensor_mode.off.tooltip": "使用しない",
+  "xnetgases.enum.sensor_mode.on": "有効",
+  "xnetgases.enum.sensor_mode.on.tooltip": "接続先ブロック内の化学物質量をスキャン"
+}

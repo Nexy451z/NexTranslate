@@ -1,0 +1,8 @@
+{
+  "commands.player-locator-plus.color.non-single-player": "単一のプレイヤーのみを指定してください",
+  "commands.player-locator-plus.color.other": "%s のマーカー色を %s に変更しました",
+  "commands.player-locator-plus.color.self": "マーカー色を %s に変更しました",
+  "commands.player-locator-plus.color.wrong-color-mode": "カスタム色を設定するには設定の color mode を Custom に変更してください",
+  "commands.player-locator-plus.color.invalid-color": "Minecraft標準色名または16進数カラーコード（#ff8800など）を指定してください",
+  "tag.item.player-locator-plus.hiding_equipment": "PLP 隠蔽装備"
+}

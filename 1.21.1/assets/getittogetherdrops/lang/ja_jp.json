@@ -1,0 +1,6 @@
+{
+  "getittogetherdrops.configuration.checkY": "垂直方向 をチェック",
+  "getittogetherdrops.configuration.checkY.tooltip": "ドロップアイテムの結合時に上下方向のアイテムも合体対象とするかどうか。",
+  "getittogetherdrops.configuration.radius": "結合判定半径",
+  "getittogetherdrops.configuration.radius.tooltip": "ドロップアイテムが他の同種アイテムと結合する周囲の索敵半径（ブロック単位、バニラは0.5）。"
+}

@@ -1,0 +1,16 @@
+{
+  "key.jei_integration_reborn": "JEI Integration Reborn キー設定",
+  "key.jei_integration_reborn.copy_id_key": "アイテムIDをクリップボードにコピー",
+  "tooltip.jei_integration_reborn.burnTime": "燃焼時間:",
+  "tooltip.jei_integration_reborn.burnTime.suffix": "ティック",
+  "tooltip.jei_integration_reborn.durability": "耐久値:",
+  "tooltip.jei_integration_reborn.enchantability": "エンチャント適性:",
+  "tooltip.jei_integration_reborn.hunger": "満腹度回復量:",
+  "tooltip.jei_integration_reborn.saturation": "隠し満腹度:",
+  "tooltip.jei_integration_reborn.maxStackSize": "最大スタック数:",
+  "tooltip.jei_integration_reborn.data_components": "データコンポーネント:",
+  "tooltip.jei_integration_reborn.registryName": "アイテムID:",
+  "tooltip.jei_integration_reborn.tags": "付与タグ:",
+  "tooltip.jei_integration_reborn.translationKey": "翻訳キー:",
+  "_comment": "Tooltips"
+}

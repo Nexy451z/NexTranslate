@@ -1,0 +1,9 @@
+{
+  "itemGroup.backpack_allthemodium_upgrade": "backpack Allthemodium tier",
+  "item.backpack_allthemodium_upgrade.stack_upgrade_tier_5": "スタックアップグレード Tier 5",
+  "item.backpack_allthemodium_upgrade.stack_upgrade_tier_5.tooltip": "1スロットに入るスタック数を32倍にする",
+  "item.backpack_allthemodium_upgrade.stack_upgrade_tier_6": "スタックアップグレード Tier 6",
+  "item.backpack_allthemodium_upgrade.stack_upgrade_tier_6.tooltip": "1スロットに入るスタック数を48倍にする",
+  "item.backpack_allthemodium_upgrade.stack_upgrade_tier_7": "スタックアップグレード Tier 7",
+  "item.backpack_allthemodium_upgrade.stack_upgrade_tier_7.tooltip": "1スロットに入るスタック数を64倍にする"
+}

@@ -1,0 +1,15 @@
+{
+  "midnightlib.overview.title": "MidnightConfig 概要",
+  "midnightlib.midnightconfig.title": "MidnightLib 設定",
+  "midnightlib.midnightconfig.config_screen_list": "設定画面一覧を有効化",
+  "midnightlib.midnightconfig.enum.ConfigButton.TRUE": "§aはい",
+  "midnightlib.midnightconfig.enum.ConfigButton.FALSE": "§cいいえ",
+  "midnightlib.midnightconfig.enum.ConfigButton.MODMENU": "§bModMenu",
+  "midnightlib.modrinth": "Modrinth 公式ページ",
+  "midnightlib.curseforge": "CurseForge 公式ページ",
+  "midnightlib.wiki": "公式 Wiki",
+  "midnightconfig.colorChooser.title": "カラーを選択",
+  "midnightconfig.action.list_index": "インデックス %s のリスト項目を編集",
+  "midnightconfig.action.color_chooser": "カラーピッカーを開く",
+  "midnightconfig.action.file_chooser": "ファイル選択画面を開く"
+}

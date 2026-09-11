@@ -1,0 +1,6 @@
+{
+  "kubejstweaks.chat.click_here": "[ここをクリック]",
+  "kubejstweaks.chat.click_to_open_markdown": "クリックでmarkdownを開く",
+  "kubejstweaks.debug.erroring_recipes_summary": "エラーのあるレシピをまとめたmarkdownファイルが生成された: %s",
+  "kubejstweaks.chat.mod_id": "[KubeJS Tweaks] %s"
+}

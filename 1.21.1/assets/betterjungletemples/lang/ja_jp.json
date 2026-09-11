@@ -1,0 +1,13 @@
+{
+  "Use /locate structure betterjungletemples:jungle_temple instead!": "代わりに /locate structure betterjungletemples:jungle_temple を使用してください！",
+  "text.autoconfig.betterjungletemples-fabric-1_21.title": "YUNG's Better Jungle Temples 設定",
+  "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples": "YUNGのジャングル寺院改善",
+  "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.general": "全般設定",
+  "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.general.@Tooltip": "全般的な生成・動作設定",
+  "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.compat": "Mod互換性設定",
+  "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.compat.@Tooltip": "他Modとの連携設定",
+  "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.general.disableVanillaJungleTemples": "バニラのジャングル寺院を無効化",
+  "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.general.disableVanillaJungleTemples.@Tooltip": "バニラ仕様のジャングルの寺院の生成を無効化するかどうか。",
+  "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.compat.pickYourPoisonEnabled": "Pick Your Poison 連携を有効化",
+  "text.autoconfig.betterjungletemples-fabric-1_21.option.betterJungleTemples.compat.pickYourPoisonEnabled.@Tooltip": "改良寺院のトラップにPick Your Poisonの毒矢を生成させるかどうか。"
+}

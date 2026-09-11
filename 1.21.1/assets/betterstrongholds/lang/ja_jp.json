@@ -1,0 +1,13 @@
+{
+  "betterstrongholds.commands.locate.stronghold": "代わりに /locate structure betterstrongholds:stronghold を使用してください！",
+  "Use /locate structure betterstrongholds:stronghold instead!": "代わりに /locate structure betterstrongholds:stronghold を使用してください！",
+  "text.autoconfig.betterstrongholds-fabric-1_21.title": "YUNG's Better Strongholds 設定",
+  "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds": "YUNGの要塞改善",
+  "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general": "全般設定",
+  "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.@Tooltip": "全般的な生成設定",
+  "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.enableStructureRuin": "自然な洞窟による構造破損を許可",
+  "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.enableStructureRuin.@Tooltip[0]": "細い洞窟によって要塞の一部がわずかに侵食・崩壊することを許可します。",
+  "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.enableStructureRuin.@Tooltip[1]": "※巨大な大洞窟によって要塞全体が消失することはありません。",
+  "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.filledPortalFrameChance": "ポータル枠のアイ装填確率",
+  "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.filledPortalFrameChance.@Tooltip": "エンドポータルフレームに最初からエンダーアイがはまっている確率。"
+}

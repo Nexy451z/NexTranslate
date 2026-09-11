@@ -1,0 +1,6 @@
+{
+  "key.findme.search": "周囲のチェスト内アイテムを検索",
+  "key.findme.pull_one": "周囲のチェストから1個引き出す",
+  "key.findme.pull_stack": "周囲のチェストから1スタック引き出す",
+  "key.findme.category": "Find Me"
+}

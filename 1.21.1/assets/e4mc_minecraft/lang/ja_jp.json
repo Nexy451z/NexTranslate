@@ -1,0 +1,10 @@
+{
+  "text.e4mc_minecraft.domainAssigned": "ローカルゲームをドメイン [%s] で公開中",
+  "text.e4mc_minecraft.closeServer": "ローカルゲームの公開を終了しました",
+  "text.e4mc_minecraft.serverAlreadyClosed": "ローカルゲームは公開されていません",
+  "text.e4mc_minecraft.clickToStop": " （ここをクリックして停止）",
+  "text.e4mc_minecraft.error": "e4mc でエラーが発生しました",
+  "text.e4mc_minecraft.doctor.start": "トラブルシューティング情報を生成中... 少々お待ちください。",
+  "text.e4mc_minecraft.poisonpill.badurl": "e4mc が不明なソースからダウンロードされました。古いか改造されている可能性があります。",
+  "text.e4mc_minecraft.hiddenDomain": "非表示"
+}

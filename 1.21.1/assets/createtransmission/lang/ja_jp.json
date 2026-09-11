@@ -1,0 +1,17 @@
+{
+  "createtransmission.ponder.encasing.header": "伝動チェーンのケーシング保護",
+  "createtransmission.ponder.encasing.text_1": "伝動チェーンはケーシングで保護して覆うことができます！",
+  "createtransmission.ponder.encasing.text_2": "レンチを使用することでケーシングを取り外せます。",
+  "createtransmission.ponder.usage.header": "伝動チェーンによる回転力の伝達",
+  "createtransmission.ponder.usage.text_1": "チェーンギアボックスはベルト間の回転動力を伝達するために使用されます。",
+  "createtransmission.ponder.usage.text_2": "しかし、少しかさばるのが難点です……",
+  "createtransmission.ponder.usage.text_3": "その代替手段として伝動チェーンが使用できます！\nスリムでベルト間のみで効率的に機能します。",
+  "createtransmission.ponder.usage.text_4": "様々な配置のベルト間へ動力を供給できます。",
+  "createtransmission.ponder.usage.text_5": "水平方向や……",
+  "createtransmission.ponder.usage.text_6": "……直角方向……",
+  "createtransmission.ponder.usage.text_7": "……そして垂直方向にも動力伝達が可能です。",
+  "block.createtransmission.andesite_encased_transmission_chain": "安山岩で覆われた伝動チェーン",
+  "block.createtransmission.brass_encased_transmission_chain": "真鍮で覆われた伝動チェーン",
+  "block.createtransmission.transmission_chain": "伝動チェーン",
+  "creativeTab.createtransmission.main": "Create: Transmission"
+}

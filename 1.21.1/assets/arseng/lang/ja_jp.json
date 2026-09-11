@@ -1,0 +1,19 @@
+{
+  "block.arseng.me_source_jar": "MEソースジャー",
+  "block.arseng.source_acceptor": "MEソース変換器",
+  "item.arseng.cable_source_acceptor": "ケーブル型MEソース変換器",
+  "item.arseng.portable_source_cell_16k": "16k 携帯型ソースセル",
+  "item.arseng.portable_source_cell_1k": "1k 携帯型ソースセル",
+  "item.arseng.portable_source_cell_256k": "256k 携帯型ソースセル",
+  "item.arseng.portable_source_cell_4k": "4k 携帯型ソースセル",
+  "item.arseng.portable_source_cell_64k": "64k 携帯型ソースセル",
+  "item.arseng.source_cell_housing": "MEソースセルハウジング",
+  "item.arseng.source_p2p_tunnel": "MEソースP2Pトンネル",
+  "item.arseng.source_storage_cell_16k": "16k MEソースストレージセル",
+  "item.arseng.source_storage_cell_1k": "1k MEソースストレージセル",
+  "item.arseng.source_storage_cell_256k": "256k MEソースストレージセル",
+  "item.arseng.source_storage_cell_4k": "4k MEソースストレージセル",
+  "item.arseng.source_storage_cell_64k": "64k MEソースストレージセル",
+  "item.arseng.spell_p2p_tunnel": "ME呪文P2Pトンネル",
+  "itemGroup.arseng": "Ars Énergistique"
+}

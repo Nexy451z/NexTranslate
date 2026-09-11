@@ -1,0 +1,16 @@
+{
+  "advancements.toomuchdedication.descr": "イグニティウムのクワを入手する",
+  "advancements.toomuchdedication.title": "並々ならぬ献身",
+  "item.cataclysm_tools.ignitium_pickaxe": "§dイグニティウムのツルハシ",
+  "item.cataclysm_tools.ignitium_axe": "§dイグニティウムの斧",
+  "item.cataclysm_tools.ignitium_shovel": "§dイグニティウムのシャベル",
+  "item.cataclysm_tools.ignitium_hoe": "§dイグニティウムのクワ",
+  "item_group.cataclysm_tools.cataclysm_tools_tab": "カタクリズムツール",
+  "item.cataclysm_tools.cursium_pickaxe": "§dカーシウムのツルハシ",
+  "item.cataclysm_tools.cursium_axe": "§dカーシウムの斧",
+  "item.cataclysm_tools.cursium_shovel": "§dカーシウムのシャベル",
+  "item.cataclysm_tools.cursium_hoe": "§dカーシウムのクワ",
+  "item.cataclysm_tools.cursium_sword": "§dカーシウムの剣",
+  "advancements.veryseriousdedication.title": "真剣な献身",
+  "advancements.veryseriousdedication.descr": "カーシウムのクワを入手する"
+}

@@ -1,0 +1,15 @@
+{
+  "gui.apply": "適用",
+  "block.trophymanager.trophy": "トロフィー",
+  "trophymanager.trophy.name": "%s トロフィー",
+  "trophymanager.tooltip.trophy.scale": "倍率: %s",
+  "gui.trophy.rotation": "%s: %s°",
+  "gui.trophy.size": "サイズ: %s",
+  "gui.trophy.offset": "Y オフセット: %s",
+  "gui.trophy.pose": "ポーズ: %s",
+  "gui.trophy.pose.standing": "立ち",
+  "gui.trophy.pose.sitting": "座り",
+  "gui.trophy.pose.flying": "飛行",
+  "gui.trophy.jei.item_trophy": "アイテムトロフィー",
+  "gui.trophy.jei.any_item": "ここにはどのアイテムでも置けます"
+}

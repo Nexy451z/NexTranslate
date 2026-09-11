@@ -1,0 +1,6 @@
+{
+  "cristellib.nameAndSource": "%s (提供: §d§nCristel Lib§r)",
+  "cristellib.autoCategoryInfo": "この画面は %s により自動生成されました。設定から自動画面生成を無効化できます。Mod制作者の方はここをクリックしてWikiをご覧ください。",
+  "cristellib.placementCategoryTitle": "建造物配置設定",
+  "cristellib.toggleCategoryTitle": "建造物の有効/無効切替"
+}

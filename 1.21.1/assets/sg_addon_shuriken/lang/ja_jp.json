@@ -1,0 +1,8 @@
+{
+  "item.sg_addon_shuriken.shuriken": "手裏剣",
+  "item.sg_addon_shuriken.shuriken.nameProper": "%sの手裏剣",
+  "item.sg_addon_shuriken.shuriken_blade": "手裏剣の刃",
+  "item.sg_addon_shuriken.shuriken_blade.nameProper": "%sの手裏剣の刃",
+  "item.sg_addon_shuriken.blueprint.shuriken.desc": "強力な遠距離武器",
+  "item.sg_addon_shuriken.shuriken.throw_damage": "投擲ダメージ: %s"
+}

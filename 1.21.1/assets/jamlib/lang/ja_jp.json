@@ -1,0 +1,20 @@
+{
+  "config.jamlib.selection_screen_title": "%s の設定を選択",
+  "config.jamlib.open": "開く",
+  "config.jamlib.edit_manually": "手動で編集",
+  "config.jamlib.reset": "リセット",
+  "config.jamlib.reset_tooltip": "初期値にリセット",
+  "config.jamlib.matches_regex_tooltip": "次の正規表現に一致する必要があります: %s",
+  "config.jamlib.requires_restart_tooltip": "変更を反映するにはゲームの再起動が必要です",
+  "config.jamlib.within_range_tooltip": "設定値は %d から %d の間である必要があります",
+  "text.jamlib.renamed_1": "以下のModファイル名が改変されています。これはModが %s された兆候である可能性があります。",
+  "text.jamlib.renamed_1.1": "無断転載・再配布",
+  "text.jamlib.renamed_2": "%s などの非公式転載サイトは %s であり、%s 危険性があります。Modは公式の %s や %s から入手してください。",
+  "text.jamlib.renamed_2.1": "9minecraft",
+  "text.jamlib.renamed_2.2": "Mod制作者を脅かし",
+  "text.jamlib.renamed_2.3": "マルウェアを拡散する",
+  "text.jamlib.renamed_2.4": "CurseForge",
+  "text.jamlib.renamed_2.5": "Modrinth",
+  "text.jamlib.renamed_3": "この警告は一度だけ表示されます。%s。",
+  "text.jamlib.renamed_3.1": "誤検知と思われる場合はMod作者へご連絡ください"
+}

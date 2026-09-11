@@ -1,0 +1,13 @@
+{
+  "zeta.misc.mod_disabled": "無効化中。有効化するには %s を導入してください。",
+  "zeta.jei.hint_preamble": "[Zeta]\n",
+  "zeta.gui.config.save": "変更を保存",
+  "zeta.gui.config.header": "%s の設定",
+  "zeta.gui.config.default": "初期値に戻す",
+  "zeta.gui.config.discard": "変更を破棄",
+  "zeta.gui.config.subcategories": "------- サブカテゴリ -------",
+  "zeta.gui.config.onechild": "1 項目",
+  "zeta.gui.config.nchildren": "%d 項目",
+  "zeta.gui.config.defaultvalue": "初期値: %s",
+  "zeta.gui.config.missingaddon": "このカテゴリに必要なアドオンModが導入されていません"
+}

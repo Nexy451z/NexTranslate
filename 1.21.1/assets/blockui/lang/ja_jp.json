@@ -1,0 +1,10 @@
+{
+  "blockui.container_gui.client_side_only": "統合サーバー(シングルプレイ、LAN非公開)でのプレイ中のみコンテナ内容が見える。",
+  "blockui.container_gui.empty": "このコンテナは空である。",
+  "blockui.tooltip.item_additional_info": "%sを押しながらで追加情報を表示",
+  "blockui.tooltip.properties": "BlockStateプロパティ:",
+  "blockui.config.default.boolean": "[デフォルト: %s]",
+  "blockui.config.default.string": "[デフォルト: %s]",
+  "blockui.config.default.enum": "[デフォルト: %s、値: %s]",
+  "blockui.config.default.number": "[デフォルト: %s、最小: %s、最大: %s]"
+}

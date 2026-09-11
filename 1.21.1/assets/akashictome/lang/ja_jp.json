@@ -1,0 +1,13 @@
+{
+  "akashictome.sudo_name": "アカシック本 (%s)",
+  "akashictome.click_morph": "シフトと右クリックはスイッチして",
+  "item.akashictome.tome": "アカシック本",
+  "akashictome.misc.shift_for_info": "§7詳細は§bSHIFT§7キーで表示",
+  "akashictome.configuration.Allow all items to be added": "全アイテムの追加を許可",
+  "akashictome.configuration.Whitelisted Items": "ホワイトリストアイテム",
+  "akashictome.configuration.Blacklisted Mods": "ブラックリストMod",
+  "akashictome.configuration.Mod Aliases": "Mod別名",
+  "akashictome.configuration.Hide Book Render": "本の描画を隠す",
+  "akashictome.configuration.Whitelisted Names": "ホワイトリスト名",
+  "akashictome.configuration.Blacklisted Items": "ブラックリストアイテム"
+}

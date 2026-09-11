@@ -1,0 +1,18 @@
+{
+  "block.createappliedkinetics.energy_provider": "エネルギープロバイダー",
+  "block.createappliedkinetics.me_proxy": "MEプロキシ",
+  "item.createappliedkinetics.incomplete_calculation_processor": "未完成の計算プロセッサ",
+  "item.createappliedkinetics.incomplete_calculation_processor_press": "未完成の計算金型",
+  "item.createappliedkinetics.incomplete_engineering_processor": "未完成のエンジニアリングプロセッサ",
+  "item.createappliedkinetics.incomplete_engineering_processor_press": "未完成のエンジニアリング金型",
+  "item.createappliedkinetics.incomplete_logic_processor": "未完成の論理プロセッサ",
+  "item.createappliedkinetics.incomplete_logic_processor_press": "未完成の論理金型",
+  "item.createappliedkinetics.incomplete_printed_calculation_circuit": "未完成の印刷済み計算回路",
+  "item.createappliedkinetics.incomplete_printed_engineering_circuit": "未完成の印刷済みエンジニアリング回路",
+  "item.createappliedkinetics.incomplete_printed_logic_circuit": "未完成の印刷済み論理回路",
+  "item.createappliedkinetics.incomplete_silicon_press": "未完成のシリコン金型",
+  "item.createappliedkinetics.incomplete_silicon_print": "未完成の印刷済みシリコン",
+  "itemGroup.createappliedkinetics": "Create Applied Kinetics",
+  "tooltip.createappliedkinetics.energy_provider": "AEのエネルギーアクセプターに動力を供給します",
+  "tooltip.createappliedkinetics.me_proxy": "AE2ネットワークのアイテムや流体にアクセスするためのプロキシ"
+}

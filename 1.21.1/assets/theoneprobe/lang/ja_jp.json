@@ -1,0 +1,13 @@
+{
+  "theoneprobe.networking.failed": "The One Probe: 通信に失敗しました！詳細はログを確認してください",
+  "key.toggleLiquids": "液体表示の切り替え",
+  "key.toggleVisible": "表示切り替え",
+  "key.categories.theoneprobe": "The One Probe",
+  "item.theoneprobe.probe": "The One Probe",
+  "item.theoneprobe.probe_goggles": "The One Probe（装身具）",
+  "item.theoneprobe.diamond_helmet_probe": "プローブ付きダイヤモンドヘルメット",
+  "item.theoneprobe.gold_helmet_probe": "プローブ付き金ヘルメット",
+  "item.theoneprobe.iron_helmet_probe": "プローブ付き鉄ヘルメット",
+  "item.theoneprobe.creativeprobe": "クリエイティブプローブ",
+  "item.theoneprobe.probenote": "The One Probe 説明書"
+}

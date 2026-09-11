@@ -1,0 +1,13 @@
+{
+  "config.common.title": "地下村の設定",
+  "config.common.structureSize": "地下村の構造物サイズ",
+  "config.common.structureSize.tooltip": "地下村の構造物全体の大きさを制御する。",
+  "config.common.maxDistanceFromCenter": "地下村の中心からの最大距離",
+  "config.common.maxDistanceFromCenter.tooltip": "村の中心から構造物パーツが生成される最大距離。",
+  "config.common.waterStructureSize": "水中村の構造物サイズ",
+  "config.common.waterStructureSize.tooltip": "水中の地下村の構造物の大きさを制御する。",
+  "config.common.waterMaxDistanceFromCenter": "水中村の中心からの最大距離",
+  "config.common.waterMaxDistanceFromCenter.tooltip": "中心から水中の構造物パーツが生成される最大距離。",
+  "config.common.enableInGameMessage": "歓迎メッセージを表示",
+  "config.common.enableInGameMessage.tooltip": "初回参加時にDiscord、GitHub、サポートリンク付きの歓迎メッセージを表示する。ゲームの再起動が必要。"
+}

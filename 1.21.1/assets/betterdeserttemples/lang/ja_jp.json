@@ -1,0 +1,15 @@
+{
+  "betterdeserttemples.advancements.root.title": "YUNGの砂漠の寺院改善",
+  "betterdeserttemples.advancements.root.description": "砂漠の奥深くのどこかに...",
+  "betterdeserttemples.advancements.temple_clear.title": "悠久の眠り",
+  "betterdeserttemples.advancements.temple_clear.description": "ファラオを討伐し、寺院を呪いから解放する",
+  "betterdeserttemples.advancements.temple_entry.title": "古代の霊廟",
+  "betterdeserttemples.advancements.temple_entry.description": "改良された砂漠の寺院を発見する",
+  "Use /locate structure betterdeserttemples:desert_temple instead!": "代わりに /locate structure betterdeserttemples:desert_temple を使用してください！",
+  "text.autoconfig.betterdeserttemples-fabric-1_21.title": "YUNG's Better Desert Temples 設定",
+  "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.disableVanillaPyramids": "バニラの砂漠ピラミッドを無効化",
+  "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.disableVanillaPyramids.@Tooltip": "バニラ仕様の砂漠ピラミッドの生成を無効化するかどうか。",
+  "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.applyMiningFatigue": "採掘速度低下 を付与",
+  "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.applyMiningFatigue.@Tooltip[0]": "寺院を攻略・クリアする前の侵入プレイヤーに対して、",
+  "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.applyMiningFatigue.@Tooltip[1]": "採掘速度低下のデバフを付与するかどうか。"
+}

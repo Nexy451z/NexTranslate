@@ -1,0 +1,7 @@
+{
+  "craftedcore.update": "%s の新しいバージョンが利用可能です: %s",
+  "craftedcore.config.set": "設定項目 %s を %s に変更しました",
+  "craftedcore.config.get": "設定項目 %s は現在 %s に設定されています",
+  "craftedcore.command.invalid_perms": "このコマンドを実行する適切な権限がありません！",
+  "craftedcore.command.clear_cache": "キャッシュを消去しました。"
+}

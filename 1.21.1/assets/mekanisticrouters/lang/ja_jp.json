@@ -1,0 +1,15 @@
+{
+  "item.mekanisticrouters.chemical_module_mk1": "化学モジュール Mk1",
+  "item.mekanisticrouters.chemical_module_mk2": "化学モジュール Mk2",
+  "item.mekanisticrouters.chemical_refill_module": "化学物質補充モジュール",
+  "item.mekanisticrouters.chemical_upgrade": "化学物質搬送アップグレード",
+  "mekanisticrouters.guiText.popup.chemical.direction": "§a§n搬送方向§r\n\nルーターがタンクへ化学物質を送り出すか、タンクから引き込むかを設定できます。",
+  "mekanisticrouters.guiText.popup.chemical.maxTransfer": "§a§n最大搬送量§r\n\n1回の動作でルーターが搬送しようとする化学物質の最大量です。\n\nなお、実際の搬送速度はルーター内の化学物質搬送アップグレードの数や、外部タンク側の搬送速度にも制限されます。そのため、この値は目標値ではなく上限と考えてください。",
+  "mekanisticrouters.guiText.popup.chemical_refill.control": "§a§化学物質補充モジュール§r\n\nここでは以下を設定できます: \n- プレイヤーのインベントリのどの部分とやり取りするか。\n\nフィルターで、このモジュールから化学物質を受け取れるアイテムを制限します。",
+  "mekanisticrouters.guiText.tooltip.chemicalTransferTooltip": "§b化学物質の最大搬送量\n1回の動作で搬送を試みる最大量 (mB単位)。\nルーター全体の搬送速度 (化学物質搬送アップグレードと速度アップグレード) による制限も受けます",
+  "mekanisticrouters.itemText.chemical.maxTransfer": "化学物質レート: 最大 %s mB / 回",
+  "mekanisticrouters.itemText.usage.item.chemical_module_mk1": "モジュールの向きにある隣接ブロックとの間で、ルーター内外へ化学物質を搬送します。\n• ルーターのバッファに化学物質コンテナアイテムが必要です。",
+  "mekanisticrouters.itemText.usage.item.chemical_module_mk2": "近くのブロックとの間で、ルーター内外へ化学物質を搬送します。\n• ルーターのバッファに化学物質コンテナアイテムが必要です。\n• タンクとの間で搬送できます。",
+  "mekanisticrouters.itemText.usage.item.chemical_refill_module": "プレイヤーのインベントリ内の化学物質コンテナアイテム (ジェットパックなど) にワイヤレスで化学物質を補充します。",
+  "mekanisticrouters.itemText.usage.item.chemical_upgrade": "ルーターが搬送できる流体の量を (各方向ごとに) %d mB/tick 増加させます"
+}

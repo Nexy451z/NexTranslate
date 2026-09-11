@@ -1,0 +1,6 @@
+{
+  "eu_cost_transformer.tesseract_api.percentage": "%d%%",
+  "text.tesseract_api.mi_machine_batcher_recipe": "%sレシピをバッチで実行できる。",
+  "text.tesseract_api.mi_machine_batcher_size_and_cost": "最大%dバッチを%sのEUコストで実行する。",
+  "text.tesseract_api.tooltips_shift_required": "[Shift]キーで情報を表示"
+}

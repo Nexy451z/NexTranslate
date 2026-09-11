@@ -1,0 +1,17 @@
+{
+  "itemGroup.potionsmaster": "Potions Master",
+  "item.potionsmaster.charcoal_powder": "木炭粉",
+  "item.potionsmaster.pestle": "乳棒",
+  "item.potionsmaster.bezoar": "ベゾアール石",
+  "item.potionsmaster.red_feather": "赤い羽根",
+  "item.potionsmaster.ender_powder": "エンダーパウダー",
+  "item.potionsmaster.activated_charcoal": "活性炭",
+  "item.potionsmaster.gallbladder": "シロクマの胆のう",
+  "bezoar.effect": "毒を治療する",
+  "bladder.effect": "採掘疲労を治療する",
+  "charcoal.effect": "ウィザーを治療する",
+  "quick.snack": "すぐ食べられる!",
+  "block.potionsmaster.tile_mortar": "乳鉢",
+  "block.potionsmaster.cauldron": "大がま",
+  "potionsmaster.tile_mortar": "乳鉢"
+}

@@ -1,0 +1,21 @@
+{
+  "gui.ae2ct.CraftingTreeTitle": "クラフトツリー",
+  "gui.ae2ct.ShowTree": "クラフトツリーを表示",
+  "gui.ae2ct.OutputAmount": "作成予定: %s",
+  "gui.ae2ct.InputAmount": "必要数: %s",
+  "gui.ae2ct.MiddenAmount": "消費数: %s",
+  "gui.ae2ct.Info": "詳細情報:",
+  "gui.ae2ct.CraftingAmount": "作成中: %s",
+  "gui.ae2ct.MissingAmount": "不足数: %s",
+  "gui.ae2ct.StoredAmount": "保管数: %s",
+  "gui.ae2ct.Screenshot": "スクリーンショット",
+  "gui.ae2ct.CraftingTreeSettingTitle": "設定",
+  "gui.ae2ct.Setting": "設定",
+  "gui.ae2ct.UseCompactTreeCheckbox": "コンパクトツリー表示を使用",
+  "gui.ae2ct.ScreenShotShowCountCheckbox": "スクリーンショットに数量を表示",
+  "ae2ct.screenshot.noready": "スクリーンショットの準備ができていません。しばらくしてから再試行してください",
+  "ae2ct.screenshot.exception": "スクリーンショット保存失敗。理由: %s",
+  "ae2ct.openscreen.plannull": "クラフト確認の計算完了を待機中",
+  "gui.ae2ct.ShowMissingOnly": "不足品のみ表示",
+  "gui.ae2ct.ShowMissingOnlyByDefault": "デフォルトで不足品のみ表示"
+}

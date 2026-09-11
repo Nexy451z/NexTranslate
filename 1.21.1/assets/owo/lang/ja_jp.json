@@ -1,0 +1,111 @@
+{
+  "text.owo.itemGroup.tab_template": [
+    {
+      "index": 0
+    },
+    {
+      "text": " > ",
+      "color": "gray"
+    },
+    {
+      "index": 1,
+      "color": "dark_gray"
+    }
+  ],
+  "text.owo.itemGroup.select_hint": {
+    "text": "Shift+クリックで複数選択",
+    "color": "gray"
+  },
+  "text.owo.configure_hot_reload.title": "ホットリロードの設定",
+  "text.owo.configure_hot_reload.choose_file": "ファイルを選択",
+  "text.owo.configure_hot_reload.save": "保存",
+  "text.owo.configure_hot_reload.model": [
+    {
+      "text": "モデル: ",
+      "color": "yellow"
+    },
+    {
+      "index": 0,
+      "color": "gray"
+    }
+  ],
+  "text.owo.configure_hot_reload.reload_from.unset": "未設定",
+  "text.owo.configure_hot_reload.reload_from": [
+    {
+      "text": "リロード元: ",
+      "color": "yellow"
+    },
+    {
+      "index": 0,
+      "color": "gray"
+    }
+  ],
+  "text.owo.config.search": "検索...",
+  "text.owo.config.search.matches": "%d / %d 件一致",
+  "text.owo.config.search.no_matches": "一致する項目がありません",
+  "text.owo.config.must_restart": "変更を適用するにはゲームの再起動が必要です",
+  "text.owo.config.button.exit_minecraft": "Minecraftを終了",
+  "text.owo.config.button.ignore_restart": "後で再起動",
+  "text.owo.config.button.range.edit_as_text": "テキストで編集",
+  "text.owo.config.button.range.edit_with_slider": "スライダーで編集",
+  "text.owo.config.applies_after_restart": [
+    {
+      "text": "▲ ",
+      "color": "#FAEA48"
+    },
+    {
+      "text": "この設定項目はゲーム再起動後に適用されます",
+      "color": "gray"
+    }
+  ],
+  "text.owo.config.managed_by_server": [
+    {
+      "text": "■ ",
+      "color": "#EB1D36"
+    },
+    {
+      "text": "この設定項目はサーバーによって管理されています\n   編集するにはサーバーから切断してください",
+      "color": "gray"
+    }
+  ],
+  "text.owo.config.button.reload": "再読み込み",
+  "text.owo.config.button.done": "完了",
+  "text.owo.config.sections_tooltip": "セクション一覧",
+  "text.owo.config.sections": {
+    "text": "セクション",
+    "underlined": true
+  },
+  "text.owo.config.list.add_entry": "項目を追加",
+  "text.owo.config.boolean_toggle.enabled": [
+    "",
+    {
+      "text": "[",
+      "color": "gray"
+    },
+    {
+      "text": "✔",
+      "color": "#28FFBF"
+    },
+    {
+      "text": "]",
+      "color": "gray"
+    },
+    " 有効"
+  ],
+  "text.owo.config.boolean_toggle.disabled": [
+    "",
+    {
+      "text": "[",
+      "color": "gray"
+    },
+    {
+      "text": "✖",
+      "color": "#EB1D36"
+    },
+    {
+      "text": "]",
+      "color": "gray"
+    },
+    " 無効"
+  ]
+}

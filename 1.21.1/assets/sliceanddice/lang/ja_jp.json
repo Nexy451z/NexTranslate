@@ -1,0 +1,18 @@
+{
+  "fluid.sliceanddice.fertilizer": "液体肥料",
+  "sliceanddice.ponder.sprinkler/intro.header": "上からの散水",
+  "sliceanddice.ponder.sprinkler/intro.text_1": "パイプの下にスプリンクラーを設置する",
+  "sliceanddice.ponder.sprinkler/uses.header": "散水の種類",
+  "sliceanddice.ponder.sprinkler/uses.text_1": "流体の種類によってエンティティへの効果も変わる",
+  "sliceanddice.recipe.assembly.slicer": "スライサーで切断",
+  "sliceanddice.recipe.slicer": "スライサー",
+  "block.sliceanddice.fertilizer": "肥料",
+  "block.sliceanddice.slicer": "スライサー",
+  "block.sliceanddice.sprinkler": "スプリンクラー",
+  "item.sliceanddice.fertilizer_bucket": "液体肥料入りバケツ",
+  "sliceanddice.gui.contraptions.wrong_direction": "この %s は逆方向に回転しているようです。",
+  "sliceanddice.ponder.slicer.header": "スライサーでの切断",
+  "sliceanddice.ponder.slicer.text_1": "有効な道具で右クリックする",
+  "sliceanddice.ponder.slicer.text_2": "スライサーは大釜の上でも動作する",
+  "sliceanddice.tooltip.rotationDirection": "回転方向"
+}

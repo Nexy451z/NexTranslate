@@ -1,0 +1,7 @@
+{
+  "itemGroup.easy_piglins": "Easy Piglins",
+  "block.easy_piglins.barterer": "ピグリン物々交換器",
+  "gui.easy_piglins.input_items": "搬入アイテム",
+  "gui.easy_piglins.output_items": "搬出アイテム",
+  "message.easy_piglins.cant_pick_up": "敵対中または取引中のピグリンは回収できません"
+}

@@ -1,0 +1,11 @@
+{
+  "rosetta.done": "完了",
+  "rosetta.next": "次へ",
+  "rosetta.back": "戻る",
+  "rosetta.replay.title": "Rosetta チュートリアル一覧",
+  "rosetta.replay.empty": "登録されたチュートリアルはありません",
+  "rosetta.notifications.title": "通知一覧",
+  "rosetta.notifications.empty": "通知はありません",
+  "key.rosetta.notifications": "通知",
+  "key.categories.rosetta": "Rosetta"
+}

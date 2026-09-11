@@ -1,0 +1,7 @@
+{
+  "options.verticalstretch": "垂直方向の描画引き伸ばし",
+  "options.horizontalstretch": "水平方向の描画引き伸ばし",
+  "options.verticalstretch.tooltip": "上下方向のチャンク断面の描画範囲を制御します。100%で完全な球形になり、設定値を上げるほど四隅のチャンク描画がスキップされてパフォーマンスが向上します。",
+  "options.horizontalstretch.tooltip": "左右の端におけるチャンク断面の描画範囲を制御します。0%でバニラ同等の円形になり、設定値を上げるほど四隅のチャンク描画がスキップされてパフォーマンスが向上します。",
+  "options.button.sodium": "Sodium 描画設定"
+}

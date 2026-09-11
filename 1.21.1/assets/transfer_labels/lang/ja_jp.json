@@ -1,0 +1,23 @@
+{
+  "filter.type.exact_count": "個数完全一致フィルター",
+  "filter.type.exact_count.tooltip": "フィルターで指定した個数と同じ場合のみ転送します",
+  "filter.type.mod": "Mod フィルター",
+  "filter.type.mod.tooltip": "フィルターで指定したものと同じ Mod ID の場合のみ転送します",
+  "filter.type.normal": "通常フィルター",
+  "filter.type.normal.tooltip": "フィルターと同じものの場合のみ転送します",
+  "filter.type.regulating": "数量維持フィルター",
+  "filter.type.regulating.tooltip": "送り先の数量をフィルター指定量に保つよう転送します",
+  "filter.type.scroll": "*スクロールでフィルター種別を変更*",
+  "filter.type.tag": "タグフィルター",
+  "filter.type.tag.tooltip": "フィルターで指定したものと同じタグの場合のみ転送します",
+  "item.transfer_labels.fluidstack_extract_transfer_label": "液体抽出転送ラベル",
+  "item.transfer_labels.fluidstack_insert_transfer_label": "液体挿入転送ラベル",
+  "item.transfer_labels.itemstack_extract_transfer_label": "アイテム抽出転送ラベル",
+  "item.transfer_labels.itemstack_insert_transfer_label": "アイテム挿入転送ラベル",
+  "item.transfer_labels.label_accessor": "ラベルアクセサー",
+  "itemGroup.transfer_labels": "Transfer Labels",
+  "tooltip.transfer_labels.blacklist": "ブラックリスト",
+  "tooltip.transfer_labels.slot.amount": "量",
+  "tooltip.transfer_labels.slot.speed": "速度",
+  "tooltip.transfer_labels.whitelist": "ホワイトリスト"
+}
