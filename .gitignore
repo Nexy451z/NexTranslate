@@ -5,3 +5,6 @@
 
 # Local backups
 *.bak
+
+# ATM11 quest translation: local English source snapshot (not redistributed)
+ATM11-Quests/_source/

@@ -1,0 +1,27 @@
+{
+  "quest.0C93D7A607AB8B83.quest_desc": [
+    "チャンクを確保するには、&6M&rでマップを開き、左上の&aチャンク確保&rアイコンをクリックします。\n\nチャンクを確保するには、左クリックしてドラッグします。\n\nチャンクを強制読み込みするには、そのチャンクをShift+左クリックします。正しく設定されると、チャンクを横切る線が表示されます。"
+  ],
+  "quest.3BC0A50886A3222B.title": "&dATM11へようこそ、アーリーバード！",
+  "task.201F519941A2C7F4.title": "AllRightsReserved",
+  "task.52BB142F044075B4.title": "クエスト",
+  "quest.7658C1C663394E85.quest_desc": [
+    "ATMには便利なコマンドがたくさんあります。いくつか紹介します:\n\n&e/sethome&r (ホーム名) | テレポートで戻れるホームを設定します。/home (名前)でテレポートできます。例: /sethome farm と入力し、/home farm でテレポート。\n\n&e/spawn&r | オーバーワールドのスポーン地点にテレポートします。\n\n&e/rtp&r | 「ランダムテレポート」。ワールド内のランダムな場所へテレポートします。\n\n注意: これらのコマンドにはクールダウンと回数制限があります。変更したい場合は、以下にある設定ファイルを編集してください:\n\n - シングルプレイヤー | &osaves/(セーブ名)/serverconfig/ftbessentials.snbt&r\n\n - サーバー | &oworld/serverconfig/ftbessentials.snbt&r"
+  ],
+  "quest.5AC1BE754210429E.quest_desc": [
+    "友達と一緒にチームを作りたい場合は、コマンド&a/ftbteams party create (チーム名)&rでチームを作成できます！"
+  ],
+  "task.2C816285392535F0.title": "AllRightsReserved",
+  "quest.3708A4780ACEB34E.quest_desc": [
+    "このMODパックではクエストは任意です。MODの進行がクエストによって制限されることはありません！\n\nメインクエストライン以外の個々のクエストラインの多くは、MODのガイドとして機能します。進行に沿って進めたい場合は、メインクエストラインを確認してください！"
+  ],
+  "task.103C42C743E2A2DB.title": "チャンクの確保",
+  "quest.49EDAA2F57D3BF1D.quest_desc": [
+    "このクエストは、AllTheMods Modpack内で使用するために&6AllTheModsスタッフ&rまたは&2コミュニティ貢献者&rによって作成されました。\n\nすべての&6AllTheMods&rパックは&eAll Rights Reserved&rライセンスの下にあり、このクエストは&6AllTheModsチーム&rが明示的に許可なくリリースしたものではない公開パックで使用することはできません。\n\nこのクエストは意図的に非表示になっています。表示されている場合は編集モードです。"
+  ],
+  "task.4F13A02FB0055A62.title": "チームの作成",
+  "quest.3BC0A50886A3222B.quest_desc": [
+    "ATM11は、自分だけのやり方でMOD入りMinecraftの世界を探索できるなんでもありのMODパックです！\n\n質問や問題があれば、ATMのDiscordに気軽に参加してください！"
+  ],
+  "task.10A16F89D4AD238D.title": "便利なコマンド"
+}
