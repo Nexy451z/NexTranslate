@@ -418,7 +418,7 @@
   "jade.access.creeper.powered": "帯電した {0}",
   "jade.access.zombie_villager.curing": "治療中の {0}",
   "jade.access.goat.hornless": "角のない {0}",
-  "jade.access.wither.powered": "アーマーをまとった {0}",
+  "jade.access.wither.powered": "パワード{0}",
   "jade.access.entity.sheared": "毛刈りされた {0}",
   "jade.access.entity.shearable": "毛刈り可能な {0}",
   "jade.access.entity.exposed": "風化した {0}",

@@ -695,7 +695,7 @@
   "text.autoconfig.refinedstorage.option.fallbackSecurityCard": "標準セキュリティカード設定",
   "text.autoconfig.refinedstorage.option.fallbackSecurityCard.tooltip": "標準セキュリティカードの個別設定です。",
   "text.autoconfig.refinedstorage.option.fallbackSecurityCard.energyUsage": "消費エネルギー",
-  "text.autoconfig.refinedstorage.option.fallbackSecurityCard.energyUsage.tooltip": "標準セキュリティカードが消費するエネルギー量です。",
+  "text.autoconfig.refinedstorage.option.fallbackSecurityCard.energyUsage.tooltip": "フォールバックセキュリティーカードが使用するエネルギー。",
   "text.autoconfig.refinedstorage.option.securityManager": "セキュリティマネージャー設定",
   "text.autoconfig.refinedstorage.option.securityManager.tooltip": "セキュリティマネージャーの個別設定です。",
   "text.autoconfig.refinedstorage.option.securityManager.energyUsage": "消費エネルギー",
