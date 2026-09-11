@@ -1,0 +1,185 @@
+{
+  "quest.01B7B66FAAAAEAE5.quest_desc": [
+    "{image:atm:textures/questpics/pro_farming/farm_anemone.png width:100 height:150 align:center}"
+  ],
+  "quest.01B7B66FAAAAEAE5.quest_subtitle": "白",
+  "quest.06B197EB778C17AC.quest_desc": [
+    "&6交配&rは&d花&rと同様に、&2作物&rでも同じことができます！ \n\n&6ミツバチ&rが特定の&2作物&rのある場所で受粉すると、&6突然変異&rを起こすものもあります。 \n\n&lJEI&rで、交配に必要な&2作物&rを確認しましょう。"
+  ],
+  "quest.06B197EB778C17AC.title": "&6突然変異",
+  "quest.095024BF19ABA326.quest_desc": [
+    "オレンジパプリカと緑パプリカの組み合わせ。"
+  ],
+  "quest.0D04BCF5940E2AF1.quest_desc": [
+    "ブルージェイドコーンとブラックアステカコーンを組み合わせると、シュガーパールコーンができます。"
+  ],
+  "quest.126CCC6B187C0B18.quest_desc": [
+    "最後に、ブラックアステカコーンとシュガーパールコーンを混ぜると、レインボーコーンができます。"
+  ],
+  "quest.15474BAF1997CD27.quest_desc": [
+    "{image:atm:textures/questpics/pro_farming/farm_balloon.png width:100 height:150 align:center}"
+  ],
+  "quest.15474BAF1997CD27.quest_subtitle": "紫",
+  "quest.15474BAF1997CD27.title": "&5キキョウ",
+  "quest.158978D35BDA805D.quest_desc": [
+    "ラズベリーと…サンゴールドトマトの掛け合わせ？ \n\nでも片方はベリーで、片方はトマト？ まったく意味が分かりません！"
+  ],
+  "quest.167554E0A562B60A.quest_desc": [
+    "赤と黄色のパプリカの掛け合わせ！ \n\nまあ、だいたい分かりますよね…オレンジ色なんですから…"
+  ],
+  "quest.1699BD1B8B348B7C.quest_desc": [
+    "ブルージェイドコーンとイエローデントコーンの組み合わせは、ブラックアステカコーンです。"
+  ],
+  "quest.2117CE8C21A9EE98.quest_desc": [
+    "赤と黒のパプリカの組み合わせ。"
+  ],
+  "quest.223F47BDD763F306.quest_desc": [
+    "チェリートマトは、ランダムでチョコレートペアトマトに突然変異することがあります。 \n\nチョコレートや洋梨がどこから来たのかは分かりませんが、まあいいでしょう！"
+  ],
+  "quest.244B10862943A802.quest_subtitle": "クレイジーな世界",
+  "quest.2AFB12E742596864.quest_desc": [
+    "&aファームコントローラー&rは、&a&l自動農場&rの心臓部です。あらゆる農場に最適なマルチブロック機械なんですよ！ \n\n建て方は次のクエストで説明するので、ここでは使い方だけを説明します。 \n\nこの&a&l自動農場&rは、構造物内で育つすべての&2作物&rを栽培し、収穫し、植え直します。&a&lProductive Farming&r、&2&lMystical Agriculture&r、そして&2&lバニラ&rの&2作物&rまで、すべて栽培可能です！ \n\nドロップはすべてコントローラーに集められ、手動またはパイプで取り出せます。"
+  ],
+  "quest.2AFB12E742596864.title": "&a&l自動農場",
+  "quest.2BFC97460B4B49F1.quest_desc": [
+    "チョコレートペアトマトとイエローペアトマトの掛け合わせで、サンゴールドトマトができます。"
+  ],
+  "quest.2CFD0DF119CC5E85.quest_desc": [
+    "さて、次は建築パートです。まずは使用するブロックを選びましょう。 \n\nクエストの達成に使えるブロックの膨大なリストが表示されるかもしれませんが、これらはすべて&a&l構造物&rを構成できるブロックです。 \n\n（基本的にレンガとガラスなら何でも）。ブロックは自由に組み合わせて使えます。うるさいことは言いませんからね！ \n\n実際の&a&l構造物&rは壁と内部空間だけです。壁はこれらのブロックで作る必要があり、内部はブロックの体積が一定以下である必要があります。 \n\n最小サイズは2x2の&a&l自動農場&rです。最大は内部の体積が200ブロックになるまでです。体積と言うのは、作物自体を含めるために高さ2ブロック分として面積を数えるためです。つまり、内部の広さが10x10なら最大サイズになります。 \n\n内部には、植え付けに使う&2耕地&rや&9水&rなどを設置します。&2耕地&rは湿らせるために&9水&rがやはり必要です（XyCraftの&9ウォーターブロック&rがおすすめです）。 \n\n&2作物 &fまたは&2耕地&rの上に肥料や成長アクセラレーターを置けば、成長を速めることができます！",
+    "{image:atm:textures/questpics/pro_farming/farm_autofarm.png width:150 height:100 align:center}"
+  ],
+  "quest.2CFD0DF119CC5E85.title": "建て方",
+  "quest.2DB404AA2832F81D.quest_desc": [
+    "{image:atm:textures/questpics/pro_farming/farm_holly.png width:100 height:150 align:center}"
+  ],
+  "quest.2DB404AA2832F81D.quest_subtitle": "青",
+  "quest.2DB404AA2832F81D.title": "&9エリンジウム",
+  "quest.2F1B74D45E50A079.quest_desc": [
+    "{image:atm:textures/questpics/pro_farming/farm_lobelia.png width:100 height:150 align:center}"
+  ],
+  "quest.2F1B74D45E50A079.quest_subtitle": "ウルトラマリン",
+  "quest.2F1B74D45E50A079.title": "&9オオロベリア",
+  "quest.3111C0CA63A82E7A.quest_desc": [
+    "ブルージェイドコーンは、イエローデントコーンとヤグルマギクから作られます。 \n\nだから「コーンフラワー」と呼ばれているんですね！"
+  ],
+  "quest.33C3C334981AF72E.quest_desc": [
+    "チェリートマトとその第2進化形（このネタ、前にも使いませんでしたっけ？）であるチョコレートペアトマトを組み合わせると、イエローペアトマトになります。 \n\n黄色はどこから来たんでしょう？ それともまた洋梨？"
+  ],
+  "quest.383EDBE9AAAF4C99.quest_subtitle": "マイクライン",
+  "quest.3BB39CC4E8F40B67.quest_subtitle": "1,2... 1,2",
+  "quest.3CBF4D703AA17199.quest_desc": [
+    "&a&lProductive Farming&rは、（これを書いている時点では）最新のProductiveシリーズMODです。 \n\nこのMODは、自動農場のマルチブロック構造物、新しい作物、そしてさらに多くの花とその染料の色をもたらします！ \n\n&6&lProductive Bees&rや&l&cD&6y&ee&an&ba&dm&ci&6c&es&rとも連携して動作します！"
+  ],
+  "quest.3CBF4D703AA17199.quest_subtitle": "いったい何個のMODを作るつもりなんだろう？",
+  "quest.3CBF4D703AA17199.title": "&a&lProductive Farming",
+  "quest.3E57854E27545581.quest_desc": [
+    "オレンジと黄色のパプリカの掛け合わせ。"
+  ],
+  "quest.42AE629EBAA3AA94.quest_desc": [
+    "{image:atm:textures/questpics/pro_farming/farm_skullcap.png width:100 height:150 align:center}"
+  ],
+  "quest.42AE629EBAA3AA94.quest_subtitle": "紫",
+  "quest.42AE629EBAA3AA94.title": "&5タツナミソウ",
+  "quest.439705A42B6DC4D1.quest_desc": [
+    "{image:atm:textures/questpics/pro_farming/farm_cattail.png width:100 height:150 align:center}"
+  ],
+  "quest.439705A42B6DC4D1.quest_subtitle": "茶色",
+  "quest.439705A42B6DC4D1.title": "&8ガマ",
+  "quest.44DA8B6C651B3456.quest_desc": [
+    "ゴジベリーとゴールデンラズベリーを掛け合わせると、ミラクルベリーができます。 \n\nミラクルベリーには、味蕾を変化させて酸味を感じなくさせるという驚くべき効果があります。つまり、酸っぱいはずのものがすべて甘く感じるんです！ \n\nぜひ試してみてください！"
+  ],
+  "quest.46932B57EF21D346.quest_desc": [
+    "&9ウォータリングトラフ&rは、動物の世話に役立つもうひとつのブロックです。 \n\nただし、&c動物の餌&rではなく&9水入りバケツ&rを消費します！ \n\n動物の赤ちゃんが&9ウォータリングトラフ&rの近くにいると、そうでない赤ちゃんより速く成長します。 \n\n&9水&rを補充し続けるのを忘れないでくださいね！"
+  ],
+  "quest.46932B57EF21D346.title": "&9ウォータリングトラフ",
+  "quest.48323FABB7E3D31E.quest_desc": [
+    "ローマトマトとその第2進化形であるビーフステーキトマトを組み合わせると、ブルービューティートマトができます。 \n\nただし、別の2種類のトマトになることもあります。"
+  ],
+  "quest.4B2754CD11FFE247.quest_desc": [
+    "{image:atm:textures/questpics/pro_farming/farm_amaryllis.png width:100 height:150 align:center}"
+  ],
+  "quest.4B2754CD11FFE247.quest_subtitle": "マルーン",
+  "quest.4B2754CD11FFE247.title": "&4アマリリス",
+  "quest.4B5FCDD5FC705903.quest_desc": [
+    "&d花&rが嫌いな人なんていませんよね！ 飾り付けやプレゼントにぴったりです。女性は&d花&rを贈られると喜びます。 \\n\\n&a&lProductive Farming&rは、たくさんの新しい&d花&rを追加してくれます。これらは&2&lバニラ&r&dの花&rと同じように野生で見つけられ、&2草&rに骨粉を使っても見つかります。 \\n\\n新しく追加された花も元からある&d花&rも、それぞれ決まった染料が取れますが、こだわり派には&6受粉&rによる&6突然変異&rで色や種類を掛け合わせる方法があります。 \\n\\n&d花&rが&6ミツバチの巣&rの近くにあると、他の&d花&rと&6突然変異&rや&6交配&rを起こすことがあります。そうして&d花&rは色や種類を交換したり、組み合わせたりできるんです！ 白いバラ、&0黒いヒマワリ&r、&c赤いチューリップ&rなんて手に入りますよ！"
+  ],
+  "quest.4B5FCDD5FC705903.quest_subtitle": "バラはいつでも赤く塗れるものです",
+  "quest.4B5FCDD5FC705903.title": "&d花",
+  "quest.507821D8F9C064CF.quest_desc": [
+    "緑と赤のブドウを混ぜると、コンコードブドウになります。 \n\n別名、紫ブドウ！"
+  ],
+  "quest.512A525B513DA118.quest_desc": [
+    "{image:atm:textures/questpics/pro_farming/farm_chrysanthemum.png width:100 height:150 align:center}"
+  ],
+  "quest.512A525B513DA118.quest_subtitle": "マゼンタ",
+  "quest.512A525B513DA118.title": "&dキク",
+  "quest.523AD3D448DE58A6.quest_desc": [
+    "{image:atm:textures/questpics/pro_farming/farm_hellebore.png width:100 height:150 align:center}"
+  ],
+  "quest.523AD3D448DE58A6.quest_subtitle": "灰色",
+  "quest.523AD3D448DE58A6.title": "&7ヘレボルス",
+  "quest.53CD2E3D27601F3F.quest_desc": [
+    "{image:atm:textures/questpics/pro_farming/farm_cape.png width:100 height:150 align:center}"
+  ],
+  "quest.53CD2E3D27601F3F.quest_subtitle": "アイスブルー",
+  "quest.53CD2E3D27601F3F.title": "&bルリマツリ",
+  "quest.540F3CA118762DDB.quest_desc": [
+    "&cフィーディングトラフ&rは、&a&lProductive Farming&rによって追加されたブロックです。 \n\n9つのインベントリスロットがあり、それぞれ&c動物の餌&rを1スタックまで保持でき、パイプで搬入する必要があります。 \n\nどんな&c動物の餌&rがいいのかって？ \n\n同じ種類の動物を2匹繁殖させるのに使えるものなら何でもOKです！ 小麦？ もちろん！ 竹？ それもOK！ ただし竹は動物の近くに植えておいてくださいね。"
+  ],
+  "quest.540F3CA118762DDB.title": "&cフィーディングトラフ",
+  "quest.5854DA8F791AD71F.quest_desc": [
+    "{image:atm:textures/questpics/pro_farming/farm_nettle.png width:100 height:150 align:center}"
+  ],
+  "quest.5854DA8F791AD71F.quest_subtitle": "緑",
+  "quest.5854DA8F791AD71F.title": "&2セイヨウイラクサ",
+  "quest.5969AEE09A61EC16.quest_desc": [
+    "ローマトマトとその第2進化形であるビーフステーキトマトを組み合わせると、ホワイトワンダートマトができます。 \n\nただし、別の2種類のトマトになることもあります。"
+  ],
+  "quest.5B21A7A5ED1DDABB.quest_desc": [
+    "ビーフステーキトマトは、ローマトマトとのランダムな突然変異で生まれることがあります。"
+  ],
+  "quest.60521AAE8BAA32C5.quest_desc": [
+    "{image:atm:textures/questpics/pro_farming/farm_hydrangea.png width:100 height:150 align:center}"
+  ],
+  "quest.60521AAE8BAA32C5.quest_subtitle": "ピンク",
+  "quest.60521AAE8BAA32C5.title": "&dアジサイ",
+  "quest.6479A38086A43E49.quest_desc": [
+    "{image:atm:textures/questpics/pro_farming/farm_zinnia.png width:100 height:150 align:center}"
+  ],
+  "quest.6479A38086A43E49.quest_subtitle": "アンバー",
+  "quest.6479A38086A43E49.title": "&eヒャクニチソウ",
+  "quest.66D27708343F9DB4.quest_desc": [
+    "緑ブドウとコンコードブドウを掛け合わせると、コットンキャンディブドウができます。 \n\n味はコットンキャンディというよりバースデーケーキ風味のブドウですが…それでもとてもおいしいです！"
+  ],
+  "quest.699F91BC5CA58FE2.quest_desc": [
+    "これらの&2作物&rを手に入れるには、農民の村人から&2種&fまたは&2作物&rを買う必要があります。 \n\nどうやって手に入れたのかは聞かないでください… \n\n農民は&aエメラルド&rと引き換えに&2種&fまたは&2作物&rを取引してくれますが、新しい&2種&fまたは&2作物&rのないレベル5までです。 \n\n農民が売る&2種&fまたは&2作物&rが完全にランダムだって？ そのとおり！ コンポスターを切り替えて頑張ってください！ \n\n村のアーティファクトを移す絶好の機会です。"
+  ],
+  "quest.699F91BC5CA58FE2.title": "&2作物",
+  "quest.6AF7427DCA9D66D2.quest_desc": [
+    "{image:atm:textures/questpics/pro_farming/farm_dahlia.png width:100 height:150 align:center}"
+  ],
+  "quest.6AF7427DCA9D66D2.quest_subtitle": "黒",
+  "quest.6AF7427DCA9D66D2.title": "&0ダリア",
+  "quest.6C31A50068FBA0EE.quest_desc": [
+    "{image:atm:textures/questpics/pro_farming/farm_bearded.png width:100 height:150 align:center}"
+  ],
+  "quest.6C31A50068FBA0EE.quest_subtitle": "灰色",
+  "quest.6C31A50068FBA0EE.title": "&8ブラックジャーマンアイリス",
+  "quest.7264CC40170E461A.quest_desc": [
+    "ローマトマトとその第2進化形であるビーフステーキトマトを組み合わせると、ブラックビューティートマトができます。 \n\nただし、別の2種類のトマトになることもあります。"
+  ],
+  "quest.739C0DB291B1563C.quest_desc": [
+    "{image:atm:textures/questpics/pro_farming/farm_valerian.png width:100 height:150 align:center}"
+  ],
+  "quest.739C0DB291B1563C.quest_subtitle": "白",
+  "quest.7514CF65A077985E.quest_desc": [
+    "{image:atm:textures/questpics/pro_farming/farm_himalayan.png width:100 height:150 align:center}"
+  ],
+  "quest.7514CF65A077985E.quest_subtitle": "水色",
+  "quest.7514CF65A077985E.title": "&bヒマラヤポピー",
+  "quest.7EF3DB8B5258FA34.quest_desc": [
+    "{image:atm:textures/questpics/pro_farming/farm_motherwort.png width:100 height:150 align:center}"
+  ],
+  "quest.7EF3DB8B5258FA34.quest_subtitle": "ピーチ",
+  "quest.7EF3DB8B5258FA34.title": "&6メハジキ"
+}
