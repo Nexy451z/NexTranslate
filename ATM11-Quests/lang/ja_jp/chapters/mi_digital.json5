@@ -1,0 +1,174 @@
+{
+  "quest.00C95A190BE2CBF9.quest_desc": [
+    "&#994ABAスチレン&rを得るには、&#C2C969鉄の粉&rを&#69C9B6エチルベンゼン&rと蒸気で反応させる必要があります。&#69C9B6エチルベンゼン&rは&#CDCF95スチームクラックドナフサ&rを蒸留した生成物です。"
+  ],
+  "quest.00C95A190BE2CBF9.title": "高度な蒸留",
+  "quest.011B8BD02D80DDD4.quest_desc": [
+    "&#6E2D6Eタングステン鉱石&rは世界中で簡単に見つかります。採掘すると&#A140A1タングステンの原石&rが得られます。"
+  ],
+  "quest.024BD22824C7F53A.quest_desc": [
+    "&#F0C87Dスチームクラックドナフサ&rを蒸留すると&#8FD5E3トルエン&rが得られます。"
+  ],
+  "quest.09BE81548CD81068.quest_desc": [
+    "ついに&#FFEB6EAllthemods Star&rに必要なコンポーネントを作れるところまで到達しました!!"
+  ],
+  "quest.0B60DA8F65E5DF06.quest_desc": [
+    "&#A140A1タングステンの原石&rは、さまざまな方法で粉砕して&#C452C4タングステンの粉&rにできます。"
+  ],
+  "quest.0C229BE9B57269EF.quest_desc": [
+    "&#EBA844カンタルの粉&rは&#816DF7電気高炉&rで精錬する必要があります。"
+  ],
+  "quest.0CD36928116E868E.quest_desc": [
+    "&#F783F3塩化ビニル&rは&#9683F7鉛の小さな粉&rまたは&#FEA8FFクロムの小さな粉&rと混ぜると&#F36EF5ポリ塩化ビニル&rが得られます。"
+  ],
+  "quest.0EA327E405EDFF02.quest_desc": [
+    "&#9C6C35アセチレン&rを&#DEAB6D塩酸&rと混ぜると&#F783F3塩化ビニル&rが得られます。"
+  ],
+  "quest.1A83615B7E1D3540.quest_desc": [
+    "&9水&rを燃料と一緒に&#45BF56原子炉&rに入れると&#8F49C4重水素&rが得られます。他の方法でも入手できますが、&#45BF56原子炉&rが最速です。"
+  ],
+  "quest.226187AA3F1B6DB1.quest_desc": [
+    "&#D4C35D砂&r、&8火打石&r、&#8DF0EE窒素&r、&#69C9C7トルエン&rを混ぜ合わせると&#D66D40工業用TNT&rが得られます。"
+  ],
+  "quest.22B8D57337944D9C.quest_desc": [
+    "&#DF9DE0チタンの熱いインゴット&rは&#5CD1CF真空冷却機&rで冷却すると、使用可能な&#F069F0チタンインゴット&rになります。"
+  ],
+  "quest.22B8D57337944D9C.title": "&#F069F0チタンインゴット",
+  "quest.23DB52ECA259F36D.quest_desc": [
+    "&#45BF56原子炉&r内の重水は&#EB5266トリチウム&rと&#C09EDE重水蒸気&rを生成します。",
+    "",
+    "&#EB5266トリチウム&rは高度なコンポーネントに使われ、一方&#C09EDE重水蒸気&rは&#DEAB47熱交換器&rで&#8C47C9重水&rに再利用できます。"
+  ],
+  "quest.267A357B28228694.quest_desc": [
+    "&#4DB85Eランダムアクセスメモリ&rは&#5EC7E6化学反応炉&rで&#A1A1A1スチレン-ブタジエンゴム&r、&#D15EE6アルゴン&r、&7アンチモンの粉&r、&#5ED2E6アルミニウムの粉&r、&#5D76C2シリコンウェハー&rから作られます。"
+  ],
+  "quest.282A23C3E7561796.quest_desc": [
+    "&#94C0E3処理アレイ&rは、マシンを並列で動作させた状態をシミュレートできる大型マルチブロックです。最大並列数は&#94E3A264&rです。",
+    "",
+    "マルチブロックを建設するには、まずコントローラーブロックのGUIでシミュレートしたいマシンの並列数を選択します。",
+    "",
+    "{image:atm:textures/questpics/modernindustrialization/proc_array_gui.png width:175 height:100 align:center}",
+    "",
+    "{@pagebreak}",
+    "使用するには、シミュレートしたいマシンをGUI右側のスロットに入れる必要があります。実行したい操作数と同じ台数のマシンが必要です。",
+    "",
+    "また、&#94C0E3処理アレイ&rは通常どおりすべてのアップグレードにも対応しています。"
+  ],
+  "quest.2A95F4F998835B43.quest_subtitle": "ナゲット9個 → インゴット1個",
+  "quest.3003598CE8B1FAAA.quest_subtitle": "より優れたテクノロジー",
+  "quest.3003598CE8B1FAAA.title": "さらに高度なコンポーネント",
+  "quest.31CB278B4BA7B25E.quest_desc": [
+    "&#B5E7F7液体空気&rを遠心分離すると、&#A5CAD9酸素&r、&#78ADC2窒素&r、&#DD91EDアルゴン&rの3つの生成物が得られます。この&#DD91EDアルゴン&rは近いうちに使うことになります。"
+  ],
+  "quest.31CB278B4BA7B25E.quest_subtitle": "理にかなっている",
+  "quest.31CB278B4BA7B25E.title": "空気の遠心分離",
+  "quest.32D3818F3455F152.title": "まだここにはない",
+  "quest.352A226915809E1B.quest_desc": [
+    "&#A57DE3パッカー&rを使うと、&#7DD2E3ステンレス鋼&r、&#B37DE3タングステン&r、&#E37DDBチタンインゴット&rを組み合わせて新しい&#3946E3混合耐爆インゴット&rを作れるようになります。 "
+  ],
+  "quest.35FDC436DE07635F.quest_desc": [
+    "&#DB62DE爆縮圧縮機&rは爆薬の力で資源を結合します。より効率的に&#8762DE混合耐爆合金インゴット&rをはじめ、多くの有用な資源を得るのに使えます。"
+  ],
+  "quest.3601DD545E1D11B4.quest_desc": [
+    "&#DD91EDアルゴン&rを&#83729Eシリコンの粉&r、&#AAA0BAイリジウムの小さな粉&rと反応させると&#919191単結晶シリコン&rが得られます。",
+    "",
+    "&#AAA0BAイリジウム&rはオーバーワールドで鉱石として見つかります。"
+  ],
+  "quest.36D35C35BBC0A555.quest_subtitle": "最も効率的な方法",
+  "quest.386ABEB4249D157D.quest_desc": [
+    "&#919191単結晶シリコン&r1個は&#8FA4B5シリコンウェハー&r32枚に切り出せます。"
+  ],
+  "quest.3891F8D4201E6BFD.quest_desc": [
+    "&#EBA844カンタルインゴット&rは細線に加工でき、それをケーブルに成形すると最終的に&#EBA844カンタルコイル&rになります。 ",
+    "",
+    "&#EBA844カンタルコイル&rを使うと&#816DF7電気高炉&rをはるかに高い&#F76D6D温度&rで稼働させることができ、より多くのレシピを処理できるようになります。",
+    "",
+    "&#816DF7電気高炉&rのGUIでコイルを交換する必要があります。",
+    "",
+    "{image:atm:textures/questpics/modernindustrialization/switch_to_kanthal.png width:150 height:75 align:center}"
+  ],
+  "quest.39A0BA6E2A72A681.quest_desc": [
+    "&#99F0F0ステンレス鋼&r、&#ADDBDBアルミニウム&r、&#E9A8F7クロムの粉&rを混ぜると&#EBA844カンタルの粉&rが得られます。"
+  ],
+  "quest.3A0C8BCE197A448B.quest_desc": [
+    "&#827AFFスチレン-ブタジエン&rは&#9683F7鉛の小さな粉&rまたは&#FEA8FFクロムの小さな粉&rと混ぜると&#A1A1A1スチレン-ブタジエンゴム&rになります。"
+  ],
+  "quest.3ACC27B786CDCF22.quest_desc": [
+    "&#3ABEC7電気圧縮機を使うと&#CE5ADBタングステンの小さな粉&rを&#AF22BFタングステンナゲット&rに変換できます。"
+  ],
+  "quest.3B1CDC2DD05CAE80.quest_desc": [
+    "&#F36EF5ポリ塩化ビニル&rと&#6EBAF5白金の板&r、&#C4C362カドミウム電池&r、&#F7BB57焼きなまし銅ケーブル&r、&#57BFF7デジタル回路基板&rを組み合わせると&#EBE56Eプロセッシングユニット基板&rが得られます。"
+  ],
+  "quest.3CB05026BC4C5577.quest_desc": [
+    "現時点では、&#3946E3混合耐爆インゴット&rを使って&#6F93C7電気圧縮機&rで&#986FC7耐爆合金板&rを非常に非効率ながら作ることができます。"
+  ],
+  "quest.3FE2A649F07DF28D.quest_subtitle": "Extreme Reactorsのブルトニウムを粉砕するとプルトニウムの粉になります",
+  "quest.3FE489E6B1FAC24B.quest_subtitle": "使用済み燃料棒のリサイクル",
+  "quest.3FE489E6B1FAC24B.title": "プルトニウムの入手",
+  "quest.40F2EDB9384CE782.quest_desc": [
+    "&#DBE37Fスチームクラックド軽質燃料&rを蒸留すると&#9C6C35アセチレン&rが生成物として得られます。"
+  ],
+  "quest.4A06CCE1FE0F333C.quest_desc": [
+    "&#74C3DBエアインテーク&rを&#46CAF2真空冷却機&rに入れると&#B5E7F7液体空気&rが得られます。"
+  ],
+  "quest.4A618CA66AD6223D.quest_subtitle": "さらなる電力入力",
+  "quest.4F870252E9FB1A41.quest_desc": [
+    "原子炉は燃料棒を燃料にできます。これはクラフトできる中で最も基本的な燃料棒です。"
+  ],
+  "quest.50F97171D25CD2EE.quest_desc": [
+    "&#6EDDFFターボアップグレード&rは1つあたり&#FFEB6E512EU/t&rの容量を追加します。"
+  ],
+  "quest.56A4F5D301BC1E93.quest_desc": [
+    "&#6EDDFFターボアップグレード&rは1つあたり&#FFEB6E64EU/t&rの容量を追加します。"
+  ],
+  "quest.58F7C11C241DD7A4.quest_desc": [
+    "&#6AADD9蒸留塔&rは&#A3D2F0蒸留器&rの上位版です。最大の利点は、同じ入力から複数の生成物が得られることです。",
+    "",
+    "建設するには、&#6AADD9蒸留塔&rブロックのGUIを開いて高さを選択する必要があります。高さは必要な出力の数によって決まります。&#76759E原油&rを処理するには高さ3ブロックが必要です。"
+  ],
+  "quest.58F7C11C241DD7A4.quest_subtitle": "効率が重要",
+  "quest.5A4406F89DB802F0.quest_desc": [
+    "&#BB95CFスチレン&rと&#D46C85ブタジエン&rが反応すると&#827AFFスチレン-ブタジエン&rになります。"
+  ],
+  "quest.5B45AB96953FA61C.title": "デジタル時代",
+  "quest.633D6361DA680C75.quest_desc": [
+    "&#E6ED98軽質燃料&rを蒸気と混ぜると&#DBE37Fスチームクラックド軽質燃料&rが得られます。"
+  ],
+  "quest.66E78F599CD50579.quest_desc": [
+    "&#49C472原子炉&rを使うと、より上位の資源を処理できるようになります。&#8F49C4重水素&rと&#EB5266トリチウム&rの生成に使用します。",
+    "",
+    "この材料リストは「大型」原子炉を建てるのに役立ちます。速度と効率の面から、それより小型のものはおすすめしません。",
+    "{@pagebreak}",
+    "効率的な原子炉を作るための詳細は複雑すぎてここでは説明できませんが、可能な限り最良の設計をここで紹介します。",
+    "",
+    "こちらは&#8F49C4重水素&rを生成するための&#49C472大型原子炉&rの設計です。",
+    "{image:atm:textures/questpics/modernindustrialization/large_reactor.png width:100 height:100 align:center}",
+    "",
+    "こちらは&#EB5266トリチウム&rを生成するための&#49C472特大サイズの原子炉&rの設計です。",
+    "",
+    "{image:atm:textures/questpics/modernindustrialization/largest_reactor.png width:100 height:100 align:center}"
+  ],
+  "quest.66E78F599CD50579.quest_subtitle": "爆発しません",
+  "quest.672B69448F1D458B.quest_desc": [
+    "&#FAAD28熱交換器&rは&#4D7DFFExtreme Reactors&rのタービン愛好家の楽園です。このマシンは驚くほど大量の蒸気を生成できます。"
+  ],
+  "quest.672B69448F1D458B.quest_subtitle": "蒸気が止まらない",
+  "quest.6A9AE3514B5151C9.quest_desc": [
+    "&#CFB951カンタルコイル&rを使うと&#C356C4チタンの原石&rを&#DF9DE0チタンの熱いインゴット&rに処理できます。この処理には&#D49B70マンガン硫酸溶液&rが必要です。"
+  ],
+  "quest.6F183B06683D1213.quest_desc": [
+    "&#EBA844カンタルの熱いインゴット&rは&#6DC0F7真空冷却機&rで冷却できます。"
+  ],
+  "quest.6F3974CAAA555FD0.quest_subtitle": "このRAMを使いこなす",
+  "quest.75619C7174C6703C.quest_desc": [
+    "ウランの粉を遠心分離すると、いくつかのウラン同位体が得られ、さらに処理してより良い燃料棒にできます。"
+  ],
+  "quest.75619C7174C6703C.title": "ウランの粉の遠心分離",
+  "quest.78EC7D19BE24FE06.quest_subtitle": "これは爆発しません",
+  "quest.7AF6C95816E82861.quest_desc": [
+    "&#5B75D4化学反応&rで&#8F49C4重水素&rを&#AABBFA酸素&rと反応させると&#9C51DB重水&rが得られます。これは&#45BF56原子炉&rに戻すことができます。"
+  ],
+  "quest.7C73740F1B515F2C.quest_desc": [
+    "&#C452C4タングステンの粉&rは、処理できるようにするために、さらに小さな形へ分解する必要があります。"
+  ]
+}

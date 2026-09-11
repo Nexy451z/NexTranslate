@@ -1,0 +1,155 @@
+{
+  "quest.05C630D81FA89FB9.title": "まだここにはない",
+  "quest.068128395837AF4F.quest_subtitle": "蒸気と同じ",
+  "quest.08C870DC50CA49FC.quest_desc": [
+    "&#5C5C5C原油&rはそのままではあまり役に立たないが、蒸留機に通すことで、実にさまざまな用途に使える産物が得られる。",
+    "",
+    "&#C4C241硫酸性重油&r、&#CECC5F硫酸性軽油&r、&#D9D782硫酸性ナフサ&rを生産できる。"
+  ],
+  "quest.08C870DC50CA49FC.title": "&#5C5C5C原油処理",
+  "quest.0903F0D8642449B7.quest_desc": [
+    "&6アナログ回路&rからステップアップし、2ビットを超える情報を扱えるようになった。これにより、いくつかの新しいマシンの可能性が広がる。"
+  ],
+  "quest.0A9ADDE68342B987.quest_desc": [
+    "&#43DEC2ポリエチレン&rを作るには、次の化学物質の連鎖をたどる:",
+    "",
+    "&8原油&r -> &#D2CD2D硫酸性軽油&r -> &#DBD658軽油&r -> &#E2DF78蒸気分解軽油&r -> &#44D1DBエチレン&r -> &#43DEC2ポリエチレン&r。"
+  ],
+  "quest.0C94D76B87E49FFD.title": "鉄の処理",
+  "quest.103728F2BAD5AE84.title": "高度なコンポーネント",
+  "quest.1351D0594F1E6551.quest_desc": [
+    "これらの&#55EDA4基本コンポーネント&rが、処理技術の次の飛躍へと導いてくれる。"
+  ],
+  "quest.1351D0594F1E6551.title": "回路コンポーネント",
+  "quest.162807D14C173CB4.quest_desc": [
+    "&#5599ED遠心分離機&rは、何かを十分高速で回転させれば新しい物質がぽろりと出てくるという我々の仮説を証明した。用途は多いが、主に&#F2AAE5クロム&rと&#AD3497モナザイト&rの処理に必要になる。"
+  ],
+  "quest.162807D14C173CB4.quest_subtitle": "頭がぐるぐる回る、ぐるぐる…",
+  "quest.1745124F83D033B9.title": "基本コンポーネント",
+  "quest.18C0EF38430C3E67.quest_subtitle": "デジタル時代",
+  "quest.1A84DF4478D55C41.quest_subtitle": "蒸気と同じ",
+  "quest.1B4CD5AC8F6C3307.quest_desc": [
+    "&#4497DBオーバードライブモジュール&rは、レシピが現在実行されていなくてもマシンの効率を維持する。その代わり、マシンはそのレシピに固定される。"
+  ],
+  "quest.1E0EF28175A7424F.quest_desc": [
+    "すでに蒸気を生産しているなら、それを使って電気を作ってみてはどうだろう。&#6363DBタービン&rを設置して&7蒸気&rを入れ、&#DBDB63電気&rを取り出すだけだ。"
+  ],
+  "quest.1E0EF28175A7424F.quest_subtitle": "蒸気 -> 電気",
+  "quest.1F21B578FAF4CCAC.quest_subtitle": "蒸気と同じ",
+  "quest.1F3E18129B871C49.quest_subtitle": "蒸気と同じ",
+  "quest.22AD9DF2BCC04575.quest_subtitle": "エネルギーを生み出す",
+  "quest.22AD9DF2BCC04575.title": "発電",
+  "quest.256C3DBA392B4236.quest_desc": [
+    "マンガンとクロムの酸性溶液を電気分解すると、それぞれのダストが得られ、今後のレシピに使用できる。"
+  ],
+  "quest.256C3DBA392B4236.quest_subtitle": "小さなダスト9個でダスト1個",
+  "quest.2EF0C033C540A7B1.title": "ルビーの処理",
+  "quest.32D585D9F73CD9FD.quest_desc": [
+    "&#EDDF55電気溶鉱炉&rを使えば、さまざまな資源を精錬できる。レシピによっては、構造物に&#B8ED55特定のコイル&rを使用する必要がある。"
+  ],
+  "quest.374C06B3999BB0D3.quest_desc": [
+    "&#C2C78B鉄&r、&#EDB2EAクロム&r、&#BEC9A3ニッケル&r、&7マンガン&rを混ぜ合わせると、&#ADF0EEステンレス鋼のダスト&rが得られる。"
+  ],
+  "quest.3A03852E282DAA4D.quest_desc": [
+    "&#ED8055電解装置&rは、物質に瞬間的に十分なエネルギーを与え、より基本的な資源へと分解することができる。"
+  ],
+  "quest.3B9D9CB589DB2003.quest_desc": [
+    "&#71EBB4&nModern Industrialization&rのマシンは他のMODとは動作が異なる。すべてのマシンには&#E5EB71効率倍率&rがあり、レシピを実行し続けると上昇する。&#E5EB71効率&rはマシンの&#E5EB71速度&rを高める。&#E5EB71効率&rはレシピを変更するとリセットされる。",
+    "",
+    "コンポーネントを安定生産するために、1レシピにつき1台のマシンを使うことを推奨する。これがこのMODの想定された遊び方だ。アップグレードでシステムはより良くなる。これについては今後扱う。",
+    "",
+    "{image:atm:textures/questpics/modernindustrialization/prod_line.png width:100 height:100 align:center}",
+    "",
+    "{@pagebreak}",
+    "このMODのすべてのマシンは電力としてFEを受け付ける。&c16 FE&rは&#E1EB591 EU&rの電力に変換される。"
+  ],
+  "quest.3B9D9CB589DB2003.quest_subtitle": "これは役に立つ",
+  "quest.3CE72DAF431269CD.quest_desc": [
+    "&#D6AC2F偏光子&rは、投入された材料を磁化することができる。"
+  ],
+  "quest.401A3FD6A3511870.quest_subtitle": "開けゴマ",
+  "quest.401A3FD6A3511870.title": "ゲート",
+  "quest.401B559649C54C5C.quest_desc": [
+    "&#92CCF0水素&rと&#519BC9塩素&rを混ぜ合わせると、&#4FB373塩酸&rが得られる。これは&#F2A0E1クロムダスト&rの処理に使われる。"
+  ],
+  "quest.408EBED932656006.quest_desc": [
+    "&7シリコン&rをドープすると、通常の&7シリコン&rを使うよりもはるかに良い収量が得られる。"
+  ],
+  "quest.408EBED932656006.title": "ドープシリコン",
+  "quest.413F338DB07BA88C.quest_subtitle": "蒸気と同じ",
+  "quest.4A5A143A79809BB6.quest_desc": [
+    "ああ、ついにたどり着いた。電気時代へようこそ、ここからが本当の冒険の始まりだ。",
+    "",
+    "まずはバッテリー合金が必要だ…バッテリーを作るためにな。衝撃的だろう、わかってるよ。"
+  ],
+  "quest.4A5A143A79809BB6.quest_subtitle": "バッテリー合金",
+  "quest.4A5A143A79809BB6.title": "電気時代",
+  "quest.4E7B1B16C7CDA84C.quest_subtitle": "蒸気と同じ",
+  "quest.532BCAB3FBF91B1D.quest_desc": [
+    "&#44DB9Cアップグレード&rは、マシンを&#4467DBオーバークロック&r状態にして最大速度をさらに高める機能を追加する。",
+    "",
+    "マシンには各ティアのアップグレードを最大1スタックまで入れられる。&#CEDB44基本アップグレード&rは1個あたり容量を&#F7F448+2EU/t&r増やす。"
+  ],
+  "quest.548274CC00E67EC4.quest_desc": [
+    "電気の輸送は簡単だ。&#F5B027発電機&rと&#3CC1FAマシン&rの間にケーブルを置くだけでいい。LVケーブルは最大&#EEFA3C256 EU/t&rまで送電できる。"
+  ],
+  "quest.548274CC00E67EC4.quest_subtitle": "ケーブルの限界",
+  "quest.548274CC00E67EC4.title": "LVケーブル",
+  "quest.54CE9493B63620C4.quest_desc": [
+    "&#AC59EBディーゼル発電機&rは、さまざまな液体燃料を電気に変換する。序盤で最も手に入りやすいのは&7クレオソート油&rと&8合成油&rだろう。"
+  ],
+  "quest.54CE9493B63620C4.quest_subtitle": "液体燃料 -> 電気",
+  "quest.55BB4005BB4CA316.title": "モナザイトの処理",
+  "quest.5A62260FB3850092.quest_desc": [
+    "&e硫黄&r、&#6ACDE6酸素&r、&9水&rを混ぜ合わせると、&#D3D955硫酸&rが得られる。これは&7マンガンダスト&rの処理に使われる。"
+  ],
+  "quest.5AA8D2A1F3618615.quest_subtitle": "電気を運ぶ",
+  "quest.5B50AC47957F0CD7.quest_desc": [
+    "&7オイルリグ&rは、&#7A7A7Aシェールオイル&rと&#918686原油&rを掘り出してくれる。"
+  ],
+  "quest.5B50AC47957F0CD7.quest_subtitle": "ワシの鳴き声",
+  "quest.5D404ED40C6C2690.quest_subtitle": "もっと電力を入力",
+  "quest.604C003EE6B1CC6B.quest_subtitle": "蒸気と同じ",
+  "quest.6256612D46C88C0C.quest_desc": [
+    "&#723CFA変圧器&rは、ある電力範囲を別の範囲に変換する。",
+    "",
+    "&#EBC471LV&rから&#DDE548MV&rへの&#723CFA変圧器&r: &#EBC471LV&r電力を&#DDE548MV&r電力に変換し、入力5、出力1。",
+    "",
+    "&#DDE548MV&rから&#EBC471LV&rへの&#723CFA変圧器&r: &#DDE548MV&r電力を&#EBC471LV&r電力に変換し、入力1、出力5。"
+  ],
+  "quest.6256612D46C88C0C.quest_subtitle": "「自由はすべての知的生命体の権利だ」",
+  "quest.6256612D46C88C0C.title": "LV-MV変圧器",
+  "quest.6647A9652EFDDCDF.quest_desc": [
+    "&#ADF0EE高温のステンレス鋼インゴット&rを冷やすには、&#56E3DF真空冷却機&rに入れて、使える&#ADF0EEステンレス鋼インゴット&rに変えればよい。"
+  ],
+  "quest.66D4256F79D5B30B.quest_subtitle": "蒸気と同じ",
+  "quest.6A25ED4059E224D2.quest_desc": [
+    "&#ED5585蒸留機&rは、特定の液体を蒸留し、用途により適した産物を得るために使う。",
+    "",
+    "1つの入力から多数の出力が得られる場合、欲しいものを得るにはレシピをロックする必要がある。まずGUIの鍵アイコンをクリックし、矢印をクリックしてから、目的のレシピの&7'+'&rアイコンをクリックする。"
+  ],
+  "quest.6A25ED4059E224D2.quest_subtitle": "レシピをロック",
+  "quest.6E7DF4AF86A036EC.title": "シェールオイルの処理",
+  "quest.72FFD9E471242D68.quest_desc": [
+    "ステンレス鋼の精錬には通常の炉以上の熱が必要だ。以前に建設した電気溶鉱炉を使う必要がある。"
+  ],
+  "quest.744E620B7DEBB483.quest_desc": [
+    "&#27CFF5真空冷却機&rは、&#E6AD1E高温のインゴット&rや特定の液体を冷却し、すでに生産しているアイテムの比率を改善するために使う。"
+  ],
+  "quest.744E620B7DEBB483.quest_subtitle": "ビンチリング",
+  "quest.76660075F254597E.quest_desc": [
+    "&#F5B758高度なアップグレード&rは、1個あたり最大使用量を&#EDE02F16 EU/t&r増やす。"
+  ],
+  "quest.7E3B19796870C2B1.quest_desc": [
+    "&#9955ED化学リアクター&rは、今後最も役立つマシンの一つになる。いくつかの化学物質の生成に使われる。"
+  ],
+  "quest.7EDBE88A2CFAB353.quest_desc": [
+    "&#562FD6アセンブラー&rは、多くのコンポーネントやマシンの製作に使われる。クラフトレシピを自動で実行できる。",
+    "すでに使ったことのある一部のレシピには、&aはるかに安価&rな代替レシピも用意されている。"
+  ],
+  "quest.7EDBE88A2CFAB353.quest_subtitle": "たくさん必要になる",
+  "quest.7FE5864E59D7B827.quest_desc": [
+    "&#6784EBハル&rは、マシンに送り込める電力の量を制御する。マシンにアップグレードを入れるほど、より多くの電力を受け入れるために上位ティアの&#6784EBハル&rが必要になる。&#6784EBハル&rのティアは、接続できるケーブルの種類にも影響する。"
+  ],
+  "quest.7FE5864E59D7B827.quest_subtitle": "基本の構成要素"
+}

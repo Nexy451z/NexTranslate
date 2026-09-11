@@ -7,8 +7,131 @@
     "",
     "&l&o&n注意&r",
     "",
-    "現在、ダストやナゲットを出力するレシピの一部が壊れています。",
+    "現在、ダストやナゲットを出力するレシピの一部が壊れています。"
   ],
   "quest.7CBAD1047B087803.quest_subtitle": "クランプを遠心分離すると宝石が得られる...？",
   "quest.7CBAD1047B087803.title": "宝石への回転",
+  "quest.01C0DC225CB25A0C.quest_subtitle": "ハンターアドオンを使うと、レーザーがモブを狙えるようになる",
+  "quest.01C0DC225CB25A0C.title": "モブを攻撃する",
+  "quest.02315D55EB638E3C.quest_subtitle": "使うにはバイオマスを作ろう",
+  "quest.0C9F9196CA49FF8D.quest_subtitle": "ニッケル鉱石を見つけて旅を始めよう",
+  "quest.0C9F9196CA49FF8D.title": "Oritechの始まり",
+  "quest.0EC0F93FA4B4BE49.quest_desc": [
+    "このマシンは&5エンダリックレーザー&rでしか動かせない。高価値なアイテムのクラフトに使う。"
+  ],
+  "quest.0EC0F93FA4B4BE49.quest_subtitle": "究極のクラフトマシン",
+  "quest.114EACA9B32B32FB.quest_subtitle": "おなじみのやつ...",
+  "quest.11A4C57600E692EC.quest_subtitle": "マシンのエネルギー容量を増やす",
+  "quest.124CD4B8876B81F6.quest_subtitle": "発電した電力を蓄えよう",
+  "quest.124CD4B8876B81F6.title": "エネルギーの貯蔵",
+  "quest.161EDD68FF1A7F1B.quest_subtitle": "溶岩で動く",
+  "quest.1630CFBFB562C43B.quest_subtitle": "液体燃料で発電する",
+  "quest.175509632CBF8631.quest_desc": [
+    "すべての粉砕レシピの収量を改善する。"
+  ],
+  "quest.175509632CBF8631.quest_subtitle": "より良い粉砕機",
+  "quest.1831B35A3239B583.quest_subtitle": "複数のレシピを同時に処理する",
+  "quest.1B2BD489D5173B40.quest_subtitle": "入手方法はたくさんある",
+  "quest.1D9A00C81C2A97F0.quest_subtitle": "物足りない",
+  "quest.1DBF1D4061518B0B.quest_subtitle": "1つをより多くに",
+  "quest.1DBF1D4061518B0B.title": "鉱石の精錬",
+  "quest.1F139091C1B4E50B.quest_subtitle": "普通の回路",
+  "quest.208F759905CF7744.quest_desc": [
+    "ドローンポートはかなり高速だが、機能させるには最低でも&450ブロック&rの距離が必要だ。",
+    "",
+    "ドローンポートを使うには、2つ設置し、片方に&5ターゲットデジグネーター&rを持って&aスニーク右クリック&rして座標を記録する。もう片方のUIを開き、そこに&5ターゲットデジグネーター&rを入れる。",
+    "",
+    "あとは&5ターゲットデジグネーター&rを入れた方のドローンポートにアイテムが入ると、ドローンが飛び立って輸送してくれる。"
+  ],
+  "quest.208F759905CF7744.quest_subtitle": "そう、ドローンはある",
+  "quest.24310BEACE75749D.quest_desc": [
+    "アドオンは&5Oritech&rのアップグレードであり、モジュールとしても機能する。",
+    "",
+    "アドオンはプラグのようなスロットに装着する。装着できる数は使用しているマシンコアの数によって決まる。",
+    "",
+    "",
+    "{image:atm:textures/questpics/oritech/ori-addon-slot.png width:50 height:100 align:left}",
+    "",
+    "アドオンはマシンに追加機能をもたらす。レシピを動作させるために特定のアドオンが必要になることもある。"
+  ],
+  "quest.24310BEACE75749D.quest_subtitle": "価値を持たせる",
+  "quest.290C1416EA2B5DF2.quest_subtitle": "ちょっと乾いてるみたいだ",
+  "quest.2A69272FD3C57924.quest_subtitle": "少しだけ良い",
+  "quest.310FA9380CB3E0BB.quest_subtitle": "遠心分離機に液体を追加できるようにする",
+  "quest.334AB2ED426108C7.quest_subtitle": "呼び方はどうあれ、すり潰すもの",
+  "quest.35BC118040E7428F.quest_desc": [
+    "エンダリックレーザーにはいくつもの用途がある:",
+    "",
+    "1. 非常に見栄えの良い方法でエネルギーを転送できる。",
+    "2. 素材の変換に使われる。",
+    "3. ブロックを破壊できる。",
+    "4. アメジストの成長を促進する。"
+  ],
+  "quest.35BC118040E7428F.quest_subtitle": "猫の近くでは使わないこと",
+  "quest.38F4448F9603FE68.quest_subtitle": "偉大さまであと2ステップ",
+  "quest.3DD27DED791C6A0B.quest_desc": [
+    "&5Oritech&rで鉱石を処理するには、&6フルードアドオン&rを付けた&a遠心分離機&rと、&a粉砕機&rまたは&6フラグメントフォージ&rが必要だ。"
+  ],
+  "quest.3DD27DED791C6A0B.quest_subtitle": "最大出力",
+  "quest.3DD27DED791C6A0B.title": "鉱石処理",
+  "quest.3EB34CC8A3B0DB3C.quest_subtitle": "ハムスターの餌にはならない",
+  "quest.418E0A23EC74F320.quest_desc": [
+    "今後の活動に欠かせない重要なマシン。"
+  ],
+  "quest.418E0A23EC74F320.quest_subtitle": "頭がぐるぐる回る...",
+  "quest.46EFCAE81C09368A.quest_desc": [
+    "マシンコアは&9Oritech&rの基本となる。マシンコアを持ってマシンを右クリックすると組み立てられる。",
+    "",
+    "マシンの速度や効率には直接影響せず、変更できる数にだけ関係する。"
+  ],
+  "quest.46EFCAE81C09368A.quest_subtitle": "すべてのマシンはマシンコアを使う",
+  "quest.46EFCAE81C09368A.title": "マシンコア",
+  "quest.49D03933633D6A45.quest_subtitle": "AIだよ",
+  "quest.4A19FA0912FE38B5.title": "まだここにはない",
+  "quest.4CFA7EE8174E3FD8.quest_subtitle": "エネルギー入力速度を上げる",
+  "quest.4EAD06B0B3AD7D6E.quest_subtitle": "原石を破砕する",
+  "quest.4EAD06B0B3AD7D6E.title": "塊",
+  "quest.4ED29ACF4A699E1B.quest_subtitle": "もっといい感じ",
+  "quest.4F89C04CEBF812F9.quest_subtitle": "宝石を精錬してインゴットにする",
+  "quest.4F89C04CEBF812F9.title": "インゴット",
+  "quest.50243E5CF1B156ED.quest_desc": [
+    "&5プルトニウムダスト&rを得るには、&aウランの原石&rをフラグメントフォージで破砕して&5小さなプルトニウムダスト&rを入手するか、&aウラナイト結晶&rに&5エンダリックレーザー&rを照射する必要がある。"
+  ],
+  "quest.50243E5CF1B156ED.quest_subtitle": "ウラナイトからプルトニウムへ",
+  "quest.5189D72ED3808DC6.quest_desc": [
+    "&5ターゲットデジグネーター&rをアメジストの塊に&aShift右クリック&rし、続けてレーザーを&aShift右クリック&rしてターゲットを設定する。",
+    "",
+    "この小さな結晶は見た目だけのものではない。エネルギーを蓄えられ、より複雑な機械の作製にも使われる。"
+  ],
+  "quest.5189D72ED3808DC6.quest_subtitle": "レーザーでアメジストを充電する",
+  "quest.53880926982968FD.quest_subtitle": "名前を言ってみろ",
+  "quest.53D5A6F210DF199C.quest_subtitle": "10k RF/tをスムーズに転送",
+  "quest.53D5A6F210DF199C.title": "エネルギーの転送",
+  "quest.55DCCC4035B8BB2A.quest_subtitle": "ネザライトとプラチナを混ぜる",
+  "quest.58819CE09A648A43.quest_subtitle": "ほとんどのマシンの作製に使われる",
+  "quest.58819CE09A648A43.title": "基本的な建築部品",
+  "quest.5932B5AD48F6AB74.quest_desc": [
+    "&5パイプブースター&rに電力を供給すると、&2Oritech&rのパイプの搬出速度が上がる。"
+  ],
+  "quest.5932B5AD48F6AB74.quest_subtitle": "速くしてくれる",
+  "quest.5E9AF8BB2C67DCCE.quest_subtitle": "液体を運ぶ方法はたくさん",
+  "quest.5E9AF8BB2C67DCCE.title": "液体の輸送",
+  "quest.5F8363EC8F4499B6.quest_subtitle": "合金作り",
+  "quest.6134991F25B25B42.quest_desc": [
+    "&lアセンブラー&rは&a新しいアイテム&rをクラフトできるようにするだけでなく、一部のアイテムの収量も向上させる。"
+  ],
+  "quest.6134991F25B25B42.quest_subtitle": "クラフター以上の存在",
+  "quest.6134991F25B25B42.title": "組み立てよう",
+  "quest.6539582429A70EE8.quest_subtitle": "Oritechはこのパックのほとんどの発電方法の電力を使用できる",
+  "quest.6EBFA16D212A7B22.quest_subtitle": "いちばんいい感じ",
+  "quest.6FFD0301AC8C83ED.quest_subtitle": "より少ないエネルギーで",
+  "quest.7032AC2B9066CC39.quest_desc": [
+    "アドオンスロットに設置すると、アドオンを置けるスペースが増える。"
+  ],
+  "quest.7032AC2B9066CC39.quest_subtitle": "アドオンをもっと！",
+  "quest.7084E47579D62B52.quest_subtitle": "より多くを行う回路",
+  "quest.70FAD4013FA8A14A.quest_subtitle": "処理速度を上げる",
+  "quest.72E7AE66F2A7C4C4.quest_subtitle": "マシンで液体を使う",
+  "quest.7937DE650CABC1FF.quest_subtitle": "かまどの燃料で動く",
+  "quest.7D2F41DD9774DDA7.title": "アイテムの輸送"
 }
