@@ -31,7 +31,7 @@
   ],
   "quest.1815A439BA9879B7.title": "暖かな岸辺",
   "quest.4D4DE266A2A325B0.quest_desc": [
-    "Redstone、Golem Steel、Oxidized Golem Steel は Golem Forge を見つけるために使用されるアイテムです。\\n\\nこれらのいずれか（おそらく Starlight の地下で生成される Redstone）をオフハンドに持ち、Seeking Eye を使用して地下にある Golem Forge を見つけてください！"
+    "レッドストーン、Golem Steel、Oxidized Golem Steel は Golem Forge を見つけるために使用されるアイテムです。\\n\\nこれらのいずれか（おそらく Starlight の地下で生成される レッドストーン）をオフハンドに持ち、Seeking Eye を使用して地下にある Golem Forge を見つけてください！"
   ],
   "task.2510A7EE5D886B63.title": "AllRightsReserved",
   "quest.01F322AEFCC6109E.quest_desc": [
@@ -55,7 +55,7 @@
     "{image:atm:textures/questpics/eternal/starlight_fish1.png width:100 height:100 align:center}"
   ],
   "quest.713EF442D59501BA.quest_desc": [
-    "Chain of Souls は Tangled Hatred （タングルドの怨念） と Lunar Monstrosity （月光の怪物） のドロップアイテムからのみ作成できます。\\n\\nこれはグラップリングフックです！右クリックで投げ出し、何かに当たると引き寄せられ始めます。解除するには再度右クリックする必要があります。\\n\\nまた、ATM Star にも必要です！"
+    "Chain of Souls は Tangled Hatred （タングルドの怨念） と Lunar Monstrosity （月光の怪物） のドロップアイテムからのみ作成できます。\\n\\nこれはグラップリングフックです！右クリックで投げ出し、何かに当たると引き寄せられ始めます。解除するには再度右クリックする必要があります。\\n\\nまた、ATMスター にも必要です！"
   ],
   "quest.29283BF1B6ED3634.quest_desc": [
     "Mechanical Crossbowは通常のクロスボウと同じように作られますが、Golem Steelを使用します。\\n\\n通常のクロスボウと同じように機能しますが、はるかに強力です！そしてエンチャントしてさらに強化することができます！"
@@ -207,7 +207,7 @@
   "quest.1AB17923F87AE264.title": "イエティ",
   "quest.636848ED1115A0B3.title": "ラットリンズ",
   "quest.4D0B50731FED3CEE.quest_desc": [
-    "Cresant Spear を入手するには、Lunar Monstrosity （月光の怪物） と Tangled Hatred （タングルドの怨念） がドロップするアイテムからクラフトするか、Lunar Monstrosity （月光の怪物） からドロップさせる必要があります（基本的にはどちらにしても倒す必要があります）。\\n\\nこの槍は Trident のように使ってモブを攻撃したり、右クリックを押し続けることで前方に飛ばすことができます。2番目の攻撃でモブに当たると、近くのモブにもダメージを与えます"
+    "Cresant Spear を入手するには、Lunar Monstrosity （月光の怪物） と Tangled Hatred （タングルドの怨念） がドロップするアイテムからクラフトするか、Lunar Monstrosity （月光の怪物） からドロップさせる必要があります（基本的にはどちらにしても倒す必要があります）。\\n\\nこの槍は トライデント のように使ってモブを攻撃したり、右クリックを押し続けることで前方に飛ばすことができます。2番目の攻撃でモブに当たると、近くのモブにもダメージを与えます"
   ],
   "quest.6B00D5DBB3552F15.title": "タングルド",
   "quest.770C0975CA61CE46.quest_desc": [

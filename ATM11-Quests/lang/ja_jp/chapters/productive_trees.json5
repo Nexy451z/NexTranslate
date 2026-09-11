@@ -9,7 +9,7 @@
   "quest.2ACFD25B43F0499C.quest_subtitle": "イペ + 運",
   "quest.15FF9D19FBC873CF.quest_subtitle": "プラム + ピーチ",
   "quest.76A0592F4C294545.quest_desc": [
-    "のこぎり台は原木を製材くずと、クラフトで得られるよりも多くの板材に切り分けます。製材くずは紙の作成に使用できます。\\n\\n - Fustic 原木からは Fustic も得られます。\\n - Brazilwood 原木と Logwood 原木からは Haematoxylin も得られます"
+    "のこぎり台は原木を製材くずと、クラフトで得られるよりも多くの板材に切り分けます。製材くずは紙の作成に使用できます。\\n\\n - Fustic 原木からは フスチック も得られます。\\n - Brazilwood 原木と Logwood 原木からは ヘマトキシリン も得られます"
   ],
   "quest.0480DF316ACF12DA.quest_subtitle": "ベイツガ + ジャングル",
   "quest.6255E2FE6DD4084A.quest_subtitle": "セイヨウヒイラギ + アルダー",
@@ -82,7 +82,7 @@
   "quest.77D3546953550E39.quest_subtitle": "Bull Pine + マツ",
   "quest.75CE67D3AA75C798.quest_subtitle": "Red Delicious リンゴ + Granny Smith リンゴ",
   "quest.5577F49A93ADB19C.quest_desc": [
-    "&lProductive Trees&r は &lProductive Bees&r の姉妹MODです。\\n\\n異なる木を入手するには Pollinated Leaves が必要です。Pollinated Leaves を入手するには花粉が必要です。花粉を得るにはミツバチが必要です。\\n\\n木の近くで花を集めているミツバチは自動的に葉を受粉させます。または、巣箱に Pollen Sieve Upgrade を使用して自分で花粉を集めて使用することもできます！一つプレゼントです！"
+    "&lProductive Trees&r は &lProductive Bees&r の姉妹MODです。\\n\\n異なる木を入手するには 受粉した葉 が必要です。受粉した葉 を入手するには花粉が必要です。花粉を得るにはミツバチが必要です。\\n\\n木の近くで花を集めているミツバチは自動的に葉を受粉させます。または、巣箱に Pollen Sieve Upgrade を使用して自分で花粉を集めて使用することもできます！一つプレゼントです！"
   ],
   "quest.4C3B7BAEA653587B.quest_desc": [
     "砂漠の神殿のチェストの中で見つけることができます"
@@ -98,7 +98,7 @@
   "quest.3707C3EDA1C5A0B2.quest_subtitle": "ファイヤークラッカー + フリッカリングサン",
   "quest.768C07D1B5EB1FEB.quest_subtitle": "寒冷海洋遺跡の怪しいブロック",
   "quest.543F00603790AD3E.quest_desc": [
-    "(原木) Stripper は、マシンに入れた斧を使用して原木を自動的に剥ぎます"
+    "(原木) 樹皮剥ぎ機 は、マシンに入れた斧を使用して原木を自動的に剥ぎます"
   ],
   "quest.3458F19FB41C7F0E.quest_subtitle": "Red Crepe Myrtle + 幸運",
   "quest.257D8912FC58DB59.quest_subtitle": "ブラジルウッド + マホガニー",

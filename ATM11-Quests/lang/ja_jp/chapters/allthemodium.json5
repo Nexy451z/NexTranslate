@@ -36,7 +36,7 @@
   ],
   "task.05256FE880D981D5.title": "ヴィブラニウム ツール",
   "quest.24934231538B6492.quest_desc": [
-    "Ancient Pyramid は &b&lThe Other&r にある3つの構造物の1つです。\\n\\nこれは明らかにピラミッドですが、地下室はありません！\\n\\nその代わりに Piglich がいます。\\n",
+    "Ancient Pyramid は &b&lThe Other&r にある3つの構造物の1つです。\\n\\nこれは明らかにピラミッドですが、地下室はありません！\\n\\nその代わりに ピグリッチ がいます。\\n",
     "{image:atm:textures/questpics/allthemodium/all_pyramid.png width:200 height:100 align:center}"
   ],
   "task.2A7CD3F14D3DC7C5.title": "アンオブタニウム アーマー",
@@ -47,7 +47,7 @@
   "quest.272CF280BAE6870E.title": "&6オールザモディウム メイジ アーマー",
   "quest.7DE2154159D273C3.title": "&3ヴィブラニウム 防具",
   "quest.5BA986D7928BF09F.quest_desc": [
-    "Piglichはははははは&6&lAllthemodium&rによって追加されたボスです。\\n\\n1000ハートを持ち、現在は攻撃を持っていませんが、攻撃が実装されたときは壊滅的なものになることは間違いありません！\\n\\n倒すとハートをドロップし、これは合金やATMスターに必要になります！\\n\\n(HNNやEnderIOを使用した農場化の方法を検討してください！)"
+    "ピグリッチはははははは&6&lAllthemodium&rによって追加されたボスです。\\n\\n1000ハートを持ち、現在は攻撃を持っていませんが、攻撃が実装されたときは壊滅的なものになることは間違いありません！\\n\\n倒すとハートをドロップし、これは合金やATMスターに必要になります！\\n\\n(HNNやEnderIOを使用した農場化の方法を検討してください！)"
   ],
   "quest.1FE47F03B5DF492D.title": "&5アンオブタニウム Arcanist アーマー",
   "quest.144BB025516E0994.title": "&3ヴィブラニウムインゴット&r",
@@ -59,7 +59,7 @@
     "&b&lThe Other&r は長年にわたって数十の変更を経てきましたが、常に冒険のためのディメンションでした！\\n\\n数十の新しいバイオーム、ブロック、そしてもちろん建造物があります！\\n\\n建造物は：ピグリン村、Ancient Pyramid、そしてダンジョンです。すべてに素晴らしいルートが含まれており、一部のアイテムはその建造物固有のものです！\\n\\nまた、&3ヴィブラニウム&r（および他の鉱石！）を採掘したり、建造物でより良いものを見つけることができます！\\n\\nただし、&b&lThe Other&r では採掘機や多くのブロックを設置することはできません。ここでのチート行為は禁止です"
   ],
   "quest.7B3613C01F0B1373.quest_desc": [
-    "&3ヴィブラニウム&rと&6オールザモディウム&rを組み合わせるには、&l&cPowah&rに挑戦する必要があります！\\n\\nEnergizing Orb を設置し、それに向けて Energizing Rod を設置します。Energizing Rod は電源に接続する必要があり、Orb にエネルギーを送ります。保持および送信できる量は Tier によって決まります。\\n\\nインゴット、2つの Piglich Heart、そして Compressed Block of Nitro Crystals X1 を Orb に入れます（順序は関係ありません）。その後、Rod を通じて 10億 FE が Orb に供給されると完了です！\\n",
+    "&3ヴィブラニウム&rと&6オールザモディウム&rを組み合わせるには、&l&cPowah&rに挑戦する必要があります！\\n\\nEnergizing Orb を設置し、それに向けて Energizing Rod を設置します。Energizing Rod は電源に接続する必要があり、Orb にエネルギーを送ります。保持および送信できる量は Tier によって決まります。\\n\\nインゴット、2つの ピグリッチの心、そして Compressed Block of Nitro Crystals X1 を Orb に入れます（順序は関係ありません）。その後、Rod を通じて 10億 FE が Orb に供給されると完了です！\\n",
     "{ \"text\": \"POWAH クエストライン\", \"color\": \"#55FF55\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2A6EBEEBAB882679\" } }"
   ],
   "quest.0484051446480B54.title": "&6オールザモディウム &5合金 &3斧",
@@ -76,7 +76,7 @@
     "{image:atm:textures/questpics/allthemodium/all_armor_vibmage.png width:100 height:175 align:center}"
   ],
   "quest.07FDA46D83F8360D.quest_desc": [
-    "4つの &6オールザモディウム Nugget&r とエンダーパールで Teleport Pad を作ることができます。 \\n\\nマインクラフトのディメンションの1つに設置すると、別のディメンションにテレポートできます。 \\n\\nテレポートするには、メインハンドとオフハンドを空にしてシフト右クリックする必要があります！ これは重要なので、よく読んでください！ \\n\\n両手が空である必要があります！"
+    "4つの &6オールザモディウム Nugget&r とエンダーパールで テレポートパッド を作ることができます。 \\n\\nマインクラフトのディメンションの1つに設置すると、別のディメンションにテレポートできます。 \\n\\nテレポートするには、メインハンドとオフハンドを空にしてシフト右クリックする必要があります！ これは重要なので、よく読んでください！ \\n\\n両手が空である必要があります！"
   ],
   "quest.0484051446480B54.quest_desc": [
     "大量のダメージを与え、木を切り倒します！他に何が必要ですか？"
@@ -123,7 +123,7 @@
   ],
   "task.03ACF4486D706DEE.title": "ヴィブラニウム 防具",
   "quest.0CC0632E8276C787.quest_desc": [
-    "&l&cネザー&r に Teleport Pad を設置して &b&lThe Other&r に行きましょう"
+    "&l&cネザー&r に テレポートパッド を設置して &b&lThe Other&r に行きましょう"
   ],
   "quest.6ECDD26CCCBC07C3.quest_desc": [
     "ネザライトの直接的なアップグレードです",
@@ -151,7 +151,7 @@
   ],
   "task.194C02E800F974D6.title": "ヴィブラニウム アルカニストアーマー",
   "task.7A588081117FA54F.title": "AllRightsReserved",
-  "quest.5BA986D7928BF09F.title": "Piglich ボス",
+  "quest.5BA986D7928BF09F.title": "ピグリッチ ボス",
   "quest.07FDA46D83F8360D.title": "テレポートパッド",
   "quest.4B2146C9527C54E7.title": "&6&lオールザモディウム",
   "task.6C974DF242CFDB8E.title": "古代のピラミッドを見つける",
@@ -171,7 +171,7 @@
     "&5アンオブタニウム&r と &6オールザモディウム&r の組み合わせ！"
   ],
   "quest.2C4299D33D419AA0.quest_desc": [
-    "&2&lオーバーワールド&rから&7&lマイニングディメンション&rに行くために Teleport Pad を設置してください"
+    "&2&lオーバーワールド&rから&7&lマイニングディメンション&rに行くために テレポートパッド を設置してください"
   ],
   "task.298EA976A7627731.title": "古代都市を見つける",
   "quest.6E0624750DF8CD18.title": "&6オールザモディウム ツール",
@@ -223,7 +223,7 @@
   "quest.47F734CDD5793F26.title": "&5アンオブタニウムのクロスボウ",
   "quest.201EE3566D4D3123.title": "オールザモディウム インゴット",
   "quest.226B8B60AF864FEF.quest_desc": [
-    "&6オールザモディウム&r を &3ヴィブラニウム&r にアップグレードするには、別の鍛冶型 が必要です。\\nこれは Suspicious Soul Sand をブラシで掃くことで見つけることができます。\\n\\nこれは &l&cネザー&r の Bastion で見つかります。\\n",
+    "&6オールザモディウム&r を &3ヴィブラニウム&r にアップグレードするには、別の鍛冶型 が必要です。\\nこれは 怪しげなソウルサンド をブラシで掃くことで見つけることができます。\\n\\nこれは &l&cネザー&r の Bastion で見つかります。\\n",
     "{image:atm:textures/questpics/allthemodium/all_bastion.png width:200 height:100 align:center}",
     "{image:atm:textures/questpics/allthemodium/all_soul.png width:200 height:100 align:center}"
   ],
@@ -235,13 +235,13 @@
     "{image:atm:textures/questpics/allthemodium/all_2.png width:100 height:100 align:center}"
   ],
   "quest.2EDE91023F7924FB.quest_desc": [
-    "&d&lジ・エンド&r で Teleport Pad を設置して &5&lThe Beyond&r に行きましょう"
+    "&d&lジ・エンド&r で テレポートパッド を設置して &5&lThe Beyond&r に行きましょう"
   ],
   "quest.11E957CDEFA0CAAB.quest_desc": [
     "&5&lThe Beyond&r へようこそ！\\n\\nここには何もありません！\\n\\nAngel Block が必要かもしれません"
   ],
   "quest.7CC96CE9901F25BB.quest_desc": [
-    "&l&5Forbidden and Arcanus&r は別の魔法 MOD で、Hephaestus Forge と呼ばれるマルチブロック構造を中心に展開します。\\n\\n作成するには、るつぼのツールチップの指示に従ってください！作成したら、儀式に必要な4つの素材を供給できます：Aureal、ソウル、ブラッド、経験値です。\\n\\n儀式を通じてるつぼをアップグレードする必要もあります（これらはすべて JEI で見つけることができます）"
+    "&l&5Forbidden and Arcanus&r は別の魔法 MOD で、ヘパイストスの鍛冶場 と呼ばれるマルチブロック構造を中心に展開します。\\n\\n作成するには、るつぼのツールチップの指示に従ってください！作成したら、儀式に必要な4つの素材を供給できます：Aureal、ソウル、ブラッド、経験値です。\\n\\n儀式を通じてるつぼをアップグレードする必要もあります（これらはすべて JEI で見つけることができます）"
   ],
   "quest.2243901F7758C7F6.title": "未実装"
 }

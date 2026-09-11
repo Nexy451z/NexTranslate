@@ -8,7 +8,7 @@
     "&6Electric Rails&r と &eElectric Locomotive&r に電力を供給するには &eFrames&r が必要です。Frames は電力を必要とし、接続された各 &eFrame&r に電力を供給します"
   ],
   "quest.53594EBA9F7BA840.quest_desc": [
-    "Advanced Item Unloader は通常のパーツと同じですが、どの方向からでも使用できます。方向以外に違いはありません"
+    "高度なアイテムアンローダー は通常のパーツと同じですが、どの方向からでも使用できます。方向以外に違いはありません"
   ],
   "quest.50A286C268F38E09.title": "色の凡例",
   "quest.1698565EBB68DC85.quest_desc": [
@@ -68,26 +68,26 @@
     "&cTrack Kit&rは&6レール&rとクラフトして特殊な&6レール&rを作るために使用されます。\\n\\nこれらの&6レール&rは&5列車&rの停止、移動、レッドストーン信号の発信など、&5列車&rに関するすべてに役立ちます"
   ],
   "quest.2D00F85379A4D591.quest_desc": [
-    "Item Loader は RailCraft の最も基本的なディスペンサーです。&6レール&rの上に設置する必要があり、下を通過する&7トロッコ&rに何を積み込むかを設定できます"
+    "アイテムローダー は RailCraft の最も基本的なディスペンサーです。&6レール&rの上に設置する必要があり、下を通過する&7トロッコ&rに何を積み込むかを設定できます"
   ],
   "quest.020E6AF37A0421C8.quest_desc": [
-    "Water Tank は外に置いた樽のようなものです。ただしこの樽はもっと大きいです。水を集め、Steam Locomotive のために水を保持できます",
+    "水タンク は外に置いた樽のようなものです。ただしこの樽はもっと大きいです。水を集め、蒸気機関車 のために水を保持できます",
     "",
     "生成される水の量はバイオームと空が見えるかどうかに依存します",
     "",
-    "中心が空洞の 3x3x3 の Water Tank ブロックで作られます",
+    "中心が空洞の 3x3x3 の 水タンク ブロックで作られます",
     "{image:atm:textures/questpics/railcraft/rail_tank.png width:100 height:100 align:center}"
   ],
   "task.653ED58A9B65C796.title": "バール",
   "quest.17F7964611D893BE.quest_desc": [
-    "Fluid Loader は &3Steam Locomotive&r の運転を維持するのに役立ちます。&6レール&r の数ブロック上に設置する必要があり、&5Locomotive&r または &7Cart&r に液体を供給します"
+    "流体ローダー は &3Steam Locomotive&r の運転を維持するのに役立ちます。&6レール&r の数ブロック上に設置する必要があり、&5Locomotive&r または &7Cart&r に液体を供給します"
   ],
   "quest.7F4B734CFB0F0306.title": "新しいカート",
   "quest.609CA1ACFA981BD5.title": "&cトラックキット&r ルーティング",
   "quest.64C105E1E2F97900.title": "'切り替えよう'",
   "quest.75DD345164EE5CD9.title": "&6高速線路",
   "quest.61C93ABE07742DCD.quest_desc": [
-    "Steam Turbine は Steam を使用して FE と EU エネルギーを生成します。\\n\\nSteam Turbine Housing のみで構成される3x2x2の建物で、その中に Turbine Motor が必要で、Steam を配管する必要があります",
+    "Steam Turbine は 蒸気 を使用して FE と EU エネルギーを生成します。\\n\\nSteam Turbine Housing のみで構成される3x2x2の建物で、その中に Turbine Motor が必要で、蒸気 を配管する必要があります",
     "{image:atm:textures/questpics/railcraft/rail_turbine.png width:100 height:100 align:center}"
   ],
   "quest.425E375A9EC127EB.quest_desc": [
@@ -122,7 +122,7 @@
   "quest.6DB65926EE6D6C2E.title": "&7トロッコ&rを動かすための&cTrack Kit&r",
   "quest.6C163E005351FF6D.title": "&c線路キット&r 警笛",
   "quest.38451B61E3FC075B.quest_desc": [
-    "待って、Steel が戻ってきたということは、(Coal) Coke も戻ってくるということですか？はい！\\nCoke を入手するには Coke Oven が必要です。作るには26個の Coke Oven Brick が必要で、中央が空洞の3x3x3で配置します。GUI にアクセスでき、テクスチャが統一されていれば完成です。\\n\\n石炭や石炭ブロックを置くと Coke と液体 Creosote が得られます！原木を入れることで木炭と Creosote を得ることもできます",
+    "待って、鋼鉄 が戻ってきたということは、(石炭) Coke も戻ってくるということですか？はい！\\nCoke を入手するには Coke Oven が必要です。作るには26個の Coke Oven Brick が必要で、中央が空洞の3x3x3で配置します。GUI にアクセスでき、テクスチャが統一されていれば完成です。\\n\\n石炭や石炭ブロックを置くと Coke と液体 クレオソート が得られます！原木を入れることで木炭と クレオソート を得ることもできます",
     "{image:atm:textures/questpics/railcraft/rail_coke.png width:100 height:100 align:center}"
   ],
   "task.11741300813AF742.title": "AllRightsReserved",
@@ -131,7 +131,7 @@
   "quest.1698565EBB68DC85.title": "&6Y字線路",
   "quest.068294A7C21DE550.title": "&c&lTrack&r！",
   "quest.104049993CC62E7F.quest_desc": [
-    "Advanced Item Loader は通常のものと同じですが、&6線路&rの近くならどこでも使用できます。横、上、反対側など。&4Crowbar&rを使用して方向を変更できます"
+    "高度なアイテムローダー は通常のものと同じですが、&6線路&rの近くならどこでも使用できます。横、上、反対側など。&4Crowbar&rを使用して方向を変更できます"
   ],
   "quest.5E750DB2244A67A1.quest_desc": [
     "&6分岐レール&r は Spike Maul で &6レール&r を叩くことで作れる最初のレールです。前方と側面の2方向に進むことができます。&6レール&r の横にスイッチを置くことで切り替えることができます",
@@ -175,7 +175,7 @@
   ],
   "task.19E2DE9D89B89D7B.title": "スパイクモール",
   "quest.54F2CB52D3A7BA87.quest_desc": [
-    "Item Unloader は Item Loader の反対です。&7Cart&r からアイテムを取り出します。これも&6Track&rの上に設置する必要があります"
+    "アイテムアンローダー は アイテムローダー の反対です。&7Cart&r からアイテムを取り出します。これも&6Track&rの上に設置する必要があります"
   ],
   "quest.2A30595DC6DDBFF7.quest_desc": [
     "&6電気軌道&rは&e電気機関車&rのために使用されます。&eフレーム&rで給電する必要があり、触れるとダメージを受けます",
@@ -191,7 +191,7 @@
     "Switch Track は異なる特殊な &6Track&r 間でレーンを移動するために必要です。その上の矢印は行き先を示しています"
   ],
   "quest.008D186B4E0ED14F.quest_desc": [
-    "Steam Oven は蒸気を有効活用する別の機械です。\\n\\nSteam Oven に蒸気を入れると、中のアイテムに対して炉として機能します。鉱石からインゴットを作ったり、食べ物を調理したりします。\\n\\nSteam Oven ブロックで2x2x2の機械を作ります",
+    "蒸気炉 は蒸気を有効活用する別の機械です。\\n\\nSteam Oven に蒸気を入れると、中のアイテムに対して炉として機能します。鉱石からインゴットを作ったり、食べ物を調理したりします。\\n\\nSteam Oven ブロックで2x2x2の機械を作ります",
     "{image:atm:textures/questpics/railcraft/rail_oven.png width:100 height:100 align:center}"
   ],
   "quest.4A44623D8A307473.title": "&6高速電気レール",
@@ -209,7 +209,7 @@
   ],
   "quest.032B654201E71618.title": "エンティティを移動させるための &cTrack Kit&r",
   "quest.78D8F40AA9568511.quest_desc": [
-    "Powered Rolling Machine は Manual Rolling Machine の改良版です。\\n\\nアイテムをクラフトするためにマシンを確認し続ける必要がなく、自動的にすべてをクラフトします。\\n\\n唯一の問題は、電力が必要なことです！"
+    "動力圧延機 は 手動圧延機 の改良版です。\\n\\nアイテムをクラフトするためにマシンを確認し続ける必要がなく、自動的にすべてをクラフトします。\\n\\n唯一の問題は、電力が必要なことです！"
   ],
   "quest.5E750DB2244A67A1.title": "&6分岐レール",
   "quest.365D4B1DC953D406.quest_desc": [
@@ -219,7 +219,7 @@
     "&cルーティングキット&rは通過チケットと一緒に使用します"
   ],
   "quest.50A286C268F38E09.quest_desc": [
-    "このクエストページでは、プレイヤーの皆さんが参照しているものを理解しやすいように、テキストの色付けに多くの時間を費やしました。しかし、かえって混乱を招くかもしれないと気づいたので、凡例を用意しました！\\n\\n&5紫色&r は Train や Locomotive を表し、Electric と Steam の両方の Locomotive と接続された Cart を含みます。\\n&6金色&r は Tracks と Rails を表し、特殊な Rails も含みますが Track Kits は含みません。\\n&cライトレッド&r は Track Kits を表します。\\n&4ダークレッド&r は Crowbar を表します。\\n&3シアン&r は Steam Locomotive のみを表します。\\n&eイエロー&r は Electric Locomotive のみを表します。\\n&9青&r は Tunnel Bore を表します。\\n&7グレー&r は Minecart と特殊な Cart を表します"
+    "このクエストページでは、プレイヤーの皆さんが参照しているものを理解しやすいように、テキストの色付けに多くの時間を費やしました。しかし、かえって混乱を招くかもしれないと気づいたので、凡例を用意しました！\\n\\n&5紫色&r は Train や Locomotive を表し、Electric と 蒸気 の両方の Locomotive と接続された Cart を含みます。\\n&6金色&r は Tracks と Rails を表し、特殊な Rails も含みますが Track Kits は含みません。\\n&cライトレッド&r は Track Kits を表します。\\n&4ダークレッド&r は Crowbar を表します。\\n&3シアン&r は 蒸気機関車 のみを表します。\\n&eイエロー&r は 電気機関車 のみを表します。\\n&9青&r は トンネル掘進機 を表します。\\n&7グレー&r は Minecart と特殊な Cart を表します"
   ],
   "quest.677C5D35DADA4A42.quest_desc": [
     "&cカップラー&rは&7トロッコ&rの連結や切り離しに使用します。カップリングは&7トロッコ&rを連結することを意味します。\\n\\n&4クローバー&rを使用して、連結、切り離し、自動連結を設定できます。動作にはレッドストーン信号が必要です"
@@ -236,7 +236,7 @@
   "task.395D321BFFDB098A.title": "接続レール",
   "task.1E77B21EA9F2E9A7.title": "燃料式ファイアボックス",
   "quest.7D40B80DBBC4E160.quest_desc": [
-    "Manual Rolling Machine は、railcraft の多くの材料を作るための小さな作業機械になります！\\n\\nレシピを入れて複数個作れる場合、画面を見ている間は自動的に作り続けます。作業中に Rolling Machine から離れると、作業は中断され、アイテムがインベントリに戻ります。\\n\\n最後のレシピは手動で作る必要があります！"
+    "手動圧延機 は、railcraft の多くの材料を作るための小さな作業機械になります！\\n\\nレシピを入れて複数個作れる場合、画面を見ている間は自動的に作り続けます。作業中に Rolling Machine から離れると、作業は中断され、アイテムがインベントリに戻ります。\\n\\n最後のレシピは手動で作る必要があります！"
   ],
   "quest.104049993CC62E7F.title": "上位アイテムローダー",
   "quest.5128B119DFFF0C4C.quest_desc": [

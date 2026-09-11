@@ -19,7 +19,7 @@
     "{image:atm:textures/questpics/immersive/immersive_mixer.png width:100 height:100 align:center}"
   ],
   "quest.767E4FC03B6F6534.quest_desc": [
-    "Invar Ingot は &7鉄&r と &7Nickel&r で作られます。\\n\\nこれらの合金の多くと同様に、&8&lIE&r では有用ではありません"
+    "インバーインゴット は &7鉄&r と &7Nickel&r で作られます。\\n\\nこれらの合金の多くと同様に、&8&lIE&r では有用ではありません"
   ],
   "quest.2224AA108FC006F3.quest_desc": [
     "リボルバーのスピードローダーはアップグレードではなく、補助的なアイテムです。\\n\\n&d&lリボルバー&rと同じように弾薬を装填し、&d&lリボルバー&rをリロードする必要があるときは右クリックするだけで即座にリロードできます！"
@@ -336,7 +336,7 @@
   "quest.520904C106D7D93D.quest_subtitle": "左クリックで Skystrike",
   "quest.5585130028BB8298.quest_subtitle": "運が良いと思う？パンク野郎？",
   "quest.506F20AF8E857559.quest_desc": [
-    "Kinetic Dynamo は運動量を使用してエネルギーを生成する発電機です！\\n\\nエネルギーの生成を開始するには、大きな穴が開いている側に Waterwheel か Windmill を取り付ける必要があります！\\n\\nKinetic Dynamo には内部エネルギー貯蔵がありません。代わりに、Connector や Accumulator のような接続されたブロックにエネルギーを供給します"
+    "Kinetic Dynamo は運動量を使用してエネルギーを生成する発電機です！\\n\\nエネルギーの生成を開始するには、大きな穴が開いている側に Waterwheel か Windmill を取り付ける必要があります！\\n\\nKinetic Dynamo には内部エネルギー貯蔵がありません。代わりに、コネクター や Accumulator のような接続されたブロックにエネルギーを供給します"
   ],
   "quest.1A8F2408970BFCCF.title": "&eエレクトラムインゴット&r",
   "quest.72CE46D28C9E7452.quest_desc": [
@@ -704,7 +704,7 @@
   ],
   "quest.39DAC0592300992A.title": "&9Metal Press の金型設計図",
   "quest.2E9D1131DC21CC5B.quest_desc": [
-    "&lIndustrial Foregoing&r はスタイリッシュな未来的デザイン、&5&lMekanism&r は地味なモダンデザイン、そして &8&lImmersive Engineering&r はよりレトロな雰囲気です！\\n\\nすべてが &6茶色&r、&7灰色&r、そして &8濃い灰色&r です！\\n\\nこの Mod は &6Engineer's Hammer&r から始まります。これらは Plate、Dust の作成、または Multiblock の建設に使用できます！\\n\\nところで、この Mod では多くのマルチブロックを立てる羽目になるでしょう。楽しみにしていてください！"
+    "&lIndustrial Foregoing&r はスタイリッシュな未来的デザイン、&5&lMekanism&r は地味なモダンデザイン、そして &8&lImmersive Engineering&r はよりレトロな雰囲気です！\\n\\nすべてが &6茶色&r、&7灰色&r、そして &8濃い灰色&r です！\\n\\nこの Mod は &6Engineer's Hammer&r から始まります。これらは Plate、ダスト の作成、または Multiblock の建設に使用できます！\\n\\nところで、この Mod では多くのマルチブロックを立てる羽目になるでしょう。楽しみにしていてください！"
   ],
   "quest.2F19529214CA9559.quest_subtitle": "Blitz?",
   "quest.38F01BAEC74D5D68.quest_desc": [

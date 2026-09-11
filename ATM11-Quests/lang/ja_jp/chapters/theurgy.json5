@@ -55,18 +55,18 @@
   ],
   "quest.19A2016B54C6FA34.title": "暑いね！",
   "quest.3C5734448FEC128B.quest_desc": [
-    "最も安価な Divination Rod である Glass Divination Rod。\\n\\n石のツルハシで採掘できるすべての鉱石を見つけることができます。銅、石炭、そして鉄です。それ以上のものは見つけられません"
+    "最も安価な 探鉱杖 である ガラスの探鉱杖。\\n\\n石のツルハシで採掘できるすべての鉱石を見つけることができます。銅、石炭、そして鉄です。それ以上のものは見つけられません"
   ],
   "quest.0F7BB4ECCA5C082C.quest_desc": [
     "ここに &eAlchemical Sulfur&r を入れます。\\n\\n&eAlchemical Sulfur&r に入っているアイテムは、孵化から元のアイテムに戻されます！",
     "{image:atm:textures/questpics/theurgy/theurgy_vessel_3.png width:100 height:125 align:center}"
   ],
   "quest.6C6F4EB5CBE2FBC2.quest_desc": [
-    "Iron Divination Rod は少し上位で、鉄のツルハシで採掘できる鉱石を見つけることができます！ダイアモンド、レッドストーン、そして金です"
+    "鉄の探鉱杖 は少し上位で、鉄のツルハシで採掘できる鉱石を見つけることができます！ダイアモンド、レッドストーン、そして金です"
   ],
   "quest.0830195863384CF0.title": "&b地層の塩",
   "quest.16B88F46021E956D.quest_desc": [
-    "&l&6Theurgy&r にはマシンがあるので、当然 Logistics が必要です！\\n\\n(Logistics の基本についてはBasic Logistics ページをご確認ください)。\\n\\n&cMercury&r を使用すると、&cMercury Wires&r やその他のアイテムを使用してアイテムや液体を場所から場所へ移動できます！Wires が実際にアイテムを移動させます"
+    "&l&6Theurgy&r にはマシンがあるので、当然 Logistics が必要です！\\n\\n(Logistics の基本についてはBasic Logistics ページをご確認ください)。\\n\\n&cMercury&r を使用すると、&cMercury Wires&r やその他のアイテムを使用してアイテムや液体を場所から場所へ移動できます！配線 が実際にアイテムを移動させます"
   ],
   "quest.06AD25DB96F3A1CC.title": "&c水銀&r容器",
   "quest.4EE482B9D61B5933.quest_desc": [
@@ -74,7 +74,7 @@
   ],
   "quest.3B6F723B03C4BF55.title": "消化槽",
   "quest.6CAD27627A3F8FD7.quest_desc": [
-    "ついにこのmodの本質、&e錬金硫黄&r に到達しました！\\n\\n作成には液化るつぼ、アイテム、&dサルアンモニアク&r、そしてヒーターが必要です。\\n\\n熱については別のクエストで説明されていますが、るつぼの下に Pyromantic Brazier か Caloric Flux Emitter を置いて加熱する必要があります。\\n\\nその後、液体の &dサルアンモニアク&r を入れます。\\n\\n最後に &e錬金硫黄&r に変えたいアイテムを入れます。\\n\\n泡立ち始めたら正しく動作しています",
+    "ついにこのmodの本質、&e錬金硫黄&r に到達しました！\\n\\n作成には液化るつぼ、アイテム、&dサルアンモニアク&r、そしてヒーターが必要です。\\n\\n熱については別のクエストで説明されていますが、るつぼの下に 焦熱の火鉢 か 熱素フラックス・エミッター を置いて加熱する必要があります。\\n\\nその後、液体の &dサルアンモニアク&r を入れます。\\n\\n最後に &e錬金硫黄&r に変えたいアイテムを入れます。\\n\\n泡立ち始めたら正しく動作しています",
     "{image:atm:textures/questpics/theurgy/theurgy_lique.png width:100 height:100 align:center}"
   ],
   "quest.0F7BB4ECCA5C082C.title": "&e硫黄&rの容器",
@@ -96,7 +96,7 @@
     "",
     "&bSalt&r を得るには、いくつかのアイテムを調理する必要があります。異なるアイテムは異なる &bSalt&r を生成します。&bSalt&r には異なる Tier があり、レアなほど高くなります",
     "",
-    "&bSalt&r を調理するには、アイテムを Oven に入れ、熱源を使って加熱する必要があります。その後、Oven から &bSalt&r を取り出してください！",
+    "&bSalt&r を調理するには、アイテムを オーブン に入れ、熱源を使って加熱する必要があります。その後、オーブン から &bSalt&r を取り出してください！",
     "{image:atm:textures/questpics/theurgy/theurgy_oven.png width:100 height:100 align:center}"
   ],
   "quest.45996B848792379E.quest_desc": [
@@ -107,10 +107,10 @@
   "quest.285B3FB38B12F8CA.title": "&dSal Ammoniac&r の作成",
   "quest.0854AD352218E1C3.quest_subtitle": "どうやって？",
   "quest.19A2016B54C6FA34.quest_desc": [
-    "&l&6Theurgy&r の一部のマシンは、起動するために熱が必要です！ただし、&l&6Theurgy&r はマシンが熱を得る方法について非常に限定的で、これら2つのマシンしか熱源として使用できません。\\n\\n（熱を使用するマシン：Liquefaction Cauldron、Calcination Oven、&c水銀&r Distiller、Incubator）"
+    "&l&6Theurgy&r の一部のマシンは、起動するために熱が必要です！ただし、&l&6Theurgy&r はマシンが熱を得る方法について非常に限定的で、これら2つのマシンしか熱源として使用できません。\\n\\n（熱を使用するマシン：液化の大釜、煆焼炉、&c水銀&r Distiller、Incubator）"
   ],
   "quest.457CAE66B0FA4CCF.quest_desc": [
-    "全ての &2バニラ&r 鉱石は Diamond Divination Rod で見つけることができます。全ての鉱石に加えてネザライトも見つけることができます！"
+    "全ての &2バニラ&r 鉱石は ダイヤモンドの探鉱杖 で見つけることができます。全ての鉱石に加えてネザライトも見つけることができます！"
   ],
   "quest.2F0D6267569F740B.quest_desc": [
     "Common Materials は Abundant よりも一段階上で、より希少です。これらは主にインゴットや エンダーパール や ウサギの皮 のようなレアなモブドロップです。\\n\\nまた、Tags で全リストを確認できます"
@@ -137,7 +137,7 @@
   ],
   "quest.02593CD4B4AE814C.title": "脱塩プラント",
   "quest.54F0C5C48CFC94D0.quest_desc": [
-    "Logistics には Filter が必要です。List と Attribute の2種類の Filter があります。List Filter はアイテムを追加し、ホワイトリストかブラックリストか、NBT データを考慮するかどうかを変更できます。Attribute Filter は参照アイテムを取り、選択した Attribute でフィルタリングします。これにはタグや、かまどの燃料として使用できるかどうかなどの他の属性も含まれます！"
+    "Logistics には フィルター が必要です。List と Attribute の2種類の フィルター があります。List Filter はアイテムを追加し、ホワイトリストかブラックリストか、NBT データを考慮するかどうかを変更できます。Attribute Filter は参照アイテムを取り、選択した Attribute でフィルタリングします。これにはタグや、かまどの燃料として使用できるかどうかなどの他の属性も含まれます！"
   ],
   "quest.61DA3D61D7103647.quest_desc": [
     "&e錬金術の硫黄&rは実質的に何からでも作ることができ、また実質的に何にでも変えることができます！",
@@ -177,7 +177,7 @@
   ],
   "quest.161E7D934A21F849.title": "ステップ 1: Source Pedestal",
   "quest.3EB63AF53E70C931.quest_desc": [
-    "Reformation には Mercury Flux が必要です！Sulfuric Flux Emitter で3つの儀式の台座すべてを Shift 右クリックして設定する必要があります。その後、Emitter を設置して電力を供給します。\\n\\nその後、Reform の準備が整います！",
+    "Reformation には Mercury Flux が必要です！硫黄フラックス・エミッター で3つの儀式の台座すべてを Shift 右クリックして設定する必要があります。その後、Emitter を設置して電力を供給します。\\n\\nその後、Reform の準備が整います！",
     "{image:atm:textures/questpics/theurgy/theurgy_reform_setup.png width:200 height:50 align:center}"
   ],
   "quest.0542FE108089A0A2.title": "&l&6テウルギア",
@@ -187,7 +187,7 @@
     "{image:atm:textures/questpics/theurgy/theurgy_brazier.png width:100 height:100 align:center}"
   ],
   "quest.55E321EFBE8956DE.quest_desc": [
-    "発酵レシピを安価に済ませたい場合は、Fermentation Starter が最適です",
+    "発酵レシピを安価に済ませたい場合は、発酵の素 が最適です",
     "",
     "発酵における他のアイテムの非常に安価な代替品です"
   ],
@@ -206,6 +206,6 @@
     "これらのクエストは &6AllTheModsスタッフ &rまたは &2コミュニティ寄与者 &rによって AllTheModsモッドパック 内での使用目的のために作成されました。\\n\\nすべての&6AllTheMods&rパックは &eAll Rights Reserved &r（著作権留保）ライセンス下のため、これらのクエストは &6AllTheModsチーム &rにより公式に配布されていない公開パッケージにおいて、明示的な許可なく本クエストを使用することは禁止されています。\\n\\nこのクエストは意図的に非表示になっています。クエストが見えている場合は編集モードになっています。"
   ],
   "quest.7198ED7E97A256A4.quest_desc": [
-    "最初の特別な作成可能な Divination Rod は Abundant Material Rod です！\\n\\nロッドをアイテムの &e錬金硫黄&r と一緒に作成すると、そのアイテムに調律されます。\\n\\n豊富な素材のリストはタグで確認できます。クエストで読み上げるには多すぎます"
+    "最初の特別な作成可能な 探鉱杖 は Abundant Material Rod です！\\n\\nロッドをアイテムの &e錬金硫黄&r と一緒に作成すると、そのアイテムに調律されます。\\n\\n豊富な素材のリストはタグで確認できます。クエストで読み上げるには多すぎます"
   ]
 }

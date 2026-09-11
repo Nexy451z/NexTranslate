@@ -170,7 +170,7 @@
   "quest.378105383747DD48.quest_desc": [
     "これは複雑なる儀式なり。",
     "",
-    "&8&lReplica&rを手に入れんとするならば、まずは5つの魂、Damage Exchange、そしてImmunity Exchangeを準備せよ。",
+    "&8&lReplica&rを手に入れんとするならば、まずは5つの魂、ダメージ変換、そして免疫変換を準備せよ。",
     "",
     "然る後、汝のStrengthened Shieldを構え、敵の攻撃を受け止めよ。さすれば&8&lReplica&rが汝のものとなるであろう！"
   ],
@@ -250,9 +250,9 @@
     "&9&lEmrys&rを手に入れたならば、それを利き手でない方に握り、右クリックを押し続けよ。その結果は、まさに&e電撃的&rなものとなろう！"
   ],
   "quest.73325912C84F64A5.quest_desc": [
-    "もう一つの選択肢として、Chronal Exchangeという時の交換術がある。12時間の間&4Mahou&rを得て、その後12時間かけてそれを消費するのだ。",
+    "もう一つの選択肢として、時刻変換という時の交換術がある。12時間の間&4Mahou&rを得て、その後12時間かけてそれを消費するのだ。",
     "",
-    "第二のChronal Exchangeの魔法陣を作りし時、最初の魔法陣が消費を始めると、永劫の循環が生まれるであろう。"
+    "第二の時刻変換の魔法陣を作りし時、最初の魔法陣が消費を始めると、永劫の循環が生まれるであろう。"
   ],
   "quest.731A4846BC556AE1.title": "魂",
   "quest.73325912C84F64A5.title": "時間交換",
@@ -275,7 +275,7 @@
   "quest.5EF54E0EB14024D1.title": "&7空間混乱の巻物",
   "quest.012912FDAFCD1C66.title": "&l&eCaliburn のアップグレード",
   "quest.5EF54E0EB14024D1.quest_desc": [
-    "2つの&ePowdered Gold&rと1つの&3Powdered Enderpearl&rが必要なり（混同せぬよう注意せよ、さもなくばAscensionを得てしまわん！）。",
+    "2つの&ePowdered Gold&rと1つの&3Powdered Enderpearl&rが必要なり（混同せぬよう注意せよ、さもなくば上方転移を得てしまわん！）。",
     "",
     "此れらを&7Spell Cloth&rに使用し、我らが&7Scroll&rを手に入れるのだ！",
     "",

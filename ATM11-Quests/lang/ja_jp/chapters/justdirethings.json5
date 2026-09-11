@@ -1,6 +1,6 @@
 {
   "quest.4B3F20E5C7E3BCFB.quest_desc": [
-    "Primal Coal は JDT によって追加された新しい素材です。Primal Coal は石炭ブロックにティア1以上の Goo Spread を実行することで獲得できます。Primal Coal 鉱石は幸運の影響を受けます"
+    "プライマルコール は JDT によって追加された新しい素材です。プライマルコール は石炭ブロックにティア1以上の Goo Spread を実行することで獲得できます。プライマルコール 鉱石は幸運の影響を受けます"
   ],
   "quest.61213012615619C5.quest_desc": [
     "&l能力タイプ:&r パッシブ",
@@ -13,7 +13,7 @@
     "シンプルな液体回収装置です"
   ],
   "quest.09D2137B4F42006E.quest_desc": [
-    "Eclipse Ember は JDT によって追加された新しい素材です。Eclipse Ember は、ティア4の Goo を使用して Voidflame Coal ブロックに Goo Spread を実行することで獲得できます。Eclipse Ember 鉱石は幸運の影響を受けます"
+    "エクリプスエンバー は JDT によって追加された新しい素材です。エクリプスエンバー は、ティア4の Goo を使用して ボイドフレイムコール ブロックに Goo Spread を実行することで獲得できます。エクリプスエンバー 鉱石は幸運の影響を受けます"
   ],
   "quest.0C9DD8E53A1B92C0.quest_desc": [
     "有効なアップグレード:",
@@ -35,11 +35,11 @@
     "シンプルな液体設置機です"
   ],
   "quest.27FD46A8C958D259.quest_desc": [
-    "Totem of Death Recall は1回限りのアイテムで、プレイヤーが死亡した場所にテレポートすることができます"
+    "デスリコールのトーテム は1回限りのアイテムで、プレイヤーが死亡した場所にテレポートすることができます"
   ],
   "task.67B21CF59C3D02E5.title": "発展的な機械",
   "quest.4458F8829800A950.quest_desc": [
-    "Polymorphic 液体は JDT のすべての液体/燃料の基礎です。Polymorphic 液体は Polymorphic Catalyst を水に落とすことで作られます"
+    "Polymorphic 液体は JDT のすべての液体/燃料の基礎です。Polymorphic 液体は 多態性触媒 を水に落とすことで作られます"
   ],
   "quest.02B8F50721F12CFF.quest_desc": [
     "&lアビリティタイプ:&r パッシブ",
@@ -70,7 +70,7 @@
     "プレイヤーのデコイを生成し、プレイヤーから敵の注意を引きつけます。クールダウンがあります"
   ],
   "quest.0B485DB737A036E9.quest_desc": [
-    "Machine Settings Copier を使用すると、機械間で設定をコピーできます"
+    "機械設定コピー機 を使用すると、機械間で設定をコピーできます"
   ],
   "quest.53F9E5CE7EE6F852.quest_desc": [
     "Creature Catcher はモブの運搬を可能にします。モブはエンティティタグを使用してブラックリストに登録できます"
@@ -90,10 +90,10 @@
     "&lアビリティタイプ:&r アクティブ\\n\\n&lアビリティ機能:&r\\n\\n有効化すると、近くの鉱石を緑色のパーティクルでハイライトします。\\n\\n&4&lこのアビリティは無効化されています。&r&f"
   ],
   "quest.200ECDC70E97D254.quest_desc": [
-    "Fuel Canister は液体を入れて容器に補充できるタンクです。\\n\\nFuel Canister には3つの補充モードがあります：\\n\\n - なし\\n - すべて\\n - Just Dire Things"
+    "燃料用容器 は液体を入れて容器に補充できるタンクです。\\n\\nFuel Canister には3つの補充モードがあります：\\n\\n - なし\\n - すべて\\n - Just Dire Things"
   ],
   "quest.446A37C7FCDACF84.quest_desc": [
-    "Voidflame Coal は JDT によって追加された新しい素材です。Voidflame は Blaze Ember ブロックにティア3以上の goo を使用して Goo Spread を行うことで獲得できます。Voidflame Coal 鉱石は幸運の影響を受けます"
+    "ボイドフレイムコール は JDT によって追加された新しい素材です。Voidflame は ブレイズエンバー ブロックにティア3以上の goo を使用して Goo Spread を行うことで獲得できます。ボイドフレイムコール 鉱石は幸運の影響を受けます"
   ],
   "quest.132F4671E121C7B8.quest_desc": [
     "&lアビリティタイプ:&r パッシブ",
@@ -110,7 +110,7 @@
     "プレイヤーが死を免れることを可能にします。クールダウンが非常に長いです。つまり、消費されない不死のトーテムのようなものです"
   ],
   "quest.25E915AE1FC53254.quest_desc": [
-    "Celestigem テンプレートは、Blazegold 防具とツールをエンチャントとインストールされたアップグレードを保持したまま Celestigem にアップグレードするために使用されます"
+    "セレスティジェム テンプレートは、Blazegold 防具とツールをエンチャントとインストールされたアップグレードを保持したまま セレスティジェム にアップグレードするために使用されます"
   ],
   "quest.45A25221F54A1DEC.quest_desc": [
     "Ferricore レンチを使用してマシンを回転させることができますが、スワッパーを相互にリンクするためにも使用されます"
@@ -172,21 +172,21 @@
     "- Mental Obliteration"
   ],
   "quest.02B0CCD5607FF3B5.quest_desc": [
-    "Player Accessor はプレイヤーのインベントリとインターフェースする収納箱として機能します。GUI を使用して、Player Accessor の各面をプレイヤーのインベントリ、オフハンド、防具スロットとインターフェースするように設定できます"
+    "プレイヤーアクセッサー はプレイヤーのインベントリとインターフェースする収納箱として機能します。GUI を使用して、プレイヤーアクセッサー の各面をプレイヤーのインベントリ、オフハンド、防具スロットとインターフェースするように設定できます"
   ],
   "quest.5F5120451BA5B2FE.quest_desc": [
-    "Advanced マシンは、シンプルなバリエーションと同じ機能を持ちますが、作業エリアの設定が可能で、より多くのフィルタースロットがあり、エネルギーが必要です"
+    "高度 マシンは、シンプルなバリエーションと同じ機能を持ちますが、作業エリアの設定が可能で、より多くのフィルタースロットがあり、エネルギーが必要です"
   ],
   "quest.7F0B2D58361FB00E.title": "Just Dire Things",
   "quest.19E678E6EF9539DC.quest_desc": [
     "レッドストーン信号を出力し、1つのフィルタースロットを持つシンプルなセンサーです"
   ],
   "quest.1EA02BA24AF02256.quest_desc": [
-    "Eclipse Alloy Templetes は Celestigem 防具とツールをエンチャントとインストールされたアップグレードを保持したまま Eclipse Alloy にアップグレードするために使用されます"
+    "Eclipse Alloy Templetes は セレスティジェム 防具とツールをエンチャントとインストールされたアップグレードを保持したまま Eclipse Alloy にアップグレードするために使用されます"
   ],
   "quest.2D86D4403E0F4EB9.title": "ブレイズゴールド",
   "quest.05D8C6EF8FCD6250.quest_desc": [
-    "Primogel Goo は JDT で追加された最初のティアの Goo で、基本的なオーバーワールドの素材でクラフトできます",
+    "プリモジェル浸食体 は JDT で追加された最初のティアの Goo で、基本的なオーバーワールドの素材でクラフトできます",
     "",
     "解放されるクラフト:",
     "- Ferricore",
@@ -229,7 +229,7 @@
     "- Instant Break"
   ],
   "quest.70BF85E2D235BAD5.quest_desc": [
-    "Voidflame Coal を Blaze Ember Fuel に落とすと Unrefined Voidflame Fuel が作成されます。ティア 3 以上の Goo で Goo Spread を実行すると、Unrefined Voidflame Fuel が Voidflame Fuel に変換されます"
+    "ボイドフレイムコール を ブレイズエンバー燃料 に落とすと 未精製ボイドフレイム燃料 が作成されます。ティア 3 以上の Goo で Goo Spread を実行すると、未精製ボイドフレイム燃料 が ボイドフレイム燃料 に変換されます"
   ],
   "quest.24BA4B4EED0A9DBD.quest_desc": [
     "有効なアップグレード:",
@@ -289,7 +289,7 @@
   "quest.1705175C20CE91DD.title": "エクリプス合金",
   "task.5DD919AF75C92C8A.title": "道具",
   "quest.3D9964CB0440DD5A.quest_desc": [
-    "Blaze Ember を Polymorphic 液体に落とすと、Unrefined Blaze Ember Fuel が作られます。Tier Two goo 以上で Goo Spread を行うと、Unrefined Blaze Ember Fuel が Blaze Ember Fuel に変換されます"
+    "ブレイズエンバー を Polymorphic 液体に落とすと、未精製ブレイズエンバー燃料 が作られます。Tier Two goo 以上で Goo Spread を行うと、未精製ブレイズエンバー燃料 が ブレイズエンバー燃料 に変換されます"
   ],
   "quest.09485B63483B7A15.quest_desc": [
     "&lアビリティタイプ:&r アクティブ",
@@ -370,7 +370,7 @@
     "- Instant Break"
   ],
   "quest.4C54BD57CAB8A54B.quest_desc": [
-    "Blazebloom Goo は JDT で追加された2番目のティアの goo で、作成にはネザーの素材が必要です",
+    "ブレイズブルーム浸食体 は JDT で追加された2番目のティアの goo で、作成にはネザーの素材が必要です",
     "",
     "解放されるクラフト：",
     "- Blazegold",
@@ -445,7 +445,7 @@
     "",
     "&lアビリティ機能:&r",
     "",
-    "プレイヤーに Elytra を提供します。このアップグレードによって提供される Elytra は、歩行速度と走行速度のアップグレードの影響を受けることに注意してください"
+    "プレイヤーに エリトラ を提供します。このアップグレードによって提供される エリトラ は、歩行速度と走行速度のアップグレードの影響を受けることに注意してください"
   ],
   "quest.1705175C20CE91DD.quest_desc": [
     "Eclipse Alloy は JDT によって追加された新しい素材です。Eclipse Alloy は、ティア4の Goo を使用してネザライトブロックに Goo Spread を実行することで入手できます。Eclipse Alloy 鉱石は幸運の影響を受けます"
@@ -458,7 +458,7 @@
     "プレイヤーに段差自動昇りを提供します"
   ],
   "quest.25213DBA6E6CEDD2.quest_desc": [
-    "Shadowpulse Goo は JDT が追加した4番目で最後の段階の goo で、Ancient City と Warden の素材が必要です",
+    "シャドウパルス浸食体 は JDT が追加した4番目で最後の段階の goo で、Ancient City と Warden の素材が必要です",
     "",
     "解放されるクラフト：",
     "- Eclipse Alloy",
@@ -467,7 +467,7 @@
   "task.665A5DFA6270ADA6.title": "基本的な機械",
   "task.7197FBBA21C0F94A.title": "防具",
   "quest.079A415488A32076.quest_desc": [
-    "Blaze Ember は JDT によって追加された新しい素材です。Blaze Ember は Tier 2 以上の Goo を使用して Primal Coal Blocks に Goo Spread を実行することで入手できます。Blaze Ember 鉱石は幸運の影響を受けます"
+    "ブレイズエンバー は JDT によって追加された新しい素材です。ブレイズエンバー は Tier 2 以上の Goo を使用して Primal Coal Blocks に Goo Spread を実行することで入手できます。ブレイズエンバー 鉱石は幸運の影響を受けます"
   ],
   "quest.2A01CE9206DD4F8A.quest_desc": [
     "&lアビリティタイプ:&r パッシブ",
@@ -559,7 +559,7 @@
   ],
   "quest.5BD5737703F3F077.title": "フェリコア",
   "quest.60A4994078500F63.quest_desc": [
-    "Celestigem は JDT によって追加された新しい素材です。Celestigem はティア3以上の Goo を使用してダイアモンドブロックに Goo Spread を実行することで入手できます。Celestigem 鉱石は幸運の影響を受けます"
+    "セレスティジェム は JDT によって追加された新しい素材です。セレスティジェム はティア3以上の Goo を使用してダイアモンドブロックに Goo Spread を実行することで入手できます。セレスティジェム 鉱石は幸運の影響を受けます"
   ],
   "quest.5D4E51471F3939E0.quest_desc": [
     "能力:",
@@ -576,7 +576,7 @@
     "能力:",
     "- Air Burst: さらに改良された発射距離",
     "- Void Shift: 改良されたテレポート距離",
-    "- Eclipse Gate: 3x3エリアにポータブルホールを作成します。方向は対象ブロックの面に依存します。作成される穴の距離は設定可能です。Eclipse Gateはタイルエンティティには機能しません"
+    "- Eclipse Gate: 3x3エリアにポータブルホールを作成します。方向は対象ブロックの面に依存します。作成される穴の距離は設定可能です。エクリプスゲートはタイルエンティティには機能しません"
   ],
   "quest.517F0135926B15EE.quest_desc": [
     "すべてのシンプルなマシンにはレッドストーン制御が付いており、一部にはフィルタリング機能もあります"
@@ -612,10 +612,10 @@
     "発動時に近くのMobを押し返します。クールダウンがあります"
   ],
   "quest.242F74010488F261.quest_desc": [
-    "Fuel Canister は燃料をより効率的に使用できるアイテムです。50,000 の燃料を保存でき、各燃焼アイテムは製錬されるアイテムの量に応じて異なる燃料値を持ちます。1つの燃料で1つのアイテムを製錬できます"
+    "燃料用容器 は燃料をより効率的に使用できるアイテムです。50,000 の燃料を保存でき、各燃焼アイテムは製錬されるアイテムの量に応じて異なる燃料値を持ちます。1つの燃料で1つのアイテムを製錬できます"
   ],
   "quest.16E02F671FBE9148.quest_desc": [
-    "Portal Gun は、パワーを使用して2つのポータルを作成し、2点間をテレポートするアイテムです。左クリックで青いポータルを、右クリックでオレンジのポータルを発射し、Shift + 右クリックで両方のポータルを削除します"
+    "ポータルガン は、パワーを使用して2つのポータルを作成し、2点間をテレポートするアイテムです。左クリックで青いポータルを、右クリックでオレンジのポータルを発射し、Shift + 右クリックで両方のポータルを削除します"
   ],
   "quest.0272E58516A0C284.quest_desc": [
     "有効なアップグレード:",
@@ -673,7 +673,7 @@
     "プレイヤーに暗視効果を付与します"
   ],
   "quest.49EF8A4346AEF582.quest_desc": [
-    "Eclipse Ember を Voidflame Fuel に落とすと、Unrefined Eclipse Ember Fuel が作成されます。Tier Four goo で Goo Spread を実行すると、Unrefined Eclipse Ember Fuel が Eclipse Ember Fuel に変換されます"
+    "エクリプスエンバー を ボイドフレイム燃料 に落とすと、未精製エクリプスエンバー燃料 が作成されます。Tier Four goo で Goo Spread を実行すると、未精製エクリプスエンバー燃料 が エクリプスエンバー燃料 に変換されます"
   ],
   "quest.7D1D2A4E07E98709.quest_desc": [
     "ブロックを破壊するためにツールを必要とするシンプルなブロックブレイカーです"

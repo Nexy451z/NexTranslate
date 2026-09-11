@@ -48,7 +48,7 @@
   "quest.24150DE600C2D761.title": "&4&lBlood",
   "quest.555ED1E39131D91B.title": "&b&l氷術師",
   "quest.639531AB27DCD267.quest_desc": [
-    "&7Runes&r は私たちのクラスとその部品を作る方法です。&7Blank Rune&r を入手するには、&4&lDead King&r を倒すか、Shriving Stone で Inscribed Rune を消去します。\\n\\n8つの異なるクラス（1つの隠しクラス）があり、それぞれに独自の&3Scrolls&r、Focus Material、Upgrades、Outfits があります"
+    "&7Runes&r は私たちのクラスとその部品を作る方法です。&7Blank Rune&r を入手するには、&4&lDead King&r を倒すか、Shriving Stone で Inscribed Rune を消去します。\\n\\n8つの異なるクラス（1つの隠しクラス）があり、それぞれに独自の&3Scrolls&r、Focus Material、アップグレード、Outfits があります"
   ],
   "quest.06F8EDF7513F8611.title": "&dEpic&r インク",
   "quest.1A0368CB49B8CBFF.quest_subtitle": "熱い！熱い！熱い！",
@@ -79,7 +79,7 @@
     "{image:atm:textures/questpics/iron_spells/spells_knight.png width:100 height:200 align:center}"
   ],
   "quest.73D6B980D35082A0.quest_desc": [
-    "説明に時間がかかるので、気長に聞いてください。\\n\\nまず、&aEvoker Fort&r を見つけます。\\n次に、その中に隠された Research Book を見つけます。そして、&aFort&r に人質として捕らえられている Trader に翻訳してもらいます。（私たちのクエスト翻訳者のような人質です！）\\n翻訳が完了したら、&6Village&r の &6&lPriest&r に持っていき、&eSpell Book&r と交換します！\\n\\n&6Holy Spells&r にブーストを与えます。人質の Trader はとても珍しいので、あきらめずに探し続けてください！"
+    "説明に時間がかかるので、気長に聞いてください。\\n\\nまず、&aEvoker Fort&r を見つけます。\\n次に、その中に隠された Research Book を見つけます。そして、&aFort&r に人質として捕らえられている 村人取引機 に翻訳してもらいます。（私たちのクエスト翻訳者のような人質です！）\\n翻訳が完了したら、&6Village&r の &6&lPriest&r に持っていき、&eSpell Book&r と交換します！\\n\\n&6Holy Spells&r にブーストを与えます。人質の 村人取引機 はとても珍しいので、あきらめずに探し続けてください！"
   ],
   "quest.60FAD8BF235E381B.title": "&bレア&rインク",
   "quest.652A14E17DDE97E6.title": "&dドラゴンスキン・スペルブック",
@@ -92,7 +92,7 @@
   "quest.78AA7BFABBFB9973.title": "&2ドルイドの書",
   "quest.24BAC1C0392E950E.title": "&6司祭の衣装",
   "quest.445C21949ADA1FE3.quest_desc": [
-    "Ancient Codex と &6オールザモディウム インゴット&r と Template を作業台で組み合わせます。\\n\\nTemplate は &9Ancient City&r で Suspicious Clay をブラシで掘ることで入手できます"
+    "Ancient Codex と &6オールザモディウム インゴット&r と テンプレート を作業台で組み合わせます。\\n\\nTemplate は &9Ancient City&r で 怪しげな粘土 をブラシで掘ることで入手できます"
   ],
   "quest.19542103E042BDB5.quest_desc": [
     "{image:atm:textures/questpics/iron_spells/spells_outfit_shadow.png width:60 height:100 align:center}"
