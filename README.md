@@ -14,6 +14,8 @@ Japanese (`ja_jp`) translation resource pack for Minecraft, aimed at All the Mod
 Pick the zip for your Minecraft version and put it in `.minecraft/resourcepacks/`, then
 enable it in Options → Resource Packs and set the game language to 日本語.
 
+Latest release: https://github.com/Nexy451z/NexTranslate/releases/latest
+
 - 1.21.1: [`1.21.1/NexTr.zip`](1.21.1/NexTr.zip)
 - 26.1.2: [`26.1.2/NexTr-ATM11.zip`](26.1.2/NexTr-ATM11.zip)
 
