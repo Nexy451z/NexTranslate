@@ -1,0 +1,6 @@
+{
+  "button.keybindspurger.purge": "このカテゴリのキー設定をすべて消去",
+  "button.keybindspurger.purge_all": "すべてのキー設定を消去",
+  "button.keybindspurger.purge_non_vanilla": "バニラ以外のキー設定をすべて消去",
+  "button.keybindspurger.reset": "このカテゴリのキー設定をすべてリセット"
+}

@@ -1,0 +1,18 @@
+{
+  "tooltip.cucumber.fluid_tags": "流体タグ:",
+  "subtitle.cucumber.watering_can": "じょうろ",
+  "tooltip.cucumber.hold_shift_for_info": "§e§oShift キー§r§7 で詳細情報を表示",
+  "tooltip.cucumber.uses_left": "残り使用回数: %s",
+  "tooltip.cucumber.one_use_left": "残り使用回数: 1回",
+  "tooltip.cucumber.unlimited_uses": "無制限に使用可能",
+  "tooltip.cucumber.empty": "空",
+  "tooltip.cucumber.filled": "充填済み",
+  "tooltip.cucumber.hold_ctrl_for_tags": "Ctrl キーでタグを表示",
+  "tooltip.cucumber.data_components": "データコンポーネント:",
+  "tooltip.cucumber.hold_alt_for_data_components": "Alt キーでデータコンポーネントを表示",
+  "tooltip.cucumber.block_tags": "ブロックタグ:",
+  "tooltip.cucumber.item_tags": "アイテムタグ:",
+  "tooltip.cucumber.not_yet_implemented": "未実装",
+  "message.cucumber.filled_energy": "この %s はあなたのエネルギーを吸収しました！",
+  "message.cucumber.filled_energy_error": "この %s はあなたのエネルギーを吸収できません。"
+}

@@ -1,0 +1,13 @@
+{
+  "iris_search.button.search": "検索",
+  "iris_search.button.clear": "クリア",
+  "iris_search.tooltip.search": "シェーダー設定を検索 (Ctrl + F)",
+  "iris_search.tooltip.clear": "シェーダー検索を終了 (Esc)",
+  "iris_search.option_search.hint": "設定を検索...",
+  "iris_search.pack_search.hint": "シェーダーパックを検索...",
+  "iris_search.pack_search.no_results": "一致するシェーダーパックがありません",
+  "iris_search.option_search.tip.menu": "§7ヒント: §r§ename:§r メニュー内を検索 - §ewater:§r foam",
+  "iris_search.option_search.tip.changed": "§7ヒント: §r§e*§r 変更された設定のみ表示 - §e*§remissive",
+  "fml.menu.mods.info.description.iris_search": "Iris MODに検索バーを追加するMOD。",
+  "modmenu.descriptionTranslation.iris_search": "Iris MODに検索バーを追加するMOD。"
+}

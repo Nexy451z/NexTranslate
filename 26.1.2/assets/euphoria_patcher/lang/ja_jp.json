@@ -1,0 +1,19 @@
+{
+  "euphoria_patcher.button.support": "EPを支援",
+  "euphoria_patcher.button.update": "EPを更新！",
+  "euphoria_patcher.tooltip.support": "Euphoria Patchesを支援！",
+  "euphoria_patcher.tooltip.update": "Euphoria Patchesを更新！",
+  "euphoria_patcher.tooltip.remove": "支援ボタンを削除しますか？",
+  "euphoria_patcher.tooltip.remove.hint": "(SHIFT + クリックで削除)",
+  "euphoria_patcher.donation.line1": "こんにちは！",
+  "euphoria_patcher.donation.line2": "%s をお楽しみいただけて嬉しいです！",
+  "euphoria_patcher.donation.line3": "新しい設定やエフェクト、機能の追加には %s の作業が必要です。",
+  "euphoria_patcher.donation.line4": "ワールドの追加の雰囲気を気に入っていただけた場合は、%s をご検討ください。",
+  "euphoria_patcher.donation.line5": "Euphoria Patches をご利用いただきありがとうございます <3",
+  "euphoria_patcher.donation.line2.highlight": "Euphoria Patches",
+  "euphoria_patcher.donation.line3.highlight": "数え切れないほどの時間",
+  "euphoria_patcher.donation.line4.highlight": "プロジェクトの支援",
+  "euphoria_patcher.donation.button": "プロジェクトを支援",
+  "fml.menu.mods.info.description.euphoria_patcher": "Complementary ShadersにEuphoria Patchesアドオンを適用するMOD。\nシェーダーパック設定メニューからEuphoria Patchesの設定を有効化・変更できます。\n問題の報告はDiscordまで！",
+  "modmenu.descriptionTranslation.euphoria_patcher": "Complementary ShadersにEuphoria Patchesアドオンを適用するMOD。\nシェーダーパック設定メニューからEuphoria Patchesの設定を有効化・変更できます。\n問題の報告はDiscordまで！"
+}

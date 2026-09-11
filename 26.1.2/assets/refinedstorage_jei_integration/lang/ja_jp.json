@@ -1,0 +1,13 @@
+{
+  "gui.refinedstorage_jei_integration.grid.synchronizer": "JEI 同期",
+  "gui.refinedstorage_jei_integration.grid.synchronizer.help": "検索バーのテキストを JEI フィルターと同期します。",
+  "gui.refinedstorage_jei_integration.grid.synchronizer.two_way": "JEI 双方向同期",
+  "gui.refinedstorage_jei_integration.grid.synchronizer.two_way.help": "検索バーと JEI フィルターのテキストを双方向に相互同期します。",
+  "gui.refinedstorage_jei_integration.transfer.missing_but_all_autocraftable": "不足アイテムあり",
+  "gui.refinedstorage_jei_integration.transfer.missing_but_some_autocraftable": "不足アイテムあり",
+  "gui.refinedstorage_jei_integration.transfer.ctrl_click_to_autocraft": "Ctrl + クリックで不足品を自動クラフト",
+  "gui.refinedstorage_jei_integration.transfer.all_autocraftable": "すべて自動クラフト可能",
+  "gui.refinedstorage_jei_integration.transfer.some_autocraftable": "一部自動クラフト可能",
+  "alias.refinedstorage_jei_integration.refinedstorage1_disk_manipulator": "ディスクマニピュレーター",
+  "gui.refinedstorage_jei_integration.transfer.cmd_click_to_autocraft": "CMD + クリックで自動クラフト"
+}

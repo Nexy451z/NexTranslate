@@ -1,0 +1,12 @@
+{
+  "itemGroup.underwater_village": "Underwater Village",
+  "block.underwater_village.example_block": "サンプルブロック",
+  "item.underwater_village.example_item": "サンプルアイテム",
+  "underwater_village.configuration.title": "Underwater Village 設定",
+  "underwater_village.configuration.section.underwater_village.common.toml": "Underwater Village 設定",
+  "underwater_village.configuration.section.underwater_village.common.toml.title": "Underwater Village 設定",
+  "underwater_village.configuration.items": "アイテム一覧",
+  "underwater_village.configuration.logDirtBlock": "土ブロックのログ",
+  "underwater_village.configuration.magicNumberIntroduction": "マジックナンバーの説明",
+  "underwater_village.configuration.magicNumber": "マジックナンバー"
+}

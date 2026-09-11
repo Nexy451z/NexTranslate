@@ -1,0 +1,5 @@
+{
+  "mod.refinedfluidsubstitution": "Refined Fluid Substitution",
+  "item.refinedfluidsubstitution.fluid_substitution_pattern": "流体代用パターン",
+  "item.refinedfluidsubstitution.fluid_substitution_pattern.help": "自動クラフトで満たされたバケツの代わりに貯蔵された流体を使用できるようにします。"
+}

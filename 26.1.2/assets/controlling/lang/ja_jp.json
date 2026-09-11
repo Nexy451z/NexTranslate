@@ -1,0 +1,14 @@
+{
+  "options.sortNone": "整列なし",
+  "options.sortAZ": "名前順 (A → Z)",
+  "options.sortZA": "名前逆順 (Z → A)",
+  "options.sortKeyAZ": "割り当てキー順 (A → Z)",
+  "options.sortKeyZA": "割り当てキー逆順 (Z → A)",
+  "options.showAll": "すべて表示",
+  "options.showConflicts": "競合を表示",
+  "options.showNone": "未割り当てを表示",
+  "options.availableKeys": "利用可能なキー",
+  "options.sort": "並び替え",
+  "options.toggleFree": "空きキー切替",
+  "options.confirmReset": "初期化しますか？"
+}

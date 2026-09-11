@@ -1,0 +1,12 @@
+{
+  "mod.interdimensional_wireless_transmitter": "Interdimensional Wireless Transmitter",
+  "block.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter": "次元間無線送信機",
+  "gui.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter.distance": "無限の射程",
+  "item.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter.help": "ワイヤレスグリッドなどのアイテムに無線ネットワークアクセスを提供します。無限の射程を持ち、次元を超えて機能します。",
+  "text.autoconfig.interdimensionalwirelesstransmitter.option.interdimensionalWirelessTransmitter": "次元間無線送信機",
+  "text.autoconfig.interdimensionalwirelesstransmitter.option.interdimensionalWirelessTransmitter.tooltip": "次元間無線送信機の設定。",
+  "text.autoconfig.interdimensionalwirelesstransmitter.option.interdimensionalWirelessTransmitter.energyUsage": "エネルギー消費量",
+  "text.autoconfig.interdimensionalwirelesstransmitter.option.interdimensionalWirelessTransmitter.energyUsage.tooltip": "次元間無線送信機のエネルギー消費量。",
+  "advancements.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter": "次元間 >>POWER<<",
+  "advancements.interdimensionalwirelesstransmitter.interdimensional_wireless_transmitter.description": "次元間無線送信機を使用して、無限の射程で次元を超えてネットワーク信号を送信する"
+}

@@ -1,5 +1,7 @@
-# The 26.1.2 pack is not published yet (add it when it is complete)
-26.1.2/
+# The 26.1.2 pack uses local AI tooling that is not part of the repository
+26.1.2/batches/
+26.1.2/NexTr-ATM11/
+26.1.2/__pycache__/
 
 # Local backups
 *.bak

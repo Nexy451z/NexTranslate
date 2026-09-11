@@ -1,0 +1,12 @@
+{
+  "itemGroup.nomorecraters": "No More Craters",
+  "block.nomorecraters.example_block": "サンプルブロック",
+  "item.nomorecraters.example_item": "サンプルアイテム",
+  "nomorecraters.configuration.title": "No More Craters 設定",
+  "nomorecraters.configuration.section.nomorecraters.common.toml": "No More Craters 設定",
+  "nomorecraters.configuration.section.nomorecraters.common.toml.title": "No More Craters 設定",
+  "nomorecraters.configuration.items": "アイテム一覧",
+  "nomorecraters.configuration.logDirtBlock": "土ブロックのログ",
+  "nomorecraters.configuration.magicNumberIntroduction": "マジックナンバーの説明",
+  "nomorecraters.configuration.magicNumber": "マジックナンバー"
+}

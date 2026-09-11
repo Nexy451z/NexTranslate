@@ -1,0 +1,18 @@
+{
+  "key.category.universalgrid.keymappings": "Universal Grid",
+  "item.universalgrid.wireless_universal_grid": "ワイヤレスユニバーサルグリッド",
+  "item.universalgrid.creative_wireless_universal_grid": "クリエイティブワイヤレスユニバーサルグリッド",
+  "key.universalgrid.open_wireless_universal_grid": "ワイヤレスユニバーサルグリッドを開く",
+  "key.universalgrid.switch_wireless_universal_grid_type": "ワイヤレスユニバーサルグリッドのタイプを切り替え",
+  "text.autoconfig.universalgrid.title": "Universal Grid 設定",
+  "universalgrid.configuration.title": "Universal Grid 設定",
+  "universalgrid.configuration.section.universalgrid.common.toml": "Universal Grid 設定",
+  "universalgrid.configuration.section.universalgrid.common.toml.title": "Universal Grid 設定",
+  "gui.universalgrid.grid.grid_type": "グリッドタイプ",
+  "text.autoconfig.universalgrid.option.wirelessUniversalGrid": "ワイヤレスユニバーサルグリッド",
+  "text.autoconfig.universalgrid.option.wirelessUniversalGrid.tooltip": "ワイヤレスユニバーサルグリッドの設定。",
+  "text.autoconfig.universalgrid.option.wirelessUniversalGrid.energyCapacity": "エネルギー容量",
+  "text.autoconfig.universalgrid.option.wirelessUniversalGrid.energyCapacity.tooltip": "ワイヤレスユニバーサルグリッドのエネルギー容量。",
+  "text.autoconfig.universalgrid.option.wirelessUniversalGrid.gridType": "グリッドタイプ",
+  "text.autoconfig.universalgrid.option.wirelessUniversalGrid.gridType.tooltip": "ワイヤレスユニバーサルグリッドの選択されたグリッドタイプ。"
+}

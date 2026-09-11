@@ -1,0 +1,7 @@
+{
+  "betteradvancedtooltips.configuration.remove_creative_tab_tooltip": "クリエイティブタブのツールチップを削除",
+  "betteradvancedtooltips.configuration.remove_component_count_tooltip": "コンポーネント数ツールチップを削除",
+  "betteradvancedtooltips.configuration.fuel_tooltip": "燃料ツールチップ",
+  "betteradvancedtooltips.configuration.tag_tooltip": "タグツールチップ",
+  "betteradvancedtooltips.configuration.component_tooltip": "コンポーネントツールチップ"
+}
