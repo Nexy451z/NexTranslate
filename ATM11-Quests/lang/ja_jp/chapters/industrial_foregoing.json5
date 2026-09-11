@@ -1,14 +1,14 @@
 {
   "task.335D80E83360A7DB.title": "エーテルガス...？うん。",
   "quest.06094615950AC062.title": "その他のコンベヤーアップグレード",
-  "quest.7E39FB9F3E973009.title": "Ether Gas",
+  "quest.7E39FB9F3E973009.title": "エーテルガス",
   "quest.7B4AF35313D7D779.quest_subtitle": "ティア: &64",
   "quest.3E6706BC4C318A40.title": "その他のマシン",
   "quest.3CB7884B7B32CF00.quest_subtitle": "エーテルガス？ふーん？",
   "quest.55820773BDD5319D.quest_desc": [
     "&aインダストリアルフォーゴーイング&fへようこそ！"
   ],
-  "quest.418E57E34FFC19E1.quest_subtitle": "Void Miner",
+  "quest.418E57E34FFC19E1.quest_subtitle": "ヴォイドマイナー",
   "quest.33532408B21A5378.quest_desc": [
     "Pitiful Generator は石炭のような燃料を使用して少量のFEを生成します"
   ],
@@ -24,7 +24,7 @@
   "quest.0E8647B8EB4AAC41.quest_desc": [
     "平和なモブ → より多くのピンクスライム\\n敵対的なモブ → より多くの肉"
   ],
-  "quest.7B4AF35313D7D779.title": "&6Supreme Machine Frame",
+  "quest.7B4AF35313D7D779.title": "&6最高級マシンフレーム",
   "quest.55820773BDD5319D.title": "インダストリアルフォーゴーイング",
   "quest.4DB5DD6E20619B4D.quest_desc": [
     "マシンを改良するために使用されます"
@@ -41,13 +41,13 @@
     "Dissolution Chamber はより高度なマシンをクラフトするために使用します。\\n\\nクラフトに必要なアイテムと共に特定の液体を入れる必要があります。JEI で確認してください"
   ],
   "quest.2CCFEE98FE3B2E97.title": "ブロック",
-  "quest.41E8550FC36ABCA5.title": "Infinity Tools",
+  "quest.41E8550FC36ABCA5.title": "インフィニティツール",
   "quest.55820773BDD5319D.quest_subtitle": "ティア: &a1",
   "quest.418E57E34FFC19E1.title": "レーザードリル（ヴォイドマイナー）",
   "quest.4C366515E3CCB0B2.quest_desc": [
     "チューブを通した肉、美味しいです"
   ],
-  "quest.0BCCDE24D378F260.title": "&dAdvanced Machine Frame",
+  "quest.0BCCDE24D378F260.title": "&dアドバンスドマシンフレーム",
   "quest.690CFF61CE787D43.quest_desc": [
     "プラスチックは &bIndustrial Foregoing&r のメインリソースです。これで非常に便利なマシンにアクセスできるようになりました！"
   ],
@@ -99,7 +99,7 @@
   "quest.2F69010E1FA2787D.quest_desc": [
     "これらのクエストは &6AllTheModsスタッフ &rまたは &2コミュニティ寄与者 &rによって AllTheModsモッドパック 内での使用目的のために作成されました。\\n\\nすべての&6AllTheMods&rパックは &eAll Rights Reserved &r（著作権留保）ライセンス下のため、これらのクエストは &6AllTheModsチーム &rにより公式に配布されていない公開パッケージにおいて、明示的な許可なく本クエストを使用することは禁止されています。\\n\\nこのクエストは意図的に非表示になっています。クエストが見えている場合は編集モードになっています。"
   ],
-  "quest.0FAAE744E156D8EF.quest_subtitle": "Mycelial Reactor, huh?",
+  "quest.0FAAE744E156D8EF.quest_subtitle": "マイセリウムリアクター？",
   "quest.0EA9E52B67B533DF.quest_desc": [
     "溶かすとプラスチックが得られます。これはインダストリアルフォーゴーイングの主要なリソースです"
   ],
@@ -247,7 +247,7 @@
     "さらに、&#27AEB9ウォーデン&r をステイシス状態にする前に、完全に出現していることを確認してね。"
   ],
   "quest.79D48F8F31B152C3.quest_subtitle": "とにかく速く！",
-  "quest.79D48F8F31B152C3.title": "&bIndustrial Foregoing &#27AEB9Souls",
+  "quest.79D48F8F31B152C3.title": "&bIndustrial Foregoing &#27AEB9ソウル",
   "quest.7CB4D47ABC295B92.quest_desc": [
     "ポーションを醸造するよ。通常の醸造台と同じように、燃料としてブレイズパウダーが必要で、ボトルを使うんだ。でも醸造台と違って、ボトルに水を自動で補充できるよ。\n\n他のクエストのようにマシンの簡単な概要を説明する代わりに、このマシンの自動化構成は別のクエストで紹介するね。なにせかなりクセがあって、ところどころ直感的じゃないからね。"
   ],

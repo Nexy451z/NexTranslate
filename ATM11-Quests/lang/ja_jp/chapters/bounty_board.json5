@@ -111,7 +111,7 @@
     "&8&lThe Slider&rは&8Sentry Ruins&rに出現します。\\n\\n体力は350&4ハート&rで、ツルハシでしかダメージを与えられません。\\n\\n直線的に移動し、地面（またはあなた）に叩きつけてダメージを与えます。\\n\\n体力が100&4ハート&rまで削られると、移動と攻撃が以前より速くなります。"
   ],
   "quest.0553F06757C83B2C.quest_subtitle": "Aether 2",
-  "quest.0553F06757C83B2C.title": "&8&lThe Slider",
+  "quest.0553F06757C83B2C.title": "&8&lスライダー",
   "quest.069BAF7F52351779.title": "すべての&cブレイズ",
   "quest.06E4F2B60A35BFC2.quest_desc": [
     "アンデッドなのはどちら？&bノーチラス&rか&bライダー&rか？\\n\\n両方です！\\n\\n一部の&bドラウンド&rは、&bトライデント&rを持った&bゾンビノーチラス&rに乗って出現することがあります。\\n\\n&bドラウンド&rが厄介でなかったかのように…少なくとも、&bドラウンド&rを倒した後に&bノーチラス&rをテイムしてみることはできます（&bドラウンド&rを倒す際にノーチラスを攻撃していなければ）。"
@@ -154,7 +154,7 @@
     "&cRotbeast&rは、&cRot Mobs&rが出現するあらゆる場所に出現するミニボスです。\\n\\nこの巨獣は80&4ハート&rと防具値4を持っています。\\n\\n&cRotbeast&rはアイアンゴーレムのように攻撃しますが、攻撃が当たると他の&cRot Mob&rと同様に&cRot Infection&rを付与してきます。\\n\\nこの巨人を倒すと&cUtheric Shards&rをドロップします。"
   ],
   "quest.2858D525BF3859BD.quest_subtitle": "Undergarden",
-  "quest.2858D525BF3859BD.title": "&cRotbeast",
+  "quest.2858D525BF3859BD.title": "&cロットビースト",
   "quest.29C694D1E506A2F7.title": "大量の&4クモ",
   "quest.29EFA8ABC8823B4C.title": "数体の&3ゾンビ",
   "quest.36BA83035E215D49.quest_desc": [
@@ -197,7 +197,7 @@
     "&e&lPiglich&rは&3&lThe Other&rのピラミッドに出現します。\\n\\n彼らは9999&4HP&rを持っています。\\n\\n彼らを倒すことが&ePiglich Heart&rを入手する唯一の方法です。"
   ],
   "quest.4E3D118B3C80D8A4.quest_subtitle": "AllTheModium",
-  "quest.4E3D118B3C80D8A4.title": "&e&lPiglich",
+  "quest.4E3D118B3C80D8A4.title": "&e&lピグリッチ",
   "quest.50F064E817E6B71B.title": "数体の&7ピリジャー",
   "quest.5444DC19B7956063.title": "大量の&3ゾンビ",
   "quest.5A997A497AF5736A.quest_desc": [
@@ -208,7 +208,7 @@
   "quest.5D8E259D3F0CAE29.quest_desc": [
     "Bounty Boardは、殺しの報酬を得るための任意のクエストページです。\\n倒したモブの記録をつけるのにも役立ちます！"
   ],
-  "quest.5D8E259D3F0CAE29.title": "&4&lBounty Board",
+  "quest.5D8E259D3F0CAE29.title": "&4&lバウンティボード",
   "quest.621D0D460BF89340.title": "すべての&7ピリジャー",
   "quest.630B56B52BD0861B.quest_desc": [
     "&eCamel Husk&rは砂漠の暗闇に出現することがあります。\\n\\n鉄の槍を持った&eハスク&rが&eCamel Husk&rに乗り、&eParched&rが同乗しています。\\n\\n詳細をすべて知っている者にとっては恐ろしい光景です。あなたもまもなくそうなるでしょう…\\n\\n&eラクダ&rに乗っているため、ジャンプしなければ近接武器で攻撃できません。\\n\\n彼らは鉄の槍も持っており、&eCamel Husk&rの速度による追加ダメージを与えてきます。さらに&eParched&rは弱体化の矢を放ちます！\\n\\n私は近づきませんが、&eハスク&rと&eParched&rを倒せば&eCamel Husk&rを自分のものにできます！"
@@ -229,7 +229,7 @@
     "&a&lForgotten Guardian&rは&2&lUndergarden&rのカタコンベに出現します。\\n\\n体力は80&4ハート&rで、防具値は10です。\\n\\n&a&lForgotten Guardian&rはプレイヤーを執拗に追跡し、殺すためなら道を塞ぐブロックを粉砕してでも進んできます。\\n\\n彼らを止めることが&aForgotten Nuggets&rを入手する唯一の方法です。"
   ],
   "quest.7684C1CF274EA5B7.quest_subtitle": "Undergarden",
-  "quest.7684C1CF274EA5B7.title": "&a&lForgotten Guardian",
+  "quest.7684C1CF274EA5B7.title": "&a&lフォーゴトンガーディアン",
   "quest.76C99FF1F2827F74.title": "数体の&cブレイズ",
   "quest.7CD8E97613E654DA.title": "大量の&aスライム",
   "quest.7DD807F452EE49E2.title": "すべての&2クリーパー",
