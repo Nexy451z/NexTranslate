@@ -23,7 +23,7 @@
   "ftbessentials.rtp.found": "%s 回の試行後に適切な場所が見つかりました @ %s",
   "ftbessentials.rtp.failed": "テレポート先の有効な場所が見つかりませんでした。",
   "ftbessentials.jump.failed": "ジャンプできません: %s",
-  "ftbessentials.kit.added_items": "キット 「%s」 のアイテムをフォーカスされたインベントリに追加しました",
+  "ftbessentials.kit.added_items": "キット「%s」のアイテムをフォーカスされたインベントリに追加しました",
   "ftbessentials.kit.no_items": "キットに追加するアイテムがありません。",
   "ftbessentials.kit.cant_store": "キットをインベントリに保存できません: %s",
   "ftbessentials.kit.created": "キット「%s」が作成されました",

@@ -9,7 +9,7 @@
   "item.stepcrafter.step_crafter.help": "再帰自動クラフト用のパターンを受け付け、最小・最大しきい値を設定できる。設定パターンの出力がネットワーク内で最小を下回ると、最大まで自動でクラフトする。",
   "item.stepcrafter.step_requester.help": "設定した資源が設定可能な最小を下回ると、設定可能な最大に達するまで設定可能なバッチサイズで自動クラフト機に生産を要求する。",
   "item.stepcrafter.step_crafter_manager.help": "すべてのステップクラフターを1つの画面で管理できる。",
-  "item.stepcrafter.step_crafting_monitor.help": "ストレージ ネットワーク内のステップクラフト作業の状態を表示し、中止できる。",
+  "item.stepcrafter.step_crafting_monitor.help": "ストレージネットワーク内のステップクラフト作業の状態を表示し、中止できる。",
   "item.stepcrafter.step_requester_manager.help": "すべてのステップリクエスターを1つの画面で管理できる。",
   "gui.stepcrafter.grid.stock": "在庫",
   "gui.stepcrafter.step_crafter.filter_help": "在庫維持のため再帰的にたどるパターン",

@@ -3,7 +3,7 @@
   "gui.refinedstorage.grid.sorting.type.id": "ID順",
   "gui.refinedstorage.grid.cmd_click_to_autocraft": "Cmd + クリックで自動クラフト",
   "gui.refinedstorage.grid.search_help.tag_search": "'#' で特定のタグを持つアイテムを絞り込み検索",
-  "gui.refinedstorage.grid.search_help.tooltip_search": "'$' で説明文 から検索",
+  "gui.refinedstorage.grid.search_help.tooltip_search": "'$' で説明文から検索",
   "gui.refinedstorage.grid.tenth_anniversary_ribbon": "10周年！",
   "gui.refinedstorage.grid.tenth_anniversary_ribbon.click_to_learn_more": "クリックして詳細を表示",
   "gui.refinedstorage.tenth_anniversary.title": "Refined Storage 10周年！",

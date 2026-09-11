@@ -23,8 +23,12 @@ this pack fall back to the mod's built-in language file, then to English.
 
 - 316 namespaces (all mods in the ATM11 mod list)
 - ~85,000 translation keys
-- Untranslated keys (still English) are mostly item/block names in a few large content
-  mods; the rest falls back to each mod's built-in Japanese when available.
+- Translation review (2026-09): filled the remaining English strings for the large content
+  mods (chisel, Ice and Fire, Energized Power, Aether II, Neo Vitae, Mahou Tsukai, ...),
+  fixed placeholder problems and reverted overrides that replaced a mod's own Japanese.
+- Strings intentionally kept in English: mod names, unit symbols (FE/RF/mB/...), Roman
+  numerals, key binding names, and scientific (Latin) species names shown by
+  Productive Farming / Productive Trees.
 
 ## Notes
 

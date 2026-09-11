@@ -57,7 +57,7 @@
   "tooltip.oracle_index.close_screen": "Wikiを閉じる。",
   "oracle_index.button.docs": "ドキュメント",
   "oracle_index.button.content": "コンテンツ",
-  "oracle_index.tooltip.docs": "Hold [ALT] for Documentation",
+  "oracle_index.tooltip.docs": "[ALT]長押しでドキュメントを表示",
   "oracle_index.callout.default": "注記",
   "oracle_index.callout.info": "情報",
   "oracle_index.callout.warning": "警告",

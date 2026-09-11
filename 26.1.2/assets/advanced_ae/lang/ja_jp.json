@@ -18,7 +18,7 @@
   "advanced_ae.configuration.quantumArmorRegenerationPerTick": "ティック毎の再生量",
   "advanced_ae.configuration.quantumArmorStrengthBoost": "攻撃力ブースト",
   "advanced_ae.configuration.quantumArmorSwimSpeedBoost": "遊泳速度ブースト",
-  "advanced_ae.configuration.quantumComputerAcceleratorThreads": "Quantumコンピューター アクセラレーターのスレッド数",
+  "advanced_ae.configuration.quantumComputerAcceleratorThreads": "Quantumコンピューターアクセラレーターのスレッド数",
   "advanced_ae.configuration.quantumComputerDataEntanglerMultiplication": "データもつれ器の倍率",
   "advanced_ae.configuration.quantumComputerMaxMultiThreaders": "マルチスレッダーの最大数",
   "advanced_ae.configuration.quantumComputerMaxSize": "Quantumコンピューターの最大サイズ",

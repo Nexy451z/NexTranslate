@@ -1,7 +1,7 @@
 {
   "iris.load.failure.shader": "シェーダーパックの読み込みに失敗しました！シェーダーの開発者へエラーをご報告ください。",
   "iris.load.failure.generic": "NeOculusでシェーダー読み込み中に問題が発生しました。NeOculus開発者へご報告ください。",
-  "iris.shaders.ssbofailure": "シェーダーが要求した機能 はお使いのGPUでサポートされていません。正常に動作しない可能性があります。",
+  "iris.shaders.ssbofailure": "シェーダーが要求した機能はお使いのGPUでサポートされていません。正常に動作しない可能性があります。",
   "iris.keybind.wireframe": "ワイヤーフレーム表示",
   "iris.keybinds": "ネオキュラス (NeOculus / 影MOD)",
   "iris.nec.failure.title": "[%s] Not Enough Crashes が検出されました！",

@@ -260,7 +260,7 @@
   "item.sophisticatedbackpacks.advanced_jukebox_upgrade": "上級ジュークボックスアップグレード",
   "item.sophisticatedbackpacks.advanced_jukebox_upgrade.tooltip": "複数の音楽レコードをセット可能で、ループやシャッフル再生に対応したポータブルジュークボックスにします",
   "item.sophisticatedbackpacks.stack_upgrade_starter_tier": "スタック拡張アップグレード (スターター)",
-  "item.sophisticatedbackpacks.stack_upgrade_starter_tier.tooltip": "バックパック内の1スロットあたりの最大スタック数を 1.5倍 に拡張します",
+  "item.sophisticatedbackpacks.stack_upgrade_starter_tier.tooltip": "バックパック内の1スロットあたりの最大スタック数を 1.5倍に拡張します",
   "item.sophisticatedbackpacks.stack_upgrade_tier_1": "スタックアップグレード Tier 1 (2倍)",
   "item.sophisticatedbackpacks.stack_upgrade_tier_1.tooltip": "バックパック内の1スロットあたりの最大スタック数を 2倍 (128個) に拡張します",
   "item.sophisticatedbackpacks.stack_upgrade_tier_2": "スタックアップグレード Tier 2 (4倍)",
