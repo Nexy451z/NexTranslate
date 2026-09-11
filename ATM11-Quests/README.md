@@ -27,16 +27,21 @@ the translations from the server automatically.
 
 ## Status
 
-The bundled ATM11 Japanese quest text is largely low-quality machine translation.
-This project rewrites it chapter by chapter:
+**Complete.** All chapters are translated/reviewed (8,200+ keys):
 
 | Phase | Scope | Status |
 |---|---|---|
 | 1 | Top-level files (chapter list, chapter groups, reward tables, file title) | done |
 | 2 | `welcome` + `tips_and_tricks` (intro quests) | done |
-| 3 | Basic chapters (`basic_tools`, `basic_armor`, `basic_power`, `basic_logistics`, ...) | planned |
-| 4 | Main questline chapters (`achapter_1..4`, `chapter_2/3`) | planned |
-| 5 | Mod chapters (alphabetical, biggest first) | planned |
+| 3 | Basic chapters (`basic_tools`, `basic_armor`, `basic_power`, `basic_logistics`, ...) | done |
+| 4 | Main questline chapters (`achapter_1`, `achapter_2r`, `chapter_2_the_star`, ...) | done |
+| 5 | All mod chapters (productive_bees, mekanism, create, draconic_evolution, ...) | done |
+
+Untranslated or missing keys were rewritten, and leftover machine-translation
+mistakes (wrong item names, broken amounts, mixed English) were corrected.
+
+Remaining English text is intentional: mod names, units (`512,000mb`), hidden
+placeholder entries, and image-only descriptions.
 
 Formatting codes (`&a`, `&#RRGGBB`, `\&`, `{@pagebreak}`, `\n`) are preserved exactly.
 
