@@ -343,7 +343,7 @@
   "sodium-extra.option.show_fps_extended": "FPSの拡張表示",
   "sodium-extra.option.show_fps_extended.tooltip": "オーバーレイに現在のFPSとあわせて追加のFPS統計（最大・平均・最小）を表示する。",
   "sodium-extra.option.single_fog": "単一の霧",
-  "sodium-extra.option.single_fog.tooltip": "Adjusts terrain fog distance for all dimensions.\nEnable Multi Dimension Fog to control fog per dimension.\n0: Use vanilla fog settings\n1–32: Set fog distance in chunks\n33: Maximum fog distance (effectively disables fog)",
+  "sodium-extra.option.single_fog.tooltip": "地形の霧の距離をすべてのディメンションで調整します。\n多次元の霧を有効にするとディメンションごとに調整できます。\n0: バニラの霧設定を使用\n1～32: 霧の距離をチャンク単位で設定\n33: 最大霧距離（実質的に霧を無効化）",
   "sodium-extra.option.sky": "空",
   "sodium-extra.option.sky.tooltip": "空を描画する。",
   "sodium-extra.option.sky_colors": "空の色",
